@@ -1,0 +1,161 @@
+{
+  "style": "Handmade gouache-and-ink atelier rendered with a premium mobile polish. The base is warm cream cold-press paper with visible fibre grain and soft deckled edges. Forms are drawn with confident sumi-ink outlines of varied weight, roughly 2–3 px at 1080 wide, with slightly rounded ends. They are filled with layered watercolor washes that have soft pigment blooms and gentle edge darkening. Lighting is a warm late-afternoon window glow from the upper left. It gives a soft top-left highlight, a subtle drop shadow below and to the right, and a faint ambient occlusion where objects meet paper. Materials read clearly: matte paper, glossy ink, brushed gold leaf with fine crackle and a small specular glint, warm oak, and teal ceramic tile. Depth comes from 3–4 layers: a far wash, a mid-ground cutaway, and a crisp foreground. Overlaps are soft, and objects have slight bevels instead of hard gradients. Mood is calm, cozy and honest, with no neon and no harsh contrast. Saturation is restrained, with gold and coral kept for rewards and a single teal for interactive focus. Shapes are chunky and friendly, and characters are simple, rounded and expressive. Everything stays legible on small screens, with generous negative space, so the nonogram grid is always the clearest object on screen.",
+  "palette": [
+    "#F6EEDC",
+    "#1F2A3A",
+    "#2E8C8A",
+    "#E3A83B",
+    "#D9694F",
+    "#8DB48E"
+  ],
+  "ui_palette": {
+    "primary": "#2E8C8A",
+    "primaryDark": "#1F6867",
+    "secondary": "#E3A83B",
+    "secondaryDark": "#B6801F",
+    "accent": "#D9694F",
+    "accentDark": "#A84A34",
+    "bgTop": "#FBF5E6",
+    "bgBottom": "#EBDDBF",
+    "ink": "#1F2A3A"
+  },
+  "assets": [
+    {
+      "id": "bg_paper_main",
+      "kind": "background",
+      "file": "bg_paper_main.png",
+      "usage": "Puzzle and menu background",
+      "width": 1080,
+      "height": 1920
+    },
+    {
+      "id": "bg_atelier_hub",
+      "kind": "background",
+      "file": "bg_atelier_hub.png",
+      "usage": "Atelier hub, tall scroll",
+      "width": 1080,
+      "height": 1920
+    },
+    {
+      "id": "bg_island_map",
+      "kind": "background",
+      "file": "bg_island_map.png",
+      "usage": "Island map screen",
+      "width": 1080,
+      "height": 1920
+    },
+    {
+      "id": "hero_mina_easel",
+      "kind": "character",
+      "file": "hero_mina_easel.png",
+      "usage": "Title screen hero key art",
+      "width": 512,
+      "height": 507
+    },
+    {
+      "id": "board_frame",
+      "kind": "ui",
+      "file": "board_frame.png",
+      "usage": "Board frame and card",
+      "width": 512,
+      "height": 510
+    },
+    {
+      "id": "cell_filled",
+      "kind": "sprite",
+      "file": "cell_filled.png",
+      "usage": "Filled cell",
+      "width": 511,
+      "height": 512
+    },
+    {
+      "id": "cell_x_mark",
+      "kind": "sprite",
+      "file": "cell_x_mark.png",
+      "usage": "X cell mark",
+      "width": 510,
+      "height": 512
+    },
+    {
+      "id": "cell_dot_mark",
+      "kind": "sprite",
+      "file": "cell_dot_mark.png",
+      "usage": "Dot mark",
+      "width": 512,
+      "height": 492
+    },
+    {
+      "id": "cell_color_swatch",
+      "kind": "sprite",
+      "file": "cell_color_swatch.png",
+      "usage": "Colour puzzle cell",
+      "width": 512,
+      "height": 505
+    },
+    {
+      "id": "hud_panel",
+      "kind": "ui",
+      "file": "hud_panel.png",
+      "usage": "Top HUD bar",
+      "width": 512,
+      "height": 269
+    },
+    {
+      "id": "btn_primary_teal",
+      "kind": "ui",
+      "file": "btn_primary_teal.png",
+      "usage": "Primary button plate",
+      "width": 512,
+      "height": 224
+    },
+    {
+      "id": "btn_secondary_gold",
+      "kind": "ui",
+      "file": "btn_secondary_gold.png",
+      "usage": "Secondary and hint button plate",
+      "width": 512,
+      "height": 207
+    },
+    {
+      "id": "icon_pigment",
+      "kind": "ui",
+      "file": "icon_pigment.png",
+      "usage": "Pigment currency icon",
+      "width": 356,
+      "height": 512
+    },
+    {
+      "id": "icon_hint_brush",
+      "kind": "ui",
+      "file": "icon_hint_brush.png",
+      "usage": "Hint Brush icon",
+      "width": 486,
+      "height": 512
+    },
+    {
+      "id": "icon_framed_art",
+      "kind": "ui",
+      "file": "icon_framed_art.png",
+      "usage": "Reward artwork icon",
+      "width": 510,
+      "height": 512
+    },
+    {
+      "id": "fx_ink_bloom",
+      "kind": "fx",
+      "file": "fx_ink_bloom.png",
+      "usage": "Fill and reveal effect",
+      "width": 512,
+      "height": 505
+    },
+    {
+      "id": "logo",
+      "kind": "ui",
+      "file": "logo.png",
+      "usage": "the game logo — title/home screen and anywhere the name appears",
+      "width": 900,
+      "height": 474
+    }
+  ],
+  "legacy": []
+}

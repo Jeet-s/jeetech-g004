@@ -1,0 +1,13 @@
+{
+    id: "spotted-mushroom", title: "Spotted Mushroom", palette: [INK], role: "teach", mechanics: ["overlap", "x-marks"],
+    aha: "Count the slack: row 3's \"4 2\" needs seven of eight cells, so each run can shift by one — the 4 is sure on three cells, the 2 on one. Any run longer than the slack overlaps, even in a line with several runs.",
+    art: `
+..####..
+.####.#.
+####.##.
+##.#####
+.######.
+...##...
+...##...
+..####..`,
+  }

@@ -1,0 +1,42 @@
+{
+  "title": "Nonogram Atelier",
+  "package": "com.jeetech.g004",
+  "coreMechanic": "1) Pick a puzzle from an island or the daily. 2) Solve with tap, hold or drag using clue logic and auto-X. 3) The picture reveals in ink or color with a satisfying completion animation. 4) Earn Pigments (soft currency) and a framed artwork. 5) Spend Pigments and finished art to renovate rooms of the atelier, which unlocks the next story beat and cosmetics. 6) A daily puzzle and a forgiving streak bring the player back tomorrow. Next puzzle is one tap and never blocked.",
+  "screens": [
+    "Home (title)",
+    "Island Map + Free Play Library",
+    "Puzzle (board, tools, hint picker)",
+    "Puzzle Complete / Out of strikes",
+    "Daily Puzzle + streak calendar",
+    "Atelier (room renovation + story)",
+    "Gallery + stats",
+    "Shop",
+    "Settings"
+  ],
+  "monetization": {
+    "rewardedAds": true,
+    "interstitials": true,
+    "removeAdsIap": true
+  },
+  "analyticsEvents": [
+    "level_start",
+    "level_complete",
+    "level_fail",
+    "tutorial_done",
+    "puzzle_start",
+    "puzzle_complete",
+    "puzzle_abandon",
+    "hint_used",
+    "undo_used",
+    "tool_switch",
+    "zoom_used",
+    "daily_puzzle_complete",
+    "streak_update",
+    "streak_freeze_used",
+    "room_renovated",
+    "artwork_collected",
+    "settings_changed",
+    "meta_hidden_toggle"
+  ],
+  "_note": "Filled by the Claude Code builder from the GDD + asset manifest."
+}

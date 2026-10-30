@@ -1,0 +1,56 @@
+const P = ["#E3A83B", "#2E8C8A"];
+const m = (id: string, art: string) => ({ id, title: "Sweetcorn", palette: P, role: "practise", mechanics: ["color"], aha: "", art });
+export const A = [
+m("sprout-flowerpot", `
+....aa....
+.b.aaaa...
+.b.aaaa.b.
+.b.aaaa.b.
+.baaaaaab.
+.baaaaaab.
+bbaaaaaab.
+.bbaaaabb.
+..bbaabb..
+...bbbb...
+....bb....
+.....b....`),
+m("s2", `
+....aa....
+.b.aaaa...
+.b.aaaa...
+.b.aaaa.b.
+.baaaaaab.
+.baaaaaab.
+bbaaaaaab.
+.bbaaaabbb
+..bbaabb..
+...bbbb...
+....bb....
+.....b....`),
+m("s3", `
+....aa....
+.b.aaaa...
+.b.aaaaa..
+.b.aaaaa.b
+.baaaaaab.
+.baaaaaab.
+bbaaaaaab.
+.bbaaaabb.
+..bbaabb..
+...bbbb...
+....bb....
+.....b....`),
+m("s4", `
+....aa....
+.b.aaaa...
+.b.aaaa.b.
+.b.aaaa.b.
+.b.aaaaab.
+.baaaaaab.
+bbaaaaaabb
+.bbaaaabb.
+..bbaabb..
+...bbbb...
+....bb....
+.....b....`),
+];

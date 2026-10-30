@@ -1,0 +1,48 @@
+PASS level_intents: all 120 levels have a specific intent
+PASS no_filler_levels: no trivial filler levels after the tutorial
+FAIL level_design: level-design review 6.5/10 (bar 8), 3 level(s) below 6/10: Competent, themed and well-paced at the macro level. Picture quality is generally good, the intents are clear, and the trap rate is 0 everywhere. The weaknesses are the formulaic 'exact row, then chain' solving in most levels, several mechanics (smudged, cracked, stamp) that act as decoration rather than real insight, breathers that are not really easier, and a flat difficulty plateau (54-60% casual) across the final quarter. Below are the levels I rated under 8, with fixes. Anything not listed is solid (8+). I list only the weakest and most representative levels, not all of them, because the review is of the set as a whole and time-limited. Curve: Strong structure: 10 themed chapters, each with teach, practise, twist, boss, breather and finale beats, and each chapter introduces one mechanic alone (colour, void, stamp, color-cross, smudged, cracked, deep-chain). The casual win rate falls steadily from 100% to about 55%, which fits the late-game target. Problems:
+1) Chapter 1 is a gentle on-ramp, but L1-L2 have no real aha. They are plain fill-in-the-picture tutorials.
+2) Several 'twist' and 'breather' levels are not harder or easier than their neighbours. L19, L31 and L43 are real breathers. L67, L79, L103, L115 and L91 are only mild ones.
+3) Many intent texts describe a mechanic the board does not need. For example, 'smudged' and 'cracked' levels are often solvable by plain crossing logic, and the cracked ? is usually trivial once the neighbours are placed. So the mechanic is a gimmick rather than a new deduction.
+4) Late chapters (Kiln, Grand Exhibit) repeat one formula: a few exact rows or columns, then chain. Casual win rates of 54-57% on a dozen levels in a row make the back third feel uniformly hard, with no real breathers. Grand Exhibit is a mixing bowl, not an escalation.
+5) Colour chapters 25-36 are mostly 2-colour fills. Many solid-looking pictures stay largely uniform, so the colour rule adds little.
+6) L81 (56%) and L82 (56%) have a gap between casual and skilled that suggests guessing.
+7) Mechanic overload at the end: L113 and L120 stack three or four mechanics at once.
+Overall it is polished but formulaic. It needs more distinct twists and a fairer difficulty ramp to reach Picross S or Nonogram.com level.
+REDESIGN THESE LEVELS (keep the ones not listed):
+L81 (5/10): 56% casual with 89% skilled shows a gap that points to guessing, and the smudged column has a stamp so it is two mechanics at once. → Remove the stamp, or add a column anchor so the hidden column is deducible.
+L82 (5/10): Smudged row 7 with the edge columns deciding is a guess unless the player counts carefully. 56% casual and 86% skilled is low. → Add a clue anchor in row 7 so the edges follow logically.
+L106 (5/10): Rocket: skilled rate is 80%, below the other late levels, and it is basically a single column with a lot of empty space. → Replace it with a more developed picture and add a hidden step.
+L3 (6/10): Jellyfish is small and its rows are irregular. 93% casual is lower than the 100% of L1-2, and the picture is hard to read as a jellyfish. → Redraw as a symmetric 7x7 jellyfish with a clean overlap on rows 1-3 and tentacles that need one X deduction.
+L7 (6/10): It is a breather but looks like L2. It is an exact-fit repeat in a smaller size, and the bucket picture is muddy. → Replace it with a symmetric icon like a shell, solved by overlap alone.
+L28 (6/10): Watermelon 11x7 is wide and thin and mostly solved by one column pair. Casual 83% is slightly easy for place. → Add one more colour constraint so rows 2-5 need the teal rule.
+L29 (6/10): Pear 'twist' is a single row insight (2+1+2+1+2=8) and then trivial, so it is not a real twist. → Move the twist to the middle rows so it chains.
+L33 (6/10): Awning is mostly empty in the middle rows (rows 4-8 are sparse), so space is wasted, and the intent is a partial row. → Fill the interior with a window pattern.
+L45 (6/10): Void plus colour on a 9x7 board is mostly exact fits, the combination is not an aha. → Place a void between two same-colour clues in a way that matters for 3 lines, not 1.
+L48 (6/10): The finale 'Masterwork' says rows 4-5 fill and columns 7-8 run, which is the same two-step pattern as the smaller ones, with 67% casual. The winged statue has large flat empty areas. → Add a hidden-deduction step in the wings.
+L49 (6/10): The songbird stamp pins one run but the board would be solvable without the stamp for most lines, so it does not teach the stamp. → Remove the other openers so the stamp is the only way in.
+L60 (6/10): Dolphin medallion has 56 moves and 69% casual, and the intent describes only one column insight, so the long solve is busywork. → Add a second stamp that creates a second deduction, and make the interior less empty.
+L84 (6/10): Casual 55% is on target but the intent is a long list of chain steps, which is busywork. → Shorten the lantern pattern and make the hidden column carry the aha.
+L88 (6/10): Willow plate has 54% casual with 87% skilled, a spike for a 'practise' level and the picture is hard to read. → Simplify the picture and reduce to a single cracked row.
+L97 (6/10): Telescope teaches deep-chain but L97 reads like any earlier chain level, so the 'deep-chain' tag is not a new idea. → Use a longer, one-way chain where each step depends on the one before.
+L99 (6/10): The hat has 63% casual at 'practise' and the intent lists many steps. The hat is mostly a triangle with a trivial brim. → Make the cone more irregular.
+L102 (6/10): 54% casual with 83% skilled is the highest skilled-to-casual gap of the late levels, suggesting guessing in the ring curve. → Add anchor cells in the ring so the curve is deducible.
+L104 (6/10): The astronaut has 53% casual and 83% skilled, the lowest, and the intent says each side is read from its own columns, i.e. mechanical. → Remove the visor glint so the board has a single path.
+L108 (6/10): The night observatory is the biggest board, with 49 moves and 54% casual. The lower rows are sparse and the 10 passes feel long. → Add some structure to the lower half and cut the passes.
+L112 (6/10): The carousel horse is a difficult read and sparse in the lower part. 54% casual. → Make the picture denser.
+L117 (6/10): The butterfly is symmetric so the cross-check is repeated in both wings. → Make one wing smaller.
+L118 (6/10): The alpine lake mirrors, so smudged column 9 paints itself and it is not a real twist. → Make the mountains asymmetric.
+L120 (6/10): The grand easel stacks four mechanics (stamp, color-cross, smudged and cracked) at once with a 57% casual rate, so it feels cluttered, and it has no mastery arc. → Drop one mechanic and keep the three that matter.
+L1 (7/10): Fine first level, but the cup is a trivial reading with little aha. → Keep it, but make the saucer row 6 the only first move so the player sees the full-line rule at once.
+L6 (7/10): Boss in chapter 1 is only slightly harder than L5, and the crab picture has stray empty space. → Add one more chain step, or shrink the empty bottom rows so the board is used better.
+
+level-design score 6.5/10 — Competent, themed and well-paced at the macro level. Picture quality is generally good, the intents are clear, and the trap rate is 0 everywhere. The weaknesses are the formulaic 'exact row, then chain' solving in most levels, several mechanics (smudged, cracked, stamp) that act as decoration rather than real insight, breathers that are not really easier, and a flat difficulty plateau (54-60% casual) across the final quarter. Below are the levels I rated under 8, with fixes. Anything not listed is solid (8+). I list only the weakest and most representative levels, not all of them, because the review is of the set as a whole and time-limited.
+curve: Strong structure: 10 themed chapters, each with teach, practise, twist, boss, breather and finale beats, and each chapter introduces one mechanic alone (colour, void, stamp, color-cross, smudged, cracked, deep-chain). The casual win rate falls steadily from 100% to about 55%, which fits the late-game target. Problems:
+1) Chapter 1 is a gentle on-ramp, but L1-L2 have no real aha. They are plain fill-in-the-picture tutorials.
+2) Several 'twist' and 'breather' levels are not harder or easier than their neighbours. L19, L31 and L43 are real breathers. L67, L79, L103, L115 and L91 are only mild ones.
+3) Many intent texts describe a mechanic the board does not need. For example, 'smudged' and 'cracked' levels are often solvable by plain crossing logic, and the cracked ? is usually trivial once the neighbours are placed. So the mechanic is a gimmick rather than a new deduction.
+4) Late chapters (Kiln, Grand Exhibit) repeat one formula: a few exact rows or columns, then chain. Casual win rates of 54-57% on a dozen levels in a row make the back third feel uniformly hard, with no real breathers. Grand Exhibit is a mixing bowl, not an escalation.
+5) Colour chapters 25-36 are mostly 2-colour fills. Many solid-looking pictures stay largely uniform, so the colour rule adds little.
+6) L81 (56%) and L82 (56%) have a gap between casual and skilled that suggests guessing.
+7) Mechanic overload at the end: L113 and L120 stack three or four mechanics at once.
+Overall it is polished but formulaic. It needs more distinct twists and a fairer difficulty ramp to reach Picross S or Nonogram.com level.

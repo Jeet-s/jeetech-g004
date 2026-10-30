@@ -1,0 +1,40 @@
+base: unique=true steps=22 passes=5 search=23.5 open=20 [r1 r2 r3 r4 r5 r6 r7 r8 r9 r10 r11 c1 c2 c4 c5 c6 c7 c8 c9 c10]
+cost 0 flips 2 unique=true steps=28 passes=5 search=42.4 open=20 [r1 r2 r3 r4 r5 r6 r7 r8 r9 r10 r11 c1 c2 c4 c5 c6 c7 c8 c9 c10]
+b.bbbbbb.b
+...bbbb...
+..aa.aaa..
+.aabaaaaa.
+.aaaaaaaaa
+aaBaaaaaaa
+aaaaabaaaa
+ab.aaaaaba
+.aaaaaaaa.
+.aaaabaaa.
+..aaaaaa..
+
+cost 0 flips 2 unique=true steps=29 passes=5 search=40.0 open=20 [r1 r2 r3 r4 r5 r6 r7 r8 r9 r10 r11 c1 c2 c4 c5 c6 c7 c8 c9 c10]
+b..bbbbb.b
+...bbbb.a.
+..aa.aaa..
+.aabaaaaa.
+.aaaaaaaa.
+aaBaaaaaaa
+aaaaabaaaa
+abaaaaaaba
+.aaaaaaaa.
+.aaaabaaa.
+..aaaaaa..
+
+cost 0 flips 2 unique=true steps=23 passes=7 search=42.1 open=20 [r1 r2 r3 r4 r5 r6 r7 r8 r9 r10 r11 c1 c2 c4 c5 c6 c7 c8 c9 c10]
+b.bbbbbb.b
+...bbbb...
+..aa.aaa..
+.aabaaaaa.
+.aaaaaaaaa
+aaBaaaaaaa
+aaaaabaaaa
+abaaaaaaba
+.aaaaaa.a.
+.aaaabaaa.
+..aaaaaa..
+

@@ -1,0 +1,21 @@
+= 3 hall
+~~~~~aaaaaaaaaa~~~~~
+~~~aa..........aa~~~
+~~a...bbbbbbbb...a~~
+~a....b....c.b....a~
+a.....b......b.....a
+a.bbb.b..c...b.bbb.a
+a.bcb.b.ccc..b.bcb.a
+a.bcb.bccccccb.bcb.a
+a.bbb.bccccccb.bbb.a
+a.....bbbbbbbb.....a
+a...a..............a
+a..aaa.............a
+a..aaa..........a..a
+a..aaa.bbbbbb..aaa.a
+a...a..b....b..aaa.a
+aaaaaaaaaaaaaaaaaaaa
+c...c...c...c...c...
+...c...c...c...c...c
+..c...c...c...c...c.
+.c...c...c...c...c..

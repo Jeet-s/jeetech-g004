@@ -1,0 +1,26 @@
+const UMBER = "#8A5A3C", TEAL = "#2E8C8A";
+const b = (id: string, art: string, crack: string[]) => ({ id, title: "Tea Bowl", palette: [UMBER, TEAL], role: "breather", mechanics: ["cracked", "color", "stamp"], crack, aha: "", art });
+export const A = [
+b("t1s", `
+...b...b...
+..b...b....
+...b...b...
+aaaaaaaaaaa
+abbbbbbbbba
+aaaaaaaaaaa
+.aabbbbbaa.
+..aaaaaaa..
+...aaaaa...
+...aaaa,...`, ["r9.0", "c7.6"]),
+b("t2s", `
+...b...b...
+..b...b....
+...b...b...
+aaaaaaaaaaa
+abbbbbbbbba
+aaaaaaaaaaa
+.aabbbbbaa.
+..aaaaaaa..
+...aaaaa...
+...,aaaa...`, ["r9.0", "c3.6"]),
+];

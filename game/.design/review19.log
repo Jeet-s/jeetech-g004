@@ -1,0 +1,45 @@
+PASS level_intents: all 120 levels have a specific intent
+PASS no_filler_levels: no trivial filler levels after the tutorial
+FAIL level_design: level-design review 7.4/10 (bar 8), 0 level(s) below 6/10: A coherent 120-level set with a clear chapter-per-mechanic structure, solid teaching sentences, and zero traps. The best levels (L10, L22, L24, L48, L51, L60, L72, L108, L120) have a real aha. The mid-tier is solid but repetitive: the same swap-fixing stamp, the same "count met so X" and the same "measure the ?" idea recur with new pictures. Some pictures are weak or unreadable (L5, L7, L11, L12, L40, L64), some stamps and smudges are decorative rather than load-bearing (L50, L58, L73, L80), and a few breathers or refreshers have no insight (L109, L115). Difficulty targets are met. To reach the standard of Picross S or Nonogram.com, tighten the art silhouettes, make every stamp or smudge necessary, and add more cross-chapter combines. Curve: Structurally strong. Each 12-level chapter introduces a single idea (voids, stamps, cross-colour, smudge, cracked, colour-tally) and ends on a Masterwork finale. The teach, practise, boss, breather, twist, combine rhythm is clear, and the late-third casual average is about 65%, which is on target. Skilled rates stay within 80-95%. Weaknesses:
+- Several chapters recycle one aha. Stamps (L51, 55, 56, 57, 59) all mean "which of two symmetric options". Counts (L97, 100, 101, 103) all mean "count met, so the rest is X". Cracked (L85-87) always means "measure from the neighbours".
+- Some stamps and smudges are cosmetic: L50, L58, L73, L80.
+- Chapters 8-12 can feel like a checklist of one trick each. Few levels combine two earlier chapters. L45, L68, L70 and L110 are the exceptions, and the combines come late.
+- Late breathers (L79, L91, L115) are pleasant but shallow.
+- Difficulty is steady with a few spikes. L83-84 are hard back-to-back, L90 is a spike, and L96 and L119 have the lowest skilled rates in the set.
+- Chapter 1's silhouettes (L5, L7, L11, L12) are less readable than the later art.
+REDESIGN THESE LEVELS (keep the ones not listed):
+L7 (6/10): The lolly is an unreadable blob (top-right bite, odd stick) and the solve is mechanical. 92% is fine but it is forgettable. → Redraw as a clear popsicle silhouette with a rounded top and a stick below. Keep the full-line starts.
+L5 (7/10): The 8x12 seahorse is skinny and hard to read as a picture. Two columns do almost all the work. → Widen to about 10x12 and give the snout and tail more body so more lines are open.
+L11 (7/10): The castle and parasol are two subjects, and the picture is cluttered. The X cascade is more busywork than aha. → Keep one subject (a castle with a flag) and keep the row-4 1 1 1 1 as the single insight.
+L12 (7/10): The whale is muddled (spout, gull and tail fragments). The finale ends on a 'last bits' read instead of a real test. → Simplify the silhouette and drop the gull. Use the waterline fit as the keystone with one extra crossing deduction.
+L15 (7/10): Two tallies with an order dependency ('first… later') make the explanation convoluted. Row 9's tally is nearly redundant. → Keep only the row-1 tally that shifts the columns and drop row 9's.
+L19 (7/10): The tally is trivial and it is placed right after the boss, so it is easy but with no charm. → Keep the one-count cut, but make the tail a bolder shape so the reveal pops.
+L20 (7/10): A generic pine triangle. The aha is fine but the picture is a stack of symmetric rows that resembles L21 and L23 in style. → Add an asymmetric feature (a snow-laden branch or a trunk offset) so rows differ.
+L29 (7/10): Nearly the same rule as L28 (touching colours versus same-colour gap) with a new picture. → Swap for a level where a gap must be inferred from an adjacent column's colour.
+L32 (7/10): The husk rows are largely forced by outer columns, so the aha is small and the corn is a big mass. → Add a partial husk gap so column 3 and column 9 each need a distinct deduction.
+L33 (7/10): The picture (stall) is busy and ambiguous, and it overlaps L36's stall theme. → Change the subject (for example a bakery bread) or merge the idea into L36.
+L39 (7/10): The bust shape is vague. The two-eye contrast is a good idea but the lower half is dull. → Add a clear nose or collar silhouette so the bottom rows carry deductions too.
+L40 (7/10): The capital silhouette is unreadable, and the 'both exact fits' aha repeats L39. → Use one eye only plus a clearer volute shape.
+L42 (7/10): The horse is hard to recognise, and the voids merely shape the canvas. 72% casual on a 13x12 comes from size, not insight. → Reshape the horse for a clearer head and neck, and place voids to force one distinct split-line deduction.
+L45 (7/10): Small and underwhelming as a bridge. The void-as-gap idea shows up in one column only. → Widen to 11x9 and force two void-as-gap reads.
+L47 (7/10): The intent ('neck gap') and the solve are separate, and the plinth edge is derived by tedious column reading. → Make the plinth edge a clean one-spare overlap in a single line.
+L50 (7/10): Row 3 fills regardless, so the stamp is nearly decorative. → Move the stamp to a cell that resolves a real ambiguity, such as the shell rim corner, and remove other forced starts.
+L52 (7/10): Repeats the single-stem stamp idea of L49-50 with colour. → Use a stamp that disambiguates a colour swap rather than a position.
+L55 (7/10): A third 'which one' swap stamp. It is fine but it is the same insight as L51 and L56. → Make the stamp resolve a swap involving a different shape (a tail, not an ear).
+L56 (7/10): A swap stamp again, the same logic as L51 and L55. → Make the stamp resolve both beak edges with different clue overlaps, not the same diagonal swap.
+L58 (7/10): Intent is vague ('tentacles knot'), so it is hard to verify the stamp is necessary. → Rework so the stamp is needed to break a specific swap, and state it.
+L64 (7/10): The watering can is cluttered, and the stripe lines box the rose with no picture payoff. → Simplify the silhouette and reduce the sky stripes to a single band.
+L65 (7/10): The spiral is laid by exact fits before any petal, so it is mechanical. 'Twist' is not shown. → Break the spiral's exact fit with a spare cell so the petals matter.
+L66 (7/10): Trunk fill is a one-look fit, then bulk work. It is not boss-like in insight. → Make the trunk need a colour cross-check, and remove the free column-6 fill.
+L68 (7/10): Void and colour-cross are both fairly light and the leaf lacks character. → Add one real cross-colour deduction that depends on a void.
+L73 (7/10): Every column inks row 4, so the hidden row is a full 7 and the smudge teaches little. → Make the hidden row non-trivial, with one or two paper cells decided by columns.
+
+level-design score 7.4/10 — A coherent 120-level set with a clear chapter-per-mechanic structure, solid teaching sentences, and zero traps. The best levels (L10, L22, L24, L48, L51, L60, L72, L108, L120) have a real aha. The mid-tier is solid but repetitive: the same swap-fixing stamp, the same "count met so X" and the same "measure the ?" idea recur with new pictures. Some pictures are weak or unreadable (L5, L7, L11, L12, L40, L64), some stamps and smudges are decorative rather than load-bearing (L50, L58, L73, L80), and a few breathers or refreshers have no insight (L109, L115). Difficulty targets are met. To reach the standard of Picross S or Nonogram.com, tighten the art silhouettes, make every stamp or smudge necessary, and add more cross-chapter combines.
+curve: Structurally strong. Each 12-level chapter introduces a single idea (voids, stamps, cross-colour, smudge, cracked, colour-tally) and ends on a Masterwork finale. The teach, practise, boss, breather, twist, combine rhythm is clear, and the late-third casual average is about 65%, which is on target. Skilled rates stay within 80-95%. Weaknesses:
+- Several chapters recycle one aha. Stamps (L51, 55, 56, 57, 59) all mean "which of two symmetric options". Counts (L97, 100, 101, 103) all mean "count met, so the rest is X". Cracked (L85-87) always means "measure from the neighbours".
+- Some stamps and smudges are cosmetic: L50, L58, L73, L80.
+- Chapters 8-12 can feel like a checklist of one trick each. Few levels combine two earlier chapters. L45, L68, L70 and L110 are the exceptions, and the combines come late.
+- Late breathers (L79, L91, L115) are pleasant but shallow.
+- Difficulty is steady with a few spikes. L83-84 are hard back-to-back, L90 is a spike, and L96 and L119 have the lowest skilled rates in the set.
+- Chapter 1's silhouettes (L5, L7, L11, L12) are less readable than the later art.
+EXIT=1

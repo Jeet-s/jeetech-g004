@@ -1,0 +1,57 @@
+== kiln-willow-plate #C9B8A0,#2B3A67 crack=r4.1
+..bbbbbb..
+.bbaaabbb.
+baaaabbbbb
+baaaaabbab
+baaaaaabab
+bbbaaaabab
+babbbaaaab
+.bbaaaaab.
+..bbbbbb..
+== paper-boat #D9694F,#E3A83B smudge=r6
+.b...aa.a..b.
+b....aaa.a..a
+bb.aaaa.aaa.b
+.baaaaa.aaaa.
+baaaaaa.aaaaa
+bbbbbbbbbbbbb
+.bbbbbbbbbbb.
+..bbbbbbbbb..
+b..bbbbbbb..b
+aa..aaaaa..aa
+...aa...aa...
+== firefly-jar #2B3A67,#E3A83B smudge=c2
+b.bbbbbb.b
+...bbbb...
+..aa.aaa..
+.aabaaaaa.
+.aaaaaaaa.
+aaBaaaaaaa
+aaaaabaaaa
+abaaaaaaba
+.aaaaaaaa.
+.aaaabaaa.
+..aaaaaa..
+== laurel-wreath #1F2A3A
+~~~##~##~~~
+~~###~#.#~~
+~##.#~..##~
+##.~~~~~.##
+#.#~~~~~..#
+##.~~~~~.##
+#.#~~~~~#.#
+.##~~~~~##.
+~.##~~~#..~
+~~##.####~~
+~~~#.#.#~~~
+== mosaic-elephant #1F2A3A
+...####....
+..########.
+.##########
+##.########
+#..########
+#..,#######
+#...##..###
+.#..##..##.
+....##..##.
+....##..##.

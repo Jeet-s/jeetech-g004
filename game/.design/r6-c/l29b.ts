@@ -1,0 +1,36 @@
+const m = (id: string, art: string) => ({ id, title: "Ripe Pear", palette: ["#E3A83B", "#2E8C8A"], role: "practise", mechanics: ["color"], aha: "", art });
+export const A = [
+m("q1", `
+..aaaa.......
+.aaaaaaa.....
+aaa.aaaaa..bb
+aaaa.aaaaabb.
+aaaaaaaaaab..
+.aaaaaaaa....
+..aaaaa......`),
+m("q2", `
+..aaaa......
+.aaaaaa.....
+aaa.aaaa..bb
+aaaa.aaaabb.
+aaaaaaaaab..
+.aaaaaaa.b..
+..aaaaa.....`),
+m("q3", `
+...aaa........
+.aaaaaaa......
+aaaaaaaaa...bb
+aa.aaaaaaa.bb.
+aaa.aaaaaaabb.
+aaaaaaaaaab...
+.aaaaaaaa.....
+..aaaaa.......`),
+m("q4", `
+..aaaa......
+.aaaaaa.....
+aaa.aaaa..b.
+aaaa.aaaabbb
+aaaaaaaaab..
+.aaaaaaa.b..
+..aaaaa.....`),
+];

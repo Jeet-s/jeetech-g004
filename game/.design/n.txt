@@ -1,0 +1,62 @@
+== watermelon-slice #D9694F,#2E8C8A
+aaaaaaaa...
+baa.aaaaa..
+baaaa.aaa.b
+b.aaaaa.aab
+.baaa.aaab.
+..baaaaab..
+...bbbbb...
+== striped-awning #D9694F,#C9B8A0
+aaabbbaaa.
+aaabbbaaab
+.aabbb.ab.
+.a..b..a..
+.b......b.
+.b......b.
+.b.aaaa.b.
+.b.a..a.b.
+bbbbbbbbbb
+.b......b.
+== apple-basket #D9694F,#8A5A3C
+...bbbb...
+..b...bb..
+.b.aa.a.b.
+.baaaaaab.
+.aa.aaa.aa
+bbbbbbbbbb
+b.bb.bb.bb
+.bbbbbbbb.
+.b.bb.bb..
+..bbbbbb..
+== ionic-capital #000
+~~#######~~
+###########
+#..#####..#
+#.#.....##.
+##.#.~.#.#.
+.###...###~
+~.#######.~
+~~#.#.#.#~~
+~~#.#.#.#~~
+~~#.#.###~~
+~#########~
+== firefly-jar #2B3A67,#E3A83B smudge=c2
+b.bbbbbb.b
+...bbbb...
+..aa.aaa..
+.aabaaaaa.
+.aaaaaaba.
+aaBaaaaaaa
+aaaaabaaaa
+abaaaaaaba
+.aaaaaaaa.
+.aaaabaaa.
+..aaaaaa..
+== acorn #000
+##.....##
+###.#.###
+####.####
+.#######.
+..##.##..
+.###.###.
+##.....##

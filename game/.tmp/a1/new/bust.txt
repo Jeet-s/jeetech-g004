@@ -1,0 +1,17 @@
+{
+    id: "marble-bust", title: "Marble Bust", palette: [INK], role: "practise", mechanics: ["void", "exact-fit"],
+    aha: "Columns 4 to 7 run head, neck and plinth in one exact fit; the voided plinth corners leave rows 11 and 12 only four and six cells, so the base fills itself and the shoulders grow from it.",
+    art: `
+~~.####.~~
+~.######.~
+~##.##.##~
+~########~
+~.##..##.~
+~.######.~
+~..####..~
+~...##...~
+~.######.~
+##########
+~~~####~~~
+~~######~~`,
+  }

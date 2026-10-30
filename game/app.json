@@ -1,0 +1,51 @@
+{
+  "expo": {
+    "name": "Nonogram Atelier",
+    "slug": "nonogram-atelier",
+    "version": "1.0.22",
+    "orientation": "portrait",
+    "android": {
+      "package": "com.jeetech.g004",
+      "versionCode": 23,
+      "permissions": [
+        "android.permission.POST_NOTIFICATIONS"
+      ],
+      "blockedPermissions": [
+        "android.permission.READ_EXTERNAL_STORAGE",
+        "android.permission.WRITE_EXTERNAL_STORAGE",
+        "android.permission.SYSTEM_ALERT_WINDOW"
+      ],
+      "googleServicesFile": "./google-services.json",
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/store/adaptive-foreground.png",
+        "backgroundColor": "#373333"
+      }
+    },
+    "ios": {
+      "bundleIdentifier": "com.jeetech.g004",
+      "supportsTablet": false,
+      "config": {
+        "usesNonExemptEncryption": false
+      }
+    },
+    "scheme": "nonogram-atelier",
+    "plugins": [
+      [
+        "expo-notifications",
+        {
+          "color": "#2E8C8A"
+        }
+      ],
+      [
+        "expo-splash-screen",
+        {
+          "image": "./assets/art/logo.png",
+          "imageWidth": 240,
+          "resizeMode": "contain",
+          "backgroundColor": "#F6EEDC"
+        }
+      ]
+    ],
+    "icon": "./assets/store/icon.png"
+  }
+}

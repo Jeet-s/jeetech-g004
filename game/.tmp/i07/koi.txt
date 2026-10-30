@@ -1,0 +1,29 @@
+2 c6
+....aa.......
+....aaaa.....
+...bbbbbb..aa
+..bbbaabbb.aa
+.b.baaaabbbaa
+bbbbbaabbbbba
+bbbbbbbbbbbba
+bbbaabbbbbbaa
+.bbaaabbbb.aa
+..bbbbbbb..aa
+...bbbbb.....
+..aaa..aaa...
+..aa....aa...
+
+2 c6
+....aa.......
+....aaaa.....
+...bbbbbb..aa
+..bbbaabbb.aa
+.b.baaaabbbaa
+bbbbbaabbbbba
+bbbbbbbbbbbba
+bbbaabbbbbbaa
+.bbaaabbbb.aa
+..bbbbbbb..aa
+...bbbbb.....
+..aaa...aa...
+..aa.....aa..

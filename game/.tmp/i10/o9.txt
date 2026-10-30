@@ -1,0 +1,7 @@
+exhibit-monarch: 86 unique of 263
+search 46.0 steps 36 passes 5 open0 31  S: c3 c17  C: c2.1 r14.0
+search 42.8 steps 37 passes 5 open0 31  S: c10 c15  C: c1.1 r9.1
+search 42.6 steps 39 passes 5 open0 31  S: c15 c4  C: c7.1 r2.2
+search 42.5 steps 36 passes 3 open0 31  S: c8 c13  C: c7.4 r14.0
+search 41.6 steps 36 passes 3 open0 31  S: r0 c4  C: r14.1 r5.7
+max 46.0

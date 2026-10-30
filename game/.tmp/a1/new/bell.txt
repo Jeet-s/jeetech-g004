@@ -1,0 +1,15 @@
+{
+    id: "hall-bronze-bell", title: "Bronze Bell", palette: [INK], role: "teach", mechanics: ["void", "exact-fit"],
+    aha: "The frame leaves columns 3 and 6 just eight cells each, so their 8s fill completely — voids turn a loose clue into a certainty before anything else is inked.",
+    art: `
+~~~##~~~
+~~#..#~~
+~~####~~
+~.####.~
+~######~
+.######.
+.##.###.
+########
+~.####.~
+~~~##~~~`,
+  }

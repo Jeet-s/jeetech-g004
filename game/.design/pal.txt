@@ -1,0 +1,10 @@
+== grand-paint-palette #8A5A3C,#D9694F,#6FA8DC
+~~~aaaaaa~~
+~aa.bbb.ca~
+a.bbbb.ccca
+a.aaa..ccca
+aaa~aa.bbba
+a.aaa.cbbba
+a.cc..cc.a~
+~acccaaaa~~
+~~aaaaaa~~~

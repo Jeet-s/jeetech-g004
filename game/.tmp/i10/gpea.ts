@@ -1,0 +1,23 @@
+import { C } from "./draw";
+const c = new C(18, 17);
+c.ell(8.5, 14, 9.4, 14.2, "d");
+const eye = " c \ncbc\n c ";
+for (const [x, y] of [[2,4],[5,1],[1,9],[4,7],[3,12],[6,10]]) { c.put(x - 1, y - 1, eye); c.put(17 - x - 1, y - 1, eye); }
+c.put(7, 0, ".a.a.");
+c.put(7, 1, ".aaa.");
+c.put(7, 2, ".aaae");
+c.put(7, 3, ".aa..");
+c.put(6, 4, "..aa..");
+c.put(6, 5, ".aaaa.");
+c.put(5, 6, ".aaaaa..");
+c.put(5, 7, ".aaaaaa.");
+c.put(5, 8, ".aaaaaa.");
+c.put(5, 9, ".aaaaaa.");
+c.put(5, 10, ".aaaaa.");
+c.put(6, 11, ".aaaa.");
+c.put(7, 12, ".aa.");
+c.put(7, 13, "e..e");
+c.put(7, 14, "e..e");
+c.rect(0, 15, 17, 15, "f");
+c.put(0, 16, "..ff..........ff..");
+console.log("N:peacock\n" + c.str());

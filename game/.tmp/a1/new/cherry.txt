@@ -1,0 +1,10 @@
+{id: "twin-cherries", title: "Twin Cherries", palette: ["#D9694F", "#8A5A3C"], role: "teach", mechanics: ["color"], aha: "A stem may touch its cherry: column 9's brown 2 and red 5 need no gap, so they take seven of eight cells — slack one pins the stem's lower cell and the cherry's middle four.", art: `
+....bbb...
+..bbbbbbb.
+..b.....b.
+.aaa...aaa
+aaaaa.aaaa
+aa.aa.a.aa
+aaaaa.aaaa
+.aaa...aaa`,
+  }

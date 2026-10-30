@@ -1,0 +1,27 @@
+REDESIGN THESE LEVELS (keep the ones not listed):
+L8 (6/10): Not a twist; L2/L5 already used split-clue exact-fit and overlap. 'Twist' mislabels the board and the aha is thin. → Rename to practise, or make the sail rows depend on a column forcing the spare cell to the other sail.
+L27 (6/10): Largely a repeat of L25 logic in disguise; carrot is a thin silhouette. → Replace with a column-driven puzzle where a colour is forced by a count.
+L32 (6/10): Third time the same gap/touch deduction (L26, L29); intent text is also inconsistent with clue counts. → Swap for a level where the gap must be derived from a crossing line.
+L35 (6/10): Mostly mechanical 'place by column'; apples are four small blobs. → Make one apple depend on the basket count to create a real aha.
+L51 (6/10): Repeats the Seahorse from L5 as a subject; easier alternatives exist for stamp logic. → Replace with a new subject (e.g. dragonfly).
+L64 (6/10): Blocky body of the same colour reads as filler; picture is unclear. → Redraw as a clearer can with a spout shape.
+L87 (6/10): 66% for a bound-by-edge deduction, too hard for the idea. → Add anchors.
+L91 (6/10): Tiny, minor. → Bigger bowl.
+L103 (6/10): No new idea. → Add a hidden gap.
+L115 (6/10): No insight. → Add a gap.
+L117 (6/10): Butterfly symmetric. → Break.
+L5 (7/10): Deduction chain for column 7 depends on many other lines first; reads as busywork more than an aha. → Make column 7 resolvable one step earlier, or add a second spare-cell overlap so the lesson is cleaner.
+L7 (7/10): Fine but forgettable; same shape language as the boss. → Add one small satisfying reveal (e.g. a lone sun cell) so it is memorable.
+L15 (7/10): Two tallies at once with a long chain; slightly more than a 'practise' after only two teaches. → Drop one tally to a plain clue.
+L17 (7/10): Ears are ambiguous as a picture; the shape is hard to read as a rabbit. → Redraw with a clearer head/face so the reveal pays off.
+L19 (7/10): Swallow is lovely but the board is nearly all full or exact lines (3 passes), so no insight. → Add one spare-cell row for a mini aha.
+L21 (7/10): Bear silhouette is blocky; intent chain is mostly mechanical. → Reshape the body so the belly gap reads as a gesture.
+L22 (7/10): The twist is conceptual but the chain is long; solver 30 looks. → Shrink to 9x9 or cut the foot rows to focus the contrast.
+L23 (7/10): Fern fronds are symmetric clutter, so many lines are redundant; 35 looks. → Break the symmetry with an off-centre curl so lines differ.
+L26 (7/10): Fine, but a second teach of the same rule. → Merge the contrast into L25 and make this a practise.
+L30 (7/10): Third colour appears without any intro level; casual 85% is easier than the previous practise, so it is not a boss. → Add a short 3-colour intro before L30 or lower its fill count; raise difficulty with a spare-cell label.
+L31 (7/10): Lots of full lines; hard to find an insight. → Use the basket row as a real gap puzzle.
+L33 (7/10): Good idea but explained as many steps; overlap element is minor. → Remove one aisle row to make the stripe deduction the single aha.
+L36 (7/10): Finale has the 'most anchors' not a distinct insight; 77% casual for a finale is right but intent is thin. → Hide one anchor so the post/awning crossing is the key.
+L39 (7/10): Eyes and mouth appear as X's at once; low depth and 79% casual feels harder than the picture merits. → Swap one exact column for a spare-cell column.
+

@@ -1,0 +1,65 @@
+PASS level_intents: all 120 levels have a specific intent
+PASS no_filler_levels: no trivial filler levels after the tutorial
+FAIL level_design: level-design review 7.6/10 (bar 8), 0 level(s) below 6/10: This is a polished, well-structured set. It has a consistent teach, practise, boss, breather, finale rhythm per island, and every level has a written, board-true deduction. Solver stats show no traps, and win rates sit on the studio targets.
+
+Weaknesses:
+- Repetition inside chapters 3 and 7.
+- A few trivial or thin-intent levels: L79, L65, L68, L93, L94, L118.
+- A teach level (L98) that is too hard for its slot.
+- Late-game difficulty that is uniformly grindy, with no clearly easier level between the hard ones.
+- Overload where stamp, colour and tally meet at L105.
+
+I rated 8 as solid and flagged only the levels below that bar. This is a premium, calm set, but it is not yet at Picross S level. The reasons are the repeated aha shapes and the late-game sameness. Curve: Strong skeleton: each of the 10 chapters follows teach, teach, practise, boss (slot 6), breather (slot 7), practise, combine, finale (slot 12). Mechanics arrive one at a time, in order: tally, colour, void, stamp, colour-cross, smudge, crack, colour-tally. Early casual rates meet the L1-3 target (100/100/93). The last third averages roughly 63% casual, which is on target. Skilled rates stay inside 80-100%.
+
+Problems:
+1. The chapter pattern is identical ten times, so by chapter 5 the rhythm is predictable. Vary at least two chapters, for example a finale-first or a double breather.
+2. Chapter 3 (Pigment Market) repeats "different colours touch, the same colour needs a gap" in L25, 26, 28, 29, 31 and 33. Only the ink shapes differ.
+3. Chapter 7 (Mosaic Hall) repeats "stamp resolves a symmetric swap" in L51, 55, 56 and 59.
+4. L79 (100% casual) and L98 (teach at 67%) are out of place for their slots. L79 should not be a flat give-away. L98 teaches color-tally harder than its role allows.
+5. Chapters 10-12 stack many levels at 51-60% casual. Chapter 11's L106-L108 and L113-L114 run back-to-back with no easier level between. The L103 and L115 breathers are mild. Make them clearly easier, around 85-90% casual.
+6. Several late intents describe a single 'fills exactly' step with no insight (L65, L68, L93, L94, L118). Late levels need a visible aha, not just size.
+7. Void in chapter 4 and stamp in chapter 7 are barely used again afterwards, except in combines. Late chapters lean on colour, tally and smudge. Reuse void and stamp as a twist in the finales.
+
+Two or more things at once appear first at L105, which combines stamp, 4 colours and tally in one level. This overloads before the chapter has a clean combine.
+REDESIGN THESE LEVELS (keep the ones not listed):
+L79 (6/10): 100% casual and 100% skilled, which is a trivial give-away in the middle of the island. The smudged cell is handed over by one column with no real deduction. → Keep it easy, but make the eye need a short two-line cross-check. Aim for around 88-92% casual, not 100%.
+L98 (6/10): A teach level at 67% casual and 90% skilled. It is not teachable: the hub gold deduction plus a crossbar fill is two steps. → Simplify to one count: give the pole and hub for free, and let the single count 'navy 6' fill the bar. Aim at 85%+ casual.
+L7 (7/10): Re-teaches full lines from L1 (row 5 and column 4 full) so it is a near repeat. The bite shape adds little. → Keep it easy but make the exact-fit row 4 the only entry, with no full-line gift. Or change the picture to a more interesting silhouette.
+L15 (7/10): The intent bundles two separate ideas (row 1 and row 9 tallies), which muddies the lesson. → Drop the row 9 ringed 8 so only the row 1 tally teaches the lesson, or move the row 9 idea to L16.
+L28 (7/10): Third version of 'unlike colours need no gap, like colours do', after L25 and L26. → Replace the rule with a new angle: for example, a colour clue where the touching colours make a longer run appear shorter. Or make this the first level with a three-way adjacency.
+L29 (7/10): Same rule as L26 and L28, so it is a near-duplicate. → Merge it with L28 and cut one of the two. If it stays, make the row crossing the aha: use the shine to force a colour swap.
+L31 (7/10): Re-explains L26/L29 'touching colours owe no gap' and is not clearly easier than L30. → Add one full colour line gift and shrink it to 7x7 so it plays as a true breather.
+L44 (7/10): Only two tiny voids at the edges, so the void mechanic hardly matters. It is really a plain overlap level. → Add a void notch between two fingers so the clues depend on it, or relabel it as a practise level with no void.
+L56 (7/10): Same 'stamp resolves a symmetric swap' beat as L51, L55 and L59. → Make the stamp a paper stamp that forbids a cell, or let it break a three-way ambiguity, so it differs from the swap pattern.
+L59 (7/10): A repeat of the swap-resolved-by-stamp idea, and it has the weakest 'aha' in this island. → Use two stamps that point to different swaps, or swap in a puzzle where the stamp is a clue-chain start, not a tie-break.
+L65 (7/10): The intent just says the spiral fills at once. There is no twist and no aha beyond a big exact fit. → Make it genuinely twisty: remove the full column-6 gift and let the spiral come from a colour cross-check.
+L68 (7/10): The intent is one exact-fit row. The huge 13x13 board is mostly mechanical fill. → Shrink it or give a colour-cross deduction at the centre (the ladybird's spots), and state that as the aha.
+L83 (7/10): At 57% casual it is harder than the L82 twist and is a dip right before the finale, with no recovery. → Ease it to around 70% by exposing one more readable row, or move it ahead of L82.
+L93 (7/10): The intent is thin (just 'rows fill, ? is 3 and 2'), with two cracks and little aha on a 14x14 board. → Rewrite around one crack with a real deduction chain, and trim the second crack to a bonus cell.
+L94 (7/10): The intent leans on a generic exact fit and does not present a twist. → Make the two cracks depend on each other (one's length bounds the other) so it is truly a twist.
+L105 (7/10): It adds 4 colours, a stamp and two tallies at once, so it is overloaded for a combine. → Drop to 3 colours or remove the second stamp-like moon so one new thing is read at a time.
+L118 (7/10): Six exact rows paint the whole smudged column. That is mechanical busywork, not a twist, and no insight is needed. → Make two of the six rows non-exact so the player must use a colour cross-check, and label it as a twist.
+
+level-design score 7.6/10 — This is a polished, well-structured set. It has a consistent teach, practise, boss, breather, finale rhythm per island, and every level has a written, board-true deduction. Solver stats show no traps, and win rates sit on the studio targets.
+
+Weaknesses:
+- Repetition inside chapters 3 and 7.
+- A few trivial or thin-intent levels: L79, L65, L68, L93, L94, L118.
+- A teach level (L98) that is too hard for its slot.
+- Late-game difficulty that is uniformly grindy, with no clearly easier level between the hard ones.
+- Overload where stamp, colour and tally meet at L105.
+
+I rated 8 as solid and flagged only the levels below that bar. This is a premium, calm set, but it is not yet at Picross S level. The reasons are the repeated aha shapes and the late-game sameness.
+curve: Strong skeleton: each of the 10 chapters follows teach, teach, practise, boss (slot 6), breather (slot 7), practise, combine, finale (slot 12). Mechanics arrive one at a time, in order: tally, colour, void, stamp, colour-cross, smudge, crack, colour-tally. Early casual rates meet the L1-3 target (100/100/93). The last third averages roughly 63% casual, which is on target. Skilled rates stay inside 80-100%.
+
+Problems:
+1. The chapter pattern is identical ten times, so by chapter 5 the rhythm is predictable. Vary at least two chapters, for example a finale-first or a double breather.
+2. Chapter 3 (Pigment Market) repeats "different colours touch, the same colour needs a gap" in L25, 26, 28, 29, 31 and 33. Only the ink shapes differ.
+3. Chapter 7 (Mosaic Hall) repeats "stamp resolves a symmetric swap" in L51, 55, 56 and 59.
+4. L79 (100% casual) and L98 (teach at 67%) are out of place for their slots. L79 should not be a flat give-away. L98 teaches color-tally harder than its role allows.
+5. Chapters 10-12 stack many levels at 51-60% casual. Chapter 11's L106-L108 and L113-L114 run back-to-back with no easier level between. The L103 and L115 breathers are mild. Make them clearly easier, around 85-90% casual.
+6. Several late intents describe a single 'fills exactly' step with no insight (L65, L68, L93, L94, L118). Late levels need a visible aha, not just size.
+7. Void in chapter 4 and stamp in chapter 7 are barely used again afterwards, except in combines. Late chapters lean on colour, tally and smudge. Reuse void and stamp as a twist in the finales.
+
+Two or more things at once appear first at L105, which combines stamp, 4 colours and tally in one level. This overloads before the chapter has a clean combine.
+EXIT=1

@@ -1,0 +1,51 @@
+== bmina #8A5A3C,#2E8C8A
+~.a....a.~~
+~.aa..aa.~~
+..aaaaaa..~
+..abaaba...
+..aaaaaa...
+...aaaa....
+..aaaaaa...
+.aaaaaaaa..
+.aaaaaaaa.a
+.aaaaaaaaaa
+bbbbbbbbb..
+.bbbbbbbb.~
+== kite #D9694F,#E3A83B smudge=r4
+...bb...
+..abba..
+.aabbaa.
+bbbbbbbb
+.ab.baa.
+..abba..
+...bb...
+....b.b.
+== kite2 #D9694F,#E3A83B smudge=r4
+...bb...
+..abba..
+.aabbaa.
+bbbbbbbb
+..abbaab
+..abba..
+...bb.b.
+....bb..
+== candle #E3A83B,#D9694F smudge=r6
+....a....
+.a..a..a.
+...aaa...
+.a.aaa.a.
+....b....
+..bbbbb..
+..bbbbb..
+..bbbbbaa
+aaaaaaa.a
+.aaaaaaa.
+== rover #2B3A67,#6FA8DC
+bbbb......
+bbbb...a..
+..a....aa.
+.aaaaaaaa.
+aa.aaaa.aa
+aabbbbbbaa
+.a.aaaa.a.
+aa.aa.aa.a

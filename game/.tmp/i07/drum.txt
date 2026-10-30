@@ -1,0 +1,31 @@
+3 r6,c7
+cc..........cc
+ccc........ccc
+..cc......cc..
+..bbbbbbbbbb..
+.bbbbbbbbbbbb.
+.abaabaabaaba.
+aaaaaaaAaaaaaa
+aaaaabbbbaaaaa
+aaaabaaaabaaaa
+aaaaabbbbaaaaa
+.abaabaabaaba.
+.bbbbbbbbbbbb.
+..c........c..
+.cc........cc.
+
+3 r6,c7
+.cc........cc.
+cc..........cc
+.cc........cc.
+..bbbbbbbbbb..
+.bbbbbbbbbbbb.
+.abaabaabaaba.
+aaaaaaaAaaaaaa
+aaaaabbbbaaaaa
+aaaabaaaabaaaa
+aaaaabbbbaaaaa
+.abaabaabaaba.
+.bbbbbbbbbbbb.
+..c........c..
+.cc........cc.

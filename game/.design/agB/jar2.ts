@@ -1,0 +1,40 @@
+const NIGHT = "#2B3A67", GOLD = "#E3A83B", UMBER = "#8A5A3C";
+const mk=(title:string,smudge:string[],art:string)=>({id:"firefly-jar",title,palette:[NIGHT,GOLD,UMBER],role:"combine",mechanics:["smudged","color","exact-fit"],smudge,aha:"",art});
+export const A=[
+mk("j4",["c1"],`
+b.........
+...cccc..b
+...cccc...
+..aaaaaa..
+.aaaaaaaa.
+.abaaaaaa.
+aaaaabaaaa
+abaaaaaaba
+.aaabaaaa.
+.aaaaaaba.
+..aaaaaa..`),
+mk("j5",["c1"],`
+b.........
+...cccc..b
+...cccc...
+..aaaaaa..
+.aaaaaaaa.
+.abaaaaaa.
+.aaaabaaa.
+abaaaaaaba
+aaaabaaaaa
+.aaaaaaba.
+..aaaaaa..`),
+mk("j6",["c1"],`
+b........b
+...cccc...
+...cccc...
+..aaaaaa..
+.aaaaaaaa.
+.abaaaaaa.
+.aaaabaaa.
+abaaaaaaba
+.aaabaaaa.
+.aaaaaaba.
+..aaaaaa..`),
+];

@@ -1,0 +1,7 @@
+exhibit-gallery-hall: 162 unique of 269
+search 101.8 steps 65 passes 8 open0 39  S: c19  C: c12.2 r4.8 r0.0
+search 88.3 steps 59 passes 7 open0 39  S: c19  C: r2.1 r5.5 c4.2
+search 82.9 steps 57 passes 8 open0 39  S: c19  C: r5.2 c9.5 r1.1
+search 80.8 steps 62 passes 6 open0 39  S: c7  C: c13.5 c6.2 r0.0
+search 79.3 steps 56 passes 8 open0 39  S: c19  C: c11.8 c10.3 r1.1
+max 101.8

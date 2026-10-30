@@ -1,0 +1,15 @@
+~~~~~~ccc~~~~~~
+~~~~cc...cc~~~~
+~~~c..a.a..c~~~
+~~c.aaaaaaa.c~~
+~c..a..a..a..c~
+~c.....a.b.b.c~
+c.b.b..a.bbb..c
+c.bbb..a..b.a.c
+c..a..aaa.a.aac
+c.aaa.....aa..c
+c..a..b.b..a..c
+c.bbb.bbb.bbb.c
+c.ccc.ccc.ccc.c
+c..c...c...c..c
+ccccccccccccccc

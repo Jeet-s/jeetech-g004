@@ -1,0 +1,17 @@
+{
+    id: "mosaic-rooster", title: "Rooster", palette: [UMBER, CORAL], role: "boss", mechanics: ["stamp", "color", "deep-chain"],
+    aha: "Column 5's coral comb touches the umber body with no gap: 2+7+1 plus one gap is eleven of twelve, so the body is pinned; the stamped tile in column 4 then anchors its 6 and the chain runs out to the tail.",
+    art: `
+..b.b.......
+..bbb.....a.
+.aaaa....aa.
+aa.aa...aa.a
+.aaAa..aa.aa
+..baa.aa.aa.
+..baaaaaaaa.
+...aaaaaaa..
+....aaaaa...
+.....a..a...
+.....a..a...
+....aa.aa...`,
+  }

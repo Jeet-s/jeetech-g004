@@ -1,0 +1,13 @@
+{
+    id: "mosaic-cat-face", title: "Cat Face", palette: [INK], role: "breather", mechanics: ["stamp", "fill", "exact-fit"],
+    aha: "A calm one: row 6's stamped nose gap leaves exactly three cells on its left — the first 3 fills them — and the full 8s of rows 3 and 5 frame the eyes.",
+    art: `
+#......#
+##....##
+########
+#.####.#
+########
+###,.###
+.######.
+..####..`,
+  }

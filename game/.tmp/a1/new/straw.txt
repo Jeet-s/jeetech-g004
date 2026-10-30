@@ -1,0 +1,12 @@
+{id: "market-strawberry", title: "Strawberry", palette: ["#D9694F", "#2E8C8A"], role: "teach", mechanics: ["color"], aha: "Same colours need a gap, different colours don't: row 3's green 2 4 2 must keep its two gaps, so 2+1+4+1+2 fills all ten exactly — while row 4's red 3, green 2, red 3 may touch and has two spare cells.", art: `
+....bb....
+.bbb.bbbb.
+bb.bbbb.bb
+.aaabbaaa.
+aaaaaaa.aa
+aa.aaaaaaa
+aaaaa.aaaa
+.aaaaaa.a.
+..aaaaaa..
+...aaaa...`,
+  }

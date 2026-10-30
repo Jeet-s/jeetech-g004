@@ -1,0 +1,55 @@
+== cherries #D9694F,#2E8C8A
+..bb.b...
+.bbbbbbb.
+...b...b.
+..b....b.
+.aaab..b.
+aaaaa.aaa
+aaaaa.aaa
+.aaa.aaaa
+.....aaaa
+......aa.
+== carrot #F2B35E,#2E8C8A
+.bb...b.
+bbbb.bbb
+.bbbbbbb
+...bbb..
+..abaaaa
+..aa.aa.
+..aaaaa.
+...a.aa.
+...aaa..
+....a...
+== balloon #D9694F,#E3A83B
+...aaaa...
+..abbbaa..
+.abbaabba.
+.ab....bb.
+abb....bba
+.ab...bba.
+..abbbaa..
+...a..a...
+...aaaa...
+....aa....
+== cone #E98F7A,#8A5A3C
+..aaa..
+.aaaaa.
+aaaaaaa
+aaaaaa.
+bbbbb.a
+.bbbb..
+.bbbb.a
+..bb...
+..bb..a
+...b...
+== bell #1F2A3A
+.#########.
+~~~~.#.~~~~
+~~~.###.~~~
+~~.#####.~~
+~~.##.##.~~
+~.###.###.~
+~.#######.~
+.#########.
+##.#####.##
+~~~~.#.~~~~

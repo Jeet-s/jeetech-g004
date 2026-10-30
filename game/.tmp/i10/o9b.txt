@@ -1,0 +1,7 @@
+exhibit-monarch: 170 unique of 240
+search 48.6 steps 39 passes 5 open0 32  S: c8  C: c2.5 c6.5 r2.2
+search 47.2 steps 39 passes 5 open0 32  S: c2  C: c11.0 c4.7 r9.3
+search 46.4 steps 37 passes 3 open0 32  S: c4  C: c10.4 r14.2 r4.4
+search 43.3 steps 36 passes 4 open0 32  S: c17  C: r6.9 r5.3 c10.4
+search 42.7 steps 32 passes 4 open0 32  S: c0  C: c15.1 r4.7 r14.2
+max 48.6

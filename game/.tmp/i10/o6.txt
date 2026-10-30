@@ -1,0 +1,7 @@
+exhibit-peacock: 194 unique of 279
+search 110.3 steps 64 passes 8 open0 34  S: c8  C: c15.7 r9.3
+search 109.4 steps 70 passes 10 open0 34  S: c5  C: c15.3 c3.2
+search 108.6 steps 65 passes 8 open0 34  S: c8  C: c14.2 r13.2
+search 106.7 steps 71 passes 11 open0 34  S: c5  C: r7.0 r3.2
+search 103.3 steps 65 passes 8 open0 34  S: c4  C: c14.2 c11.1
+max 110.3

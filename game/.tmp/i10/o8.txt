@@ -1,0 +1,7 @@
+exhibit-old-painter: 271 unique of 277
+search 82.3 steps 49 passes 8 open0 36  S:   C: r3.0 c5.0
+search 67.9 steps 47 passes 5 open0 36  S:   C: c11.5 r3.0
+search 66.7 steps 47 passes 5 open0 36  S:   C: r10.0 r3.0
+search 65.8 steps 48 passes 5 open0 36  S:   C: c10.0 r3.0
+search 63.2 steps 46 passes 4 open0 36  S:   C: c6.3 c8.0
+max 82.3

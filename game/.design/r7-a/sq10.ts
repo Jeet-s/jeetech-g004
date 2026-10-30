@@ -1,0 +1,13 @@
+import { INK } from "../../src/game/types";
+const S = (title: string, art: string) => ({ id: "red-squirrel", title, palette: [INK], role: "twist", mechanics: ["tally", "overlap"], tally: ["r5"], aha: "", art });
+export const A = [
+S("k1", `
+.#...#####.
+##...#....#
+#.##.#.##.#
+####.#.#..#
+.###.#...#.
+#####.#####
+.###.#.###.
+.#.#.#.##..`),
+];

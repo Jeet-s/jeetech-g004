@@ -1,0 +1,17 @@
+{
+    id: "fern-frond", title: "Fern Frond", palette: [INK], role: "combine", mechanics: ["reach", "overlap", "exact-fit"],
+    aha: "Column 6's 11 stands the stem in twelve cells; each leaflet row's middle 1 must be that stem cell, so the runs either side are boxed into their own half — and column 4's 8 overlaps to pin the left fronds.",
+    art: `
+.....#.....
+....###....
+..##.#.#...
+...#.#.##..
+.###.#.#...
+..##.#.###.
+####.#.##..
+.###.#.####
+..##.#.###.
+...#.#..##.
+.....##....
+......##...`,
+  }

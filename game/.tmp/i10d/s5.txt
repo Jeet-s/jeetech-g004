@@ -1,0 +1,34 @@
+= 3 mina
+....cccc....
+..cccccccc..
+.ccccccccccc
+.aaaaaaaaaa.
+aaabbbbbbaaa
+aabbbbbbbbaa
+aabAabbaAbaa
+aabbbbbbbbaa
+aabbbbabbbaa
+aabbaaaabbaa
+aaabbbbbbaaa
+aaaa.bb.aaaa
+aa.cccccc.aa
+..cccccccc..
+= 3 painter
+......aaaaaa......
+....aaaaaaaaaa....
+...aaaaaaaaaaaa.b.
+...cbbbbbbbbbbc.b.
+..ccbbbbbbbbbbcca.
+..cbcccbbbbcccbca.
+..cbbabbbbbbabbca.
+..cbbbbbbbbbbbbca.
+..ccbbbbbbbbbbcca.
+..cccccc..cccccca.
+...cc.cccccc.cc.a.
+...ccc.cccc.ccc.a.
+....cc.cccc.cc.bbb
+....ccc.cc.ccc.bbb
+aaaa.cc.cc.cc.aaa.
+aaaaa.c.cc.c.aaaaa
+aaaaaa.c..c.aaaaaa
+aaaaaaaa..aaaaaaaa

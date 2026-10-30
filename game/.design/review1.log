@@ -1,0 +1,52 @@
+PASS level_intents: all 120 levels have a specific intent
+PASS no_filler_levels: no trivial filler levels after the tutorial
+FAIL level_design: level-design review 7.3/10 (bar 8), 0 level(s) below 6/10: A polished, well-paced 120-level set with a clear one-idea-per-island spine and strong picture variety. Casual/skilled win rates land on the studio targets and trap rate is 0 everywhere. The main faults are repetition of the "exact row plus full column" opener, teach levels for cracked and deep-chain that are harder than they should be, and several breathers and combines that do not live up to their labels. About 40% of levels are solid-but-forgettable (6-7), and roughly 45% are genuinely good (8+). There are no broken levels. Curve: Strong chapter-per-idea structure. Each island adds one rule (reach, colour, void, stamp, colour-cross, smudged, cracked, deep chain, then mixes). Chapter order is sensible: teach, teach, practise, practise, twist, boss, breather, twist, practise, combine, twist, finale. Easy-run and difficulty targets are met. Ch.1 L1-3 are 100/100/93%, the last third averages about 62% casual, and there are no isolated spikes.
+
+Weaknesses:
+1. Many levels open the same way: one exact-fit row plus one full column, then a chain. The intent text is repetitive, and "aha" variety falls off in the middle chapters (Pigment Market, Conservatory, Observatory).
+2. Several "teach" levels are harder than the neighbouring practise levels. The Kiln cracked teaches are 71/69%, the Observatory chain teaches 70/70%, and L85 follows the 63% L84. A teach level should sit at about 85%+ casual.
+3. Some "breathers" are not light. L55 has 7 passes and a stamp-only entry, L103 is 83%, and L81-style levels run at 64%. A breather should be 90% or higher and take 3-4 passes.
+4. "Combine" and "twist" levels sometimes use the mechanic incidentally (L40, L45, L109). The new rule should be the aha, not decoration.
+5. Chapters 7-10 jump straight from teach to 55-65% casual with no gentle plateau. This is on target overall, but it is steep within Kiln Room and Lantern Gallery.
+6. There is no recap of the earlier mechanics (void, stamp) in the later chapters, apart from L70, L72, L110, L113 and L120. That is good, but sparse.
+7. Several intent texts contain loose claims. L63 gives the column 6 description loosely, and L80 and L104 name lines whose clues are not self-evident.
+8. Three picture silhouettes are near duplicates in structure: L33 and L36 awnings, L26 and L28 contrast levels.
+REDESIGN THESE LEVELS (keep the ones not listed):
+L19 (6/10): 92% casual and a repeat of L7's row-plus-column stem shape. Forgettable. → Use a different breather shape, such as a symmetric picture with one exact row, and drop the stem.
+L28 (6/10): Repeats the L26 rule with no new idea. → Use the rind as a cross-check where the colour edge is read from the columns.
+L33 (6/10): Near-symmetric stripes with 3 passes are easy for a combine. Reads as busywork. → Break symmetry on one stripe and add a partial row.
+L35 (6/10): Repeats the row-5 exact-fit-with-touch pattern of L29 and L33. → Replace the rim row with a column-first anchor.
+L40 (6/10): The voids are incidental; the level is solved by full rows and columns. → Make a void cut a run that decides a column.
+L81 (6/10): 64% casual for a mid-combine with a lot of dense fill; solving leans on hidden-cell guessing risk. → Give one extra stamped cell in column 3.
+L3 (7/10): Tiny 5x6 with a loose silhouette; the jellyfish is hard to read. → Add a tentacle row or widen to 6x7 so the overlap aha reads as a picture.
+L7 (7/10): Fine, but it re-teaches L2's exact-fit idea with no new angle. → Make the bucket a split-clue row that only fits via one gap-free hint.
+L10 (7/10): Standard combo; no standout insight beyond L4. → Make the X-pinning of the 9 and the 8 the single deduction the player must find.
+L15 (7/10): Reads close to L13's idea; the owl is a bit blobby. → Lean on the lone-1 branch aha and reduce the solid body mass.
+L16 (7/10): Near repeat of L15's perch logic. → Swap the premise so the lone 1 is not on a perch.
+L17 (7/10): Large 11x11 with a lot of solid body, so the work is mechanical. → Open the body with a couple of paper holes so columns need reach logic.
+L21 (7/10): Fine, but column 10 opening it is the same trick as earlier chapters. → Start from a different anchor, a split clue rather than 1 8.
+L25 (7/10): Row 3 fills outright, so there is little to figure out. The teach is clear but the aha is thin. → Add a second row where touch versus gap changes a placement.
+L27 (7/10): Colour order alone decides it, but only one row shows that. → Add a second row decided by colour order.
+L29 (7/10): Good rule, thin picture. → Add a second line using the same rule.
+L31 (7/10): 93% casual and a fine breather, but 20 lines open at the start is a lot. → Fine as is; trim 2-3 open lines.
+L32 (7/10): Mechanical. → Use the middle-1 stem aha on a second line.
+L39 (7/10): Large and fiddly; the face is hard to read. → Trim the grid or open the face with one more landmark.
+L42 (7/10): 73% casual is fine, but 9s with ten cells is the same trick as L8. → Add a void-cut column that decides the plinth.
+L43 (7/10): Not much easier than neighbours at 87%. → Simplify the lid so the voids do more of the work.
+L44 (7/10): Fingers are long and a little repetitive. → Vary the finger gaps further.
+L47 (7/10): Long explanation; the aha is spread across several lines. → Pick one decisive line and trim the rest.
+L49 (7/10): Fine, but stamps are single-cell and easy to miss. → Add a tutorial highlight for the stamp.
+L51 (7/10): Same lesson as L50. → Use a stamp in the middle of a run instead of a lone 1.
+
+level-design score 7.3/10 — A polished, well-paced 120-level set with a clear one-idea-per-island spine and strong picture variety. Casual/skilled win rates land on the studio targets and trap rate is 0 everywhere. The main faults are repetition of the "exact row plus full column" opener, teach levels for cracked and deep-chain that are harder than they should be, and several breathers and combines that do not live up to their labels. About 40% of levels are solid-but-forgettable (6-7), and roughly 45% are genuinely good (8+). There are no broken levels.
+curve: Strong chapter-per-idea structure. Each island adds one rule (reach, colour, void, stamp, colour-cross, smudged, cracked, deep chain, then mixes). Chapter order is sensible: teach, teach, practise, practise, twist, boss, breather, twist, practise, combine, twist, finale. Easy-run and difficulty targets are met. Ch.1 L1-3 are 100/100/93%, the last third averages about 62% casual, and there are no isolated spikes.
+
+Weaknesses:
+1. Many levels open the same way: one exact-fit row plus one full column, then a chain. The intent text is repetitive, and "aha" variety falls off in the middle chapters (Pigment Market, Conservatory, Observatory).
+2. Several "teach" levels are harder than the neighbouring practise levels. The Kiln cracked teaches are 71/69%, the Observatory chain teaches 70/70%, and L85 follows the 63% L84. A teach level should sit at about 85%+ casual.
+3. Some "breathers" are not light. L55 has 7 passes and a stamp-only entry, L103 is 83%, and L81-style levels run at 64%. A breather should be 90% or higher and take 3-4 passes.
+4. "Combine" and "twist" levels sometimes use the mechanic incidentally (L40, L45, L109). The new rule should be the aha, not decoration.
+5. Chapters 7-10 jump straight from teach to 55-65% casual with no gentle plateau. This is on target overall, but it is steep within Kiln Room and Lantern Gallery.
+6. There is no recap of the earlier mechanics (void, stamp) in the later chapters, apart from L70, L72, L110, L113 and L120. That is good, but sparse.
+7. Several intent texts contain loose claims. L63 gives the column 6 description loosely, and L80 and L104 name lines whose clues are not self-evident.
+8. Three picture silhouettes are near duplicates in structure: L33 and L36 awnings, L26 and L28 contrast levels.

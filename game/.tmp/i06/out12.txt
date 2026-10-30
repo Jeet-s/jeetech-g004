@@ -1,0 +1,17 @@
+start 70.9
+best 88.4 edits 6
+~~~~~~ccc~~~~~~
+~~~~cc...cc~~~~
+~~~c.ba.a..c~~~
+~~c.aaaaaaa.c~~
+~ca.a..a..a..c~
+~c.....a.b.b.c~
+c.b.b..a..bb..c
+c.bbb..a..b.a.c
+c..a..aaa.a.aac
+cbaaa.....aa.bc
+c..ab.b.b..a..c
+c.bbb.bbb.bbb.c
+ccccccccccccccc
+c.c.........c.c
+ccccccccccccccc

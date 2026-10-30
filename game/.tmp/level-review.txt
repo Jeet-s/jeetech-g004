@@ -1,0 +1,56 @@
+PASS level_intents: all 120 levels have a specific intent
+PASS no_filler_levels: no trivial filler levels after the tutorial
+FAIL level_design: level-design review 6.5/10 (bar 8), 0 level(s) below 6/10: The set is well-structured and honest, with a clean island-per-mechanic design and no broken or unsolvable-looking boards (every trap rate is 0). The main weaknesses are the following. Many boards are symmetric, even though the intents say they are not. Several 'teach' levels give away the key step and finish in 2-4 passes. Colour-island levels repeat one 'full row, then fill' pattern. Late-game casual win rates fall to 56-63%, too harsh for a calm product. Chapter finales mostly scale up size instead of testing everything. Strong levels are L6, L10, L12, L18, L22, L23, L42, L53, L54, L60, L98, L100, L101 and L108. Weak ones are L1-L3, L5, L7, L9, L17, L25, L31, L37, L43, L67, L71, L91, L103 and L115, which are symmetric or trivial. Nothing below is rated under 5. Curve: The set has a clear chapter structure: each island teaches one mechanic (overlap/exact-fit, reach, colour, void, stamp, colour-cross, smudged, cracked, deep-chain, then pairings), and each island has a teach, practise, boss, breather, twist, finale rhythm. Mechanics are introduced alone first and combined later, which is the right approach. Problems:
+
+1. Difficulty is front-loaded wrongly in places. Island 1 is a gentle ramp, but L6 (boss) and L12 (finale) have only 83-85% casual win rates.
+2. Several 'teach' levels (L37, L38, L45, L49, L50, L73, L85) hand over their key fact in the intent text. The boards are fine, but many of them solve with few passes (2-4), so the new idea is not really tested. 'Teach' levels need a board where the new rule is the only way in.
+3. The first level of the 'colour' chapter (L25) is the only one with a 97% casual win rate. Colour is the biggest jump in the game, and L26-L36 cover it with no real step up beyond size.
+4. Difficulty spikes late. The boss and finale levels (L78, L84, L87-L96, L99, L108, L120) have casual win rates of 56-63%. For a calm, premium audience, a casual win rate below 65% on hand-picked levels is a risk. Mix in more 80%+ levels between them.
+5. Pass counts barely rise with level count. Islands 3-5 sit at 3-7 passes, and the deep-chain island is the only one that really raises them. The mid-game is padded with look-alike 'one anchor row then fill' boards.
+6. Many pictures are mirror-symmetric (L1, L5, L9, L17, L19, L31, L37-L38, L43, L67, L71, L91, L106) even though the intents promise 'nothing mirrors'. Symmetric boards solve half as much and feel repetitive.
+7. Chapter finales do not always test mastery. L24, L48 and L72 mostly retest the island's single trick plus size. L48's intent also claims reach, which the board barely uses.
+8. Intent text often mismatches the board. Examples are L5 (says the starfish has one step, but the board is a plain symmetric star), L8 (not a regatta), L26 and L75 (claims about shapes), and L63 and L64 (the intents do not fully match).
+9. Later islands (smudged, cracked) are introduced on a clean, easy puzzle first, which is good. But they then reuse the same 'find the anchor row, read the hidden line' pattern from L73-L120 with little variation.
+
+Overall: the structure and theming are strong, and there is no sign of broken boards. The weakness is that too many levels follow the same anchor-and-fill pattern, and the late-game hit rates are harsh.
+REDESIGN THESE LEVELS (keep the ones not listed):
+L5 (6/10): Starfish is perfectly symmetric, so overlap on one half solves the other. The intent claims nothing about this. → Make one arm longer or add a notch so the sides differ.
+L7 (6/10): Sand bucket is a near-mirror with a trivial dent, so it is filler. → Keep as breather but move the dent to an uneven spot and shrink to 7x6.
+L8 (6/10): Regatta intent says a two-run overlap, but the board looks like noise rather than boats. → Redraw as two clear sails of different heights.
+L9 (6/10): Anchor is symmetric; the exact-fit row is the only insight and the rest is mirroring. → Make one arm shorter.
+L17 (6/10): Rabbit is exactly symmetric, so the 'tufts' twist is simply copied across. → Make ears different heights and tufts uneven.
+L19 (6/10): Acorn is near-symmetric, trivial after the boss. → Fine as a breather; shift the stem one cell.
+L25 (6/10): Strawberry is symmetric and the colour rule is stated rather than discovered; 97% win rate. → Use a board where only the gap rule resolves one row.
+L26 (6/10): Two-colour cherries are nearly mirrored, so it teaches little beyond L25. → Break the symmetry and make the cross-check necessary.
+L28 (6/10): Watermelon is nearly a mirror and is easy to solve row by row. → Offset the pips.
+L29 (6/10): Count-same-colour-gaps is a repeat of L25 and L28 with a new picture. → Use a case where a mixed-colour pair needs a gap only on one side.
+L31 (6/10): Balloon is symmetric and trivial, but it is a fine breather; it is only 'memorable' as an image. → Add a tilted basket.
+L37 (6/10): Amphora is symmetric and resolves in 3 passes; voids hand out too much. → Make it asymmetric (handle on one side).
+L38 (6/10): Bell is symmetric and the second voids lesson is the same as L37. → Teach the void as a wall the run cannot cross.
+L43 (6/10): Urn is symmetric and trivial; acceptable as a breather but forgettable. → Keep a small tweak.
+L55 (6/10): Cat face is symmetric and simple. → Fine; offset an ear.
+L67 (6/10): Frog is symmetric; fine breather but forgettable. → Offset one eye.
+L103 (6/10): A breather is placed after a boss, but the colour mechanic is not deep-chain. → Keep it as a breather but make it asymmetric.
+L115 (6/10): Fine breather but it is not tied to the previous idea. → None.
+L1 (7/10): Fine first board but the Teacup is lopsided and tiny; the intent mentions X's that a full-row start barely needs. → Keep it, but trim the intent to one idea (full line).
+L2 (7/10): Second exact-fit teach is very close to L1, so little new. → Make it teach X-marks against a finished column instead.
+L3 (7/10): Overlap is introduced well; the board is a near mirror, so the player does half the work. → Shift one cell off-axis.
+L4 (7/10): Lighthouse is symmetric-ish and the 'aha' (X turns loose line into exact fit) is stated in the intent but needs only one step. → Add a second line where the X is needed.
+L11 (7/10): The wall idea is good, but the board is fairly small for a twist. → Add a second wall column.
+L13 (7/10): Reach is clear, but the toadstool silhouette is sparse (lots of empty paper). → Fill the empty top-right with a second toadstool.
+L14 (7/10): Mirror image; the notch trick is the only non-mechanical step. → Offset the notch from centre.
+
+level-design score 6.5/10 — The set is well-structured and honest, with a clean island-per-mechanic design and no broken or unsolvable-looking boards (every trap rate is 0). The main weaknesses are the following. Many boards are symmetric, even though the intents say they are not. Several 'teach' levels give away the key step and finish in 2-4 passes. Colour-island levels repeat one 'full row, then fill' pattern. Late-game casual win rates fall to 56-63%, too harsh for a calm product. Chapter finales mostly scale up size instead of testing everything. Strong levels are L6, L10, L12, L18, L22, L23, L42, L53, L54, L60, L98, L100, L101 and L108. Weak ones are L1-L3, L5, L7, L9, L17, L25, L31, L37, L43, L67, L71, L91, L103 and L115, which are symmetric or trivial. Nothing below is rated under 5.
+curve: The set has a clear chapter structure: each island teaches one mechanic (overlap/exact-fit, reach, colour, void, stamp, colour-cross, smudged, cracked, deep-chain, then pairings), and each island has a teach, practise, boss, breather, twist, finale rhythm. Mechanics are introduced alone first and combined later, which is the right approach. Problems:
+
+1. Difficulty is front-loaded wrongly in places. Island 1 is a gentle ramp, but L6 (boss) and L12 (finale) have only 83-85% casual win rates.
+2. Several 'teach' levels (L37, L38, L45, L49, L50, L73, L85) hand over their key fact in the intent text. The boards are fine, but many of them solve with few passes (2-4), so the new idea is not really tested. 'Teach' levels need a board where the new rule is the only way in.
+3. The first level of the 'colour' chapter (L25) is the only one with a 97% casual win rate. Colour is the biggest jump in the game, and L26-L36 cover it with no real step up beyond size.
+4. Difficulty spikes late. The boss and finale levels (L78, L84, L87-L96, L99, L108, L120) have casual win rates of 56-63%. For a calm, premium audience, a casual win rate below 65% on hand-picked levels is a risk. Mix in more 80%+ levels between them.
+5. Pass counts barely rise with level count. Islands 3-5 sit at 3-7 passes, and the deep-chain island is the only one that really raises them. The mid-game is padded with look-alike 'one anchor row then fill' boards.
+6. Many pictures are mirror-symmetric (L1, L5, L9, L17, L19, L31, L37-L38, L43, L67, L71, L91, L106) even though the intents promise 'nothing mirrors'. Symmetric boards solve half as much and feel repetitive.
+7. Chapter finales do not always test mastery. L24, L48 and L72 mostly retest the island's single trick plus size. L48's intent also claims reach, which the board barely uses.
+8. Intent text often mismatches the board. Examples are L5 (says the starfish has one step, but the board is a plain symmetric star), L8 (not a regatta), L26 and L75 (claims about shapes), and L63 and L64 (the intents do not fully match).
+9. Later islands (smudged, cracked) are introduced on a clean, easy puzzle first, which is good. But they then reuse the same 'find the anchor row, read the hidden line' pattern from L73-L120 with little variation.
+
+Overall: the structure and theming are strong, and there is no sign of broken boards. The weakness is that too many levels follow the same anchor-and-fill pattern, and the late-game hit rates are harsh.

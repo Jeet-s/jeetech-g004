@@ -1,0 +1,46 @@
+PASS level_intents: all 120 levels have a specific intent
+PASS no_filler_levels: no trivial filler levels after the tutorial
+FAIL level_design: level-design review 6.8/10 (bar 8), 0 level(s) below 6/10: This is a well-structured 120-level set. It has clear chapter themes (reach, void, stamp, color-cross, smudged, cracked, chain), most intents match their boards, and the early curve is clean. Weaknesses:
+- Several "twist" or "practise" levels reuse the same deduction in new art. The commonest are the lone-1 pole that X's the rest of its row, and the exact-fit row followed by a column overlap.
+- Chapters 1, 2, 5 and 6 are mostly the same two or three moves repeated.
+- L12 uses reach before the game teaches it.
+- Late chapters lean on one-note "fill row N, then columns" openings.
+- Some late-game casual rates (L88, L99, L104, L112, L114) spike against their neighbours. These look like genuine difficulty, not guessing, so they need a softer ramp, not a redesign.
+- The final-third casual average is on target (about 60%).
+- Compared with Picross S and Nonogram.com, the pictures are charming but the "aha" density is uneven. Colour and cracked levels are stronger than the early monochrome ones. Curve: Chapter 1 teaches well: full line, exact-fit, overlap, practise, boss, breather, split-clue twist, then a combine. The finale L12 breaks the rule by using reach before L13 teaches it, and the board is sparse. The lone-1 "pole wall" trick recurs in L9, L11, L15 and L98. Chapters 2-3 mix reach with overlap, but reach is rarely the star after L13, so the label is stronger than the board. Colour, void, stamp and smudged are each introduced alone in a teach level and then combined at the right time (L45, L47, L68, L109-L120), which is good. Breathers sit sensibly at slot 7 and are measurably easier (L7, L19, L31, L43, L55, L67, L79, L91, L103, L115), with two exceptions. L103 is only 79% against about 63% on its neighbours, and L91 is weak as a breather. The late chapters (Lantern Gallery, Kiln Room, Observatory, Grand Exhibit) hold casual win rates at 53-63% with few easy levels. Spikes: L88 (55% after 66%), L99 (58% after 75%), L104 (55% after 79%), L112 (54%) and L114 (53%). Cracked and smudged chapters teach the new number type in their first level and then do not escalate. "Chain" (Observatory) is not a real mechanic, because it is ordinary line logic, so L97-L98 teach nothing the player has not already learned. The Observatory chapter should open with something that actually is new. Top-game benchmarks would add a "no-obvious-start" level or a deliberate guess-free deep deduction in each chapter's boss. Most bosses here still resolve in 4-7 passes.
+REDESIGN THESE LEVELS (keep the ones not listed):
+L12 (6/10): Its intent relies on reach (anchoring a run to a wall), which L13 teaches next. The whale is sparse, with the tail and spout floating in empty space. → Swap L12's anchor logic for overlap and exact-fit, or move it after the reach teach. Fill the right third with a wave or a second element.
+L88 (6/10): 55% casual after 66%, an isolated spike at 13x12. A cracked row mixes with a heavy mirrored fish. → Reduce to 11x10 and make the ? row crossing obvious.
+L97 (6/10): Not a new mechanic; the board is ordinary overlap and fill. It does not teach anything new for a chapter opener. → Open with a real new idea or relabel; keep the hand-off but trim the tripod.
+L99 (6/10): 58% casual after 75% — a spike. Colour plus chain is too much for a practise. → Cut to 8x8 or remove one colour.
+L104 (6/10): 55% casual after 79% is a sharp spike for a practise. → Shrink to 10x10.
+L112 (6/10): 54% casual, hard for slot 4, and the horse is hard to read. → Simplify to 2 colours or add an extra fill row.
+L5 (7/10): Mostly a symmetric starfish that repeats L3's overlap-centre idea; the 'aha' is only the eye X. → Make the shape asymmetric (one arm shorter) so the player cannot copy the centre read.
+L9 (7/10): Rows 2-3 and the mirrored anchor make it near-symmetric; the lone-1 pole trick will be reused three more times. → Offset the ring by one column, and keep this as the only early lone-1 pole level.
+L11 (7/10): Same lone-1 wall deduction as L9 in a new picture; the twist label is overstated. → Replace the twist with a different idea, such as an edge-anchored run, or merge it with L9.
+L14 (7/10): Solves mainly by exact fills; reach is incidental and the fox is asymmetric for no reason. → Make the row 5 column 1 run actually need the floor anchor, and drop the 'fill' reliance.
+L15 (7/10): Repeats the lone-1 perch pole trick of L9 and L11. → Use a run that must touch the edge instead of a lone 1.
+L17 (7/10): Good logic but the rabbit's right half is empty (columns 7-11 below row 5), so the board is wasted. → Add a body, tail or ground line to the right.
+L20 (7/10): Pine tree is clear, but the long overlap-only passes are mechanical. → Give one bough an asymmetric gap to force a column read.
+L21 (7/10): The bear is bulky and the hollow belly adds work, not insight; the 'cannot reach row 12' step is the only aha. → Trim rows to make the column 9 reach deduction the first move.
+L22 (7/10): Long solve (34 looks) with little new; the twist is a removal of a crutch, not an insight. → Add one clue pair that makes the tail curl uniquely decisive.
+L24 (7/10): Picture is cluttered on the right (column 7 and 10 stubs) and the heron does not read; easier (81%) than boss L18. → Redraw as a clear heron silhouette and add a second anchor so it outranks L18.
+L27 (7/10): Carrot is symmetric and the key deduction repeats L26. → Make leaves asymmetric and move the deduction to a column crossing.
+L28 (7/10): Large watermelon is mostly one flat fill; busywork after the first pass. → Add seeds or a bite so rows are not copies.
+L29 (7/10): Pear is solid but similar in structure to L28. → Swap for a shape with a different overlap pattern.
+L30 (7/10): Intent is good, but the jar interior is clutter, and a 79% casual boss is barely harder than L28-L29. → Enlarge the anchor deductions and cut decorative stripes.
+L32 (7/10): Dense rows give 22 open lines; the intent lists many ideas at once. → Remove the ablation band or the leaves to focus on one.
+L33 (7/10): Awning and counter are readable but the lower half is mostly empty paper. → Add goods or a sign to fill the lower rows.
+L35 (7/10): Apples re-use the exact-fit then column-read pattern of L32-L33. → Change the basket weave so the rim is not a full 10.
+L39 (7/10): Bust is large and features partial rows, but the 13-row canvas has little to do before pass 3. → Cut it to 11 rows or add asymmetry to the face.
+L47 (7/10): Void plus colour but the statue reads poorly, and the clue 'both fill' makes the first pass trivial. → Redraw the cat bust more clearly and add a column that reads only from the void.
+
+level-design score 6.8/10 — This is a well-structured 120-level set. It has clear chapter themes (reach, void, stamp, color-cross, smudged, cracked, chain), most intents match their boards, and the early curve is clean. Weaknesses:
+- Several "twist" or "practise" levels reuse the same deduction in new art. The commonest are the lone-1 pole that X's the rest of its row, and the exact-fit row followed by a column overlap.
+- Chapters 1, 2, 5 and 6 are mostly the same two or three moves repeated.
+- L12 uses reach before the game teaches it.
+- Late chapters lean on one-note "fill row N, then columns" openings.
+- Some late-game casual rates (L88, L99, L104, L112, L114) spike against their neighbours. These look like genuine difficulty, not guessing, so they need a softer ramp, not a redesign.
+- The final-third casual average is on target (about 60%).
+- Compared with Picross S and Nonogram.com, the pictures are charming but the "aha" density is uneven. Colour and cracked levels are stronger than the early monochrome ones.
+curve: Chapter 1 teaches well: full line, exact-fit, overlap, practise, boss, breather, split-clue twist, then a combine. The finale L12 breaks the rule by using reach before L13 teaches it, and the board is sparse. The lone-1 "pole wall" trick recurs in L9, L11, L15 and L98. Chapters 2-3 mix reach with overlap, but reach is rarely the star after L13, so the label is stronger than the board. Colour, void, stamp and smudged are each introduced alone in a teach level and then combined at the right time (L45, L47, L68, L109-L120), which is good. Breathers sit sensibly at slot 7 and are measurably easier (L7, L19, L31, L43, L55, L67, L79, L91, L103, L115), with two exceptions. L103 is only 79% against about 63% on its neighbours, and L91 is weak as a breather. The late chapters (Lantern Gallery, Kiln Room, Observatory, Grand Exhibit) hold casual win rates at 53-63% with few easy levels. Spikes: L88 (55% after 66%), L99 (58% after 75%), L104 (55% after 79%), L112 (54%) and L114 (53%). Cracked and smudged chapters teach the new number type in their first level and then do not escalate. "Chain" (Observatory) is not a real mechanic, because it is ordinary line logic, so L97-L98 teach nothing the player has not already learned. The Observatory chapter should open with something that actually is new. Top-game benchmarks would add a "no-obvious-start" level or a deliberate guess-free deep deduction in each chapter's boss. Most bosses here still resolve in 4-7 passes.

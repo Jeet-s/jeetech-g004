@@ -1,0 +1,40 @@
+const PEACH = "#F2B35E", UMBER = "#8A5A3C", TEAL = "#2E8C8A", CORAL = "#D9694F";
+const m = (art: string) => ({ id: "exhibit-mina-portrait", title: "Mina the Curator", palette: [UMBER, PEACH, TEAL], role: "breather", mechanics: ["color"], aha: "", art });
+export const A = [
+m(`
+....c...
+.cccc.cc
+aaaaaaaa
+abbbbbba
+ab.bb.ba
+abbbbbba
+.ab..ba.
+..bbbb..`),
+m(`
+...c....
+.cccc.cc
+aaaaaaaa
+abbbbbba
+ab.bb.ba
+abbbbbba
+aabb.baa
+.abbbba.`),
+m(`
+....c...
+ccccc.cc
+.aaaaaa.
+abbbbbba
+ab.bb.ba
+abbbbbba
+.abb.ba.
+..bbbb..`),
+m(`
+...c....
+cccc.cc.
+aaaaaaaa
+abbbbbba
+ab.bb.ba
+abbbbbba
+aab..baa
+.abbbba.`),
+];

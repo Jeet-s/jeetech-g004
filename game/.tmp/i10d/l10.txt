@@ -1,0 +1,21 @@
+= 2 smudge=r7
+......a.............
+.....a.a............
+....a...a......a....
+...aa.a.aa....a.a...
+..aaaaaaaaa..a.a.a..
+.aaaaaaaaaaaaaaaaaa.
+aaaaaaaaaaaaaaaaaaaa
+..a....a....a....a..
+.aaa..aaa..aaa..aaa.
+aaaaaaaaaaaaaaaaaaab
+baaaaaaaaaaabaaaaabb
+bbaaaaaaaaabbbaaab.b
+b..aaaaaaabbbbbabbbb
+bbbbaaaaab..bbbbbbbb
+bbbbbaaabbbbbbbbbbbb
+bbbbbbabbbbbbbbbbbbb
+bbbbbbbbbbbbb..bbbbb
+bbb...bbbbbbbbbbbbbb
+bbbbbbbbb..bbbbbb..b
+bbbbbbbbbbbbbbbbbbbb

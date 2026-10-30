@@ -1,0 +1,16 @@
+import { INK } from "../../src/game/types";
+const art = `
+#.#......#.#
+#.#.#..#.#.#
+##..#..#..##
+.####..####.
+....####....
+###.####.###
+.##.####.##.
+...######...
+...#.##.#...
+....####....
+....####....
+.....##.....`;
+const S = (id: string, tally: string[]) => ({ id, title: id, palette: [INK], role: "boss", mechanics: [], aha: "", tally, art });
+export const A = [S("d1", ["r4", "c2", "c9"]), S("d2", ["r2", "r4", "r10"]), S("d3", ["r5", "c5", "c6"]), S("d4", ["r2", "r5", "r10"])];

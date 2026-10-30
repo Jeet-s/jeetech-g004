@@ -1,0 +1,25 @@
+= 3 easel
+..........aa..........
+..........aa..........
+.aaaaaaaaaaaaaaaaaaaa.
+.a..................a.
+.a....b.........cc..a.
+.a....bb.......cccc.a.
+.a....b.b......cccc.a.
+.a....b..b......cc..a.
+.a....b...b.........a.
+.a....b....b........a.
+.a....bbbbbbb.......a.
+.a....b.............a.
+.a.cccccccccccc.....a.
+.a..cccccccccc......a.
+.a...cccccccc.......a.
+.a.b...bb....bb...b.a.
+.aaabbbaabbbbaabbbaaa.
+aaaaaaaaaaaaaaaaaaaaaa
+....a.....aa.c.aca....
+...a......aa.a.aa.a...
+..a..aaa..aa.bbbb..a..
+..aaacaaa.aa.bbbb..a..
+.a.abaaca.aa.bbbb...a.
+a...aaaa..aa.bbbb....a

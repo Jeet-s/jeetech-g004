@@ -1,0 +1,8 @@
+== marble-carp #C9B8A0,#2E8C8A
+~~.bbb.~~
+~.aaaa.bb
+.aaaaaab~
+a.aaaab~~
+.aaaaaab~
+~.aaaa.bb
+~~..bb.~~

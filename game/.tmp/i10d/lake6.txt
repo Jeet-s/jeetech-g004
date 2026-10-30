@@ -1,0 +1,21 @@
+= 2 lake3_1
+......a.............
+.....a.a............
+....a...a.......a...
+...aa.a.aa.....a.a..
+..aaaaaaaaa...a.a.a.
+.aaaaaaaaaaa.aaaaaaa
+aaaaaaaaaaaaaaaaaaaa
+..a....a....a....a..
+.aaa..aaa..aaa..aaa.
+aaaaaaaaaaaaaaaaaaaa
+baaaaaaaaaaabbaaaaab
+bbaaaaaaaaabbbbaaa.b
+b..aaaaaaabbbbbbabbb
+bbbbaaaaab..bbbbbbbb
+bbbbbaaabbbbbbbbbbbb
+bbbbbbabbbbbbbbbbbbb
+bbbbbbbbbbbbb..bbbbb
+bbb...bbbbbbbbbbbbbb
+bbbbbbbbb..bbbbbb..b
+bbbbbbbbbbbbbbbbbbbb

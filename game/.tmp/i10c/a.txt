@@ -1,0 +1,26 @@
+= 2
+~~..b...b.~~
+~..aab.aab.~
+..aaaaaaaaa.
+..aaaaaaaaa.
+...aaa.aaa..
+bbbbbbbbbbbb
+.bbbbbbbbbb.
+.bbabbbbabb.
+..bbbbbbbb..
+~..bbbbbb..~
+~~...bb...~~
+~~.bbbbbb.~~
+= 2
+~~~..b......~
+~~.aab..b...~
+~.aaaaa.ab..~
+.aaaaaaaaaa..
+.aaaaaaaaaaa.
+..aaa.aaaaaa.
+bbbbbbbbbbbbb
+.bbabbbbbabb.
+..bbbbbbbbb..
+~..bbbbbbb..~
+~~...bbb...~~
+~~..bbbbb..~~

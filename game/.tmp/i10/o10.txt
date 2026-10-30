@@ -1,0 +1,7 @@
+exhibit-alpine-lake: 73 unique of 288
+search 101.6 steps 58 passes 8 open0 38  S: r8 r13  C: c6.0
+search 99.4 steps 59 passes 8 open0 38  S: c3 c13  C: r17.1
+search 97.0 steps 58 passes 8 open0 38  S: c6 c8  C: r0.1
+search 90.4 steps 58 passes 7 open0 38  S: c9 c8  C: c15.0
+search 89.9 steps 60 passes 8 open0 38  S: c19 c16  C: c9.4
+max 101.6

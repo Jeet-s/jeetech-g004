@@ -1,0 +1,24 @@
+= 3 fin
+...........accc.........
+...........acc..........
+...........a............
+..........aaaa..........
+........aa....aa........
+......aa...bb...aa......
+....aa....bbbb....aa....
+..aa................aa..
+.aaaaaaaaaaaaaaaaaaaaaa.
+..bb.bb.bb.bb.bb.bb.bb..
+.aaaaaaaaaaaaaaaaaaaaaa.
+..aac.aa........aac.aa..
+..aac.aab......baac.aa..
+..aac.aab..bb..baac.aa..
+..aac.aa..bbbb..aac.aa..
+..aa..aa..bbbb..aa..aa..
+..aa..aa..b..b..aa..aa..
+..aa..aa..bbbb..aa..aa..
+..aa..aa..bbbb..aa..aa..
+.aaaaaaaaaaaaaaaaaaaaaa.
+b.b.b.b.b.b.b.b.b.b.b.b.
+aaaaaaaaaaaaaaaaaaaaaaaa
+cc.cccc.cccc.cccc.cccc.c

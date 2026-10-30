@@ -1,0 +1,57 @@
+PASS level_intents: all 120 levels have a specific intent
+PASS no_filler_levels: no trivial filler levels after the tutorial
+FAIL level_design: level-design review 6.5/10 (bar 8), 0 level(s) below 6/10: The set is competent, well-ordered and fair, with every level logically solvable and a clean mechanic ladder. It is closer to solid than memorable. Many levels rely on one 'exact fit pins the shift' insight, repeated across worlds. The opening levels are too trivial, and some late levels get their difficulty from size rather than new insight. Several 'breathers' are not easier than their neighbours. Highlights are the world finales and levels with a real twist, such as L8, L22, L26, L36, L53, L57 and L82. The weakest are tiny or formulaic ones: L1, L2, L7, L43, L45, L67, L115. Curve: The set has a strong, well-structured mechanic ladder. Plain nonograms come first (L1-12), then tally, colour, void, stamp, colour-cross, smudged, cracked and colour-tally, and the finale combines them. Each world has a teach, practise, boss, breather, twist and finale rhythm, and the intent notes are mostly honest. Problems:
+
+1. Difficulty tuning is uneven. Casual win rates fall steadily and the late levels sit at 51-65%, which is on target. The world-1 boss (L6, 81%) and finale (L12, 75%) are fine.
+2. The early game is too easy. L1-L12 are mostly 85-100% casual, and L1-L3 are tiny 7-8 wide grids. The first tally level (L13) is not fully shown as a fresh idea.
+3. The 'breather' levels (L7, L19, L31, L43, L55, L67, L79, L91, L103, L115) are mostly on target. Some are not easier than their neighbours, for example L103 (80%) and L91 (78%).
+4. Late-game difficulty comes from board size rather than insight. L83, L96, L102, L108 and L114 are large and run 51-57% casual. Several are fixed by one big exact fit or one stamp and then become mechanical colour-crossing.
+5. Some intents are weak or inaccurate. L58 says 'without it the tentacles knot', which is vague. L45 and L68 are thin on idea. L65 and L84 say little about the insight beyond 'fills exactly'.
+6. Smudged and cracked worlds often resolve through one line that is exact-fit, so their twist is only light.
+7. Repetition: the stamp and smudged levels repeat 'one count or one stamp pins the shift' many times (L49-60, L73-84), and the same insight recurs within a world.
+8. World-opening levels carry too many mechanics at once. L68 is colour-cross plus void, and L120 stacks five mechanics.
+9. Trap rate is 0 everywhere, so fairness is fine.
+
+Overall: polished, with clear teaching and good variety, but the middle is formulaic and the early game too gentle for the genre audience.
+REDESIGN THESE LEVELS (keep the ones not listed):
+L1 (6/10): Fine first level, but the picture is a plain teacup and the full-line clue is trivial. It teaches one thing with no aha. → Keep it, but add a second small beat so the first X chain feels earned, or make the picture more charming.
+L2 (6/10): Exact-fit is taught well, but it is nearly as trivial as L1, and the sailboat shape is generic. → Make the exact fit hide in a row that is not the widest one, so the player has to find it.
+L7 (6/10): The breather is similar in feel to L1-L2, and the picture is small. → Use a larger or more recognisable picture, or add a mild twist.
+L13 (6/10): The tally idea is simple here, and the toadstool picture is basic. → Make the first tally level rely on a tally row that is not already covered by full columns.
+L19 (6/10): A breather, but the rates (91% casual) fit and the idea is slight. → None needed.
+L31 (6/10): A breather, but the idea is a slight rehash. → None.
+L43 (6/10): A small, easy picture with a slight idea. → None.
+L45 (6/10): The intent is thin and the board small. → Add a second void or colour read.
+L49 (6/10): The stamp teach is weak: the stamp only confirms an obvious placement. → Have the stamp resolve a real ambiguity.
+L58 (6/10): The intent is vague, and the octopus is similar in idea to the others. → Rewrite it around one stamp insight.
+L65 (6/10): The idea is just 'fills all cells', with little insight. → Add a cross-check.
+L67 (6/10): Almost no deduction: the stripes make it mechanical. → None needed.
+L68 (6/10): It combines two mechanics with a thin idea. → Add a real void-and-colour interaction.
+L83 (6/10): 57% casual, a large dip versus neighbours. Hard because of the unreadable column and not clear insight. Risks feeling unfair. → Narrow the hidden column's dependencies so two exact rows solve it.
+L115 (6/10): A small breather with a slight idea. → None needed.
+L3 (7/10): Solid overlap teach. The jellyfish is nice. → None needed beyond a slightly clearer first move.
+L4 (7/10): Good chaining, but the lighthouse is the first spot where the player must read a row-to-column cascade. → Fine as is.
+L5 (7/10): Split-clue overlap is a real aha. The seahorse is a good shape. → None.
+L9 (7/10): Good. Skilled and casual rates are a bit apart. → Fine.
+L10 (7/10): Nice combine. → Fine.
+L11 (7/10): Used-up clue logic is a good aha, but the board is a bit cluttered. → Fine.
+L14 (7/10): Good logic. → None.
+L15 (7/10): The intent text is a bit muddled: it mixes two ideas. → Make the tally the sole cause of the shift.
+L16 (7/10): Fine. → None.
+L17 (7/10): Good idea (count the blanks). → None.
+
+level-design score 6.5/10 — The set is competent, well-ordered and fair, with every level logically solvable and a clean mechanic ladder. It is closer to solid than memorable. Many levels rely on one 'exact fit pins the shift' insight, repeated across worlds. The opening levels are too trivial, and some late levels get their difficulty from size rather than new insight. Several 'breathers' are not easier than their neighbours. Highlights are the world finales and levels with a real twist, such as L8, L22, L26, L36, L53, L57 and L82. The weakest are tiny or formulaic ones: L1, L2, L7, L43, L45, L67, L115.
+curve: The set has a strong, well-structured mechanic ladder. Plain nonograms come first (L1-12), then tally, colour, void, stamp, colour-cross, smudged, cracked and colour-tally, and the finale combines them. Each world has a teach, practise, boss, breather, twist and finale rhythm, and the intent notes are mostly honest. Problems:
+
+1. Difficulty tuning is uneven. Casual win rates fall steadily and the late levels sit at 51-65%, which is on target. The world-1 boss (L6, 81%) and finale (L12, 75%) are fine.
+2. The early game is too easy. L1-L12 are mostly 85-100% casual, and L1-L3 are tiny 7-8 wide grids. The first tally level (L13) is not fully shown as a fresh idea.
+3. The 'breather' levels (L7, L19, L31, L43, L55, L67, L79, L91, L103, L115) are mostly on target. Some are not easier than their neighbours, for example L103 (80%) and L91 (78%).
+4. Late-game difficulty comes from board size rather than insight. L83, L96, L102, L108 and L114 are large and run 51-57% casual. Several are fixed by one big exact fit or one stamp and then become mechanical colour-crossing.
+5. Some intents are weak or inaccurate. L58 says 'without it the tentacles knot', which is vague. L45 and L68 are thin on idea. L65 and L84 say little about the insight beyond 'fills exactly'.
+6. Smudged and cracked worlds often resolve through one line that is exact-fit, so their twist is only light.
+7. Repetition: the stamp and smudged levels repeat 'one count or one stamp pins the shift' many times (L49-60, L73-84), and the same insight recurs within a world.
+8. World-opening levels carry too many mechanics at once. L68 is colour-cross plus void, and L120 stacks five mechanics.
+9. Trap rate is 0 everywhere, so fairness is fine.
+
+Overall: polished, with clear teaching and good variety, but the middle is formulaic and the early game too gentle for the genre audience.
+EXIT=1

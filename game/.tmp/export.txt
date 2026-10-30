@@ -1,0 +1,67 @@
+🔍 [expo-iap] Config values: horizonAppId=undefined, pinnedStore=play, amazonAppstoreKey=none, vega=auto, onside=false
+📦 [expo-iap] Using OpenIAP from CocoaPods
+Starting Metro Bundler
+
+Web Bundled 5295ms index.js (1354 modules)
+
+› Assets (51):
+assets/art/bg_atelier_hub.162f73b51c670ccd021224ebac818313.png (5.4MB)
+assets/art/bg_island_map.6734f2baf2d45f2fb376a6911861eb05.png (4.8MB)
+assets/art/bg_paper_main.15d59a4b31a831ee1605d8fcaa49c6ef.png (3.9MB)
+assets/art/board_frame.88e8f3722f13633d0481ab7070acacbb.png (506KB)
+assets/art/btn_primary_teal.66617ab31839b845bce628e9308ee524.png (188KB)
+assets/art/btn_secondary_gold.334128f66bdd4fec63840570e952ec9b.png (250KB)
+assets/art/cell_color_swatch.48b0b69b1e1a54c4a60e69bb1bbb0af6.png (470KB)
+assets/art/cell_dot_mark.d3f852e2648cf1a322ff7bbc3a70d185.png (457KB)
+assets/art/cell_filled.4d20666d28423330eae9eed3fab7c105.png (425KB)
+assets/art/cell_x_mark.5fea837aa90303429f32bbfec7eabcf9.png (324KB)
+assets/art/fx_ink_bloom.ff96c938ea3dcff7123614d88c55fcea.png (541KB)
+assets/art/hero_mina_easel.bc94abc0deb78f773bf5c8a95894ff9b.png (545KB)
+assets/art/hud_panel.bfb7b081cef5162edf9ec24b6ec49d47.png (191KB)
+assets/art/icon_framed_art.d42b5efd447a2932f724cd64a7d2f5bd.png (535KB)
+assets/art/icon_hint_brush.f4d578ea4e4b142bf42ecd87f99af3e5.png (239KB)
+assets/art/icon_pigment.e13c1fdff147e390db59c0bae5464f55.png (298KB)
+assets/art/logo.8977e8f782161af3d8bbaa0888986754.png (177KB)
+assets/sfx/coin.82459d6b36be10b54b29ee7c58440921.wav (44KB)
+assets/sfx/error.570406c2315f3d6938f40923aec1cbd5.wav (11KB)
+assets/sfx/fail.9808eba42cb9935f7ac3d9cabaf2de41.wav (79KB)
+assets/sfx/move.5b37824b56e2addef1e6da0544b1d3e6.wav (14KB)
+assets/sfx/music_loop.b9b508842633dd8c493473bcb57a4d4a.wav (1.4MB)
+assets/sfx/pop.4c2b107c7bdde7cdd7a358441828db62.wav (16KB)
+assets/sfx/star1.c62814fd9b5d59d97677d0ebfcdf9f66.wav (79KB)
+assets/sfx/star2.f2d9bc28de7f3160364a1d4f6229adfe.wav (79KB)
+assets/sfx/star3.8786a9a608c69c88042d5485b48a942c.wav (79KB)
+assets/sfx/success.36b7f5211d84a048a56c19dd4ef0dccf.wav (124KB)
+assets/sfx/tap.a47ccf95614ad5a338ff269596aaa7aa.wav (8KB)
+assets/sfx/unlock.69d1c986880bc12b8df9a0d0e382dfd6.wav (71KB)
+assets/sfx/whoosh.b20cd1edd8334219a054cfa597d190ec.wav (31KB)
+node_modules/@expo-google-fonts/fredoka/300Light/Fredoka_300Light.cbedf5ac5c45836f47dd224e859e19da.ttf (50KB)
+node_modules/@expo-google-fonts/fredoka/400Regular/Fredoka_400Regular.e1acb36133ba3fedec8ab2610cd61c6b.ttf (50KB)
+node_modules/@expo-google-fonts/fredoka/500Medium/Fredoka_500Medium.3e8c574c93c92c04130508b454b61529.ttf (50KB)
+node_modules/@expo-google-fonts/fredoka/600SemiBold/Fredoka_600SemiBold.89a2d8224922009e6f9b96181093b634.ttf (50KB)
+node_modules/@expo-google-fonts/fredoka/700Bold/Fredoka_700Bold.eaa34632fd156f78e16a584d1648ffcc.ttf (50KB)
+node_modules/@expo-google-fonts/nunito/200ExtraLight_Italic/Nunito_200ExtraLight_Italic.0f44842abdc321a4e8ef5f2d6eba013d.ttf (135KB)
+node_modules/@expo-google-fonts/nunito/200ExtraLight/Nunito_200ExtraLight.e3195ab4d111cebd50de96951ef3bbb5.ttf (132KB)
+node_modules/@expo-google-fonts/nunito/300Light_Italic/Nunito_300Light_Italic.48b8e1e1d609d04a229cb167ba18ea4d.ttf (136KB)
+node_modules/@expo-google-fonts/nunito/300Light/Nunito_300Light.cc4216a006ff27ad663b12c8d74708ef.ttf (132KB)
+node_modules/@expo-google-fonts/nunito/400Regular_Italic/Nunito_400Regular_Italic.0967d8e924905d0a4a70f38830288891.ttf (136KB)
+node_modules/@expo-google-fonts/nunito/400Regular/Nunito_400Regular.f04f0e9ff969fd52a75deade3a9761cd.ttf (132KB)
+node_modules/@expo-google-fonts/nunito/500Medium_Italic/Nunito_500Medium_Italic.cabcea7d7b9c755ec132e2fe3efe4138.ttf (136KB)
+node_modules/@expo-google-fonts/nunito/500Medium/Nunito_500Medium.04058d9f3583d30ece037e060c5b9721.ttf (132KB)
+node_modules/@expo-google-fonts/nunito/600SemiBold_Italic/Nunito_600SemiBold_Italic.d3964a4faac6f9f959c6495f7e8bb1cc.ttf (135KB)
+node_modules/@expo-google-fonts/nunito/600SemiBold/Nunito_600SemiBold.b1364260246b29fd9393a1a071f3af61.ttf (132KB)
+node_modules/@expo-google-fonts/nunito/700Bold_Italic/Nunito_700Bold_Italic.c9d7af177a1a205c866662164104d9f0.ttf (135KB)
+node_modules/@expo-google-fonts/nunito/700Bold/Nunito_700Bold.c133c0b8cd169e7798d0cd239477cf32.ttf (132KB)
+node_modules/@expo-google-fonts/nunito/800ExtraBold_Italic/Nunito_800ExtraBold_Italic.eb8fe8521b6a7c128572d90528b415d6.ttf (135KB)
+node_modules/@expo-google-fonts/nunito/800ExtraBold/Nunito_800ExtraBold.2b1bb82750274fc2d1043bf3891cb531.ttf (132KB)
+node_modules/@expo-google-fonts/nunito/900Black_Italic/Nunito_900Black_Italic.2c030d352cb022edf2f941cadc8367f7.ttf (135KB)
+node_modules/@expo-google-fonts/nunito/900Black/Nunito_900Black.3ffae19d12dc67269f5cdd8d7a0aaeaf.ttf (132KB)
+
+› web bundles (1):
+_expo/static/js/web/index-296e40d035ddde9af814a615f8c5d02c.js (2.6MB)
+
+› Files (2):
+index.html (1.2KB)
+metadata.json (49B)
+
+Exported: .tmp/webout3

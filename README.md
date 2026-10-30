@@ -1,7 +1,9 @@
-# JeeTech g004
+# Nonogram Puzzles: Color Logic
 
-Play package `com.jeetech.g004`. Built and maintained by the AI Game Factory.
+Solve colour nonogram puzzles, reveal pictures and restore your atelier offline
 
-- `docs/` — GitHub Pages: landing page, privacy policy, terms
-- `game/` — game source as shipped
-- `store/` — store listing + graphics
+- Google Play: https://play.google.com/store/apps/details?id=com.jeetech.g004
+- Privacy policy: https://jeet-s.github.io/jeetech-g004/privacy.html
+- Current version: 1.0.22
+
+`game/` is the Expo (React Native) source as shipped; `store/` holds the listing and graphics.

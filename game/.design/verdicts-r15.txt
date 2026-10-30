@@ -1,0 +1,28 @@
+REDESIGN THESE LEVELS (keep the ones not listed):
+L62 (5/10): 100% casual and skilled with no tension. The cactus is easy and the intent gives away three footholds. → Make the flower rows ambiguous in one clue so the player must cross-check, and drop to 85-90% casual.
+L87 (5/10): 58% casual at a 3rd-of-12 practise slot, far harder than L86 (73%) and L88 (80%). Needs three column reads. → Drop to 9x10 or add a second exact-fit row so the crack opens earlier.
+L99 (5/10): 57% casual / 79% skilled is a spike vs L98 (67%) and L100 (71%) for a practise. → Remove one of the two cross-counts, or give the hat's brim as an exact fit.
+L7 (6/10): The 'sun' is one lonely corner cell. It reads as clutter, and the aha is a single cell that costs a whole line pass. → Make the sun a small 2x2 or 3-cell ray cluster so the reveal matters and the corner space is used.
+L13 (6/10): Column 1 is entirely empty (wasted), and the small toadstool is a weak picture for a first tally. → Crop to 7 wide or add a ground line or spots in column 1. Show the ringed number on a row that visibly closes on its own.
+L20 (6/10): The pine is a plain symmetric triangle with 23 moves of fill. The shared-cell insight is nice but the picture is generic. → Add an asymmetric element (snow cap on one side, a bird or a trunk offset) and shorten the fill.
+L98 (6/10): A teach at 67% casual is harder than the next practise, and the weather vane is mostly empty rows. → Ease it to about 85%: drop the second tally.
+L111 (6/10): 56% / 85% for a practise, and the flower vase repeats earlier symmetric vases (L37, L87). → Replace with a different subject and lower the opening difficulty.
+L115 (6/10): 91% breather has an unclear aha. The face is a flat rectangle. → Give the beret notch more weight.
+L117 (6/10): 56% / 84%; the butterfly is symmetric in shape yet the intent says no wing mirrors another, which is inconsistent. → Fix the board or the intent.
+L4 (7/10): Jump to 10x11 is big for level 4, and the lighthouse is symmetric, so half is copy-work. → Offset the beam or add a window gap so the right side differs, or shrink to 9x10.
+L11 (7/10): The wall idea is a column count, which is a tally and gets taught properly in world 2. The picture is also busy but uneven. → Make it a purer 'clue used up' level with one clear insight, or move it to the world 2 teach slot.
+L16 (7/10): Close to L15's idea and restates L14, so it is forgettable. → Make the owed cell the last deduction of the level and add a second tally on a column.
+L17 (7/10): Blank counting is a good new angle, but the board is symmetric ears over a big filled body, so the second half is mechanical. → Make one ear lopsided (droop or notch) so the player must verify the other side.
+L19 (7/10): Fine and easy, but the aha repeats L14. → Fine as a breather; give the fork of the tail one non-obvious cell.
+L21 (7/10): Left and right columns are mostly empty, which wastes board. → Shift the bear left or widen the arms and add a second ring of ink in the outer columns.
+L22 (7/10): Good twist, but the 11-line opening is unusually open and the solver takes 6 passes, which is a long run for a 'twist'. → Remove one early overlap hint so the twist is the only route in.
+L23 (7/10): The fern's right and left leaflets differ nicely, but the stem is a trivial full column. → Break the stem by one leaf so the stem is deduced, not given.
+L28 (7/10): The same idea as L25 and L26 in a bigger frame. → Add a seed row where touching does not apply to make the player check which colour pairs touch.
+L29 (7/10): Repeats the same-colour-needs-a-gap half of L25. → Replace with a puzzle where same-colour gap and different-colour touch conflict in one row.
+L31 (7/10): 93% casual then L32 at 90%. This is the second easy level in a row, which is allowed but leaves no ramp. → Make L32 a notch harder (remove an exact-fit row).
+L32 (7/10): 90% casual straight after a breather, so no ramp. The gap insight is hard to see from the intent. → Lift difficulty a little by hiding one of the two gold-3 columns behind a longer clue.
+L35 (7/10): Apple basket is symmetric across the middle and the intent is wordy. → Offset the second apple's size by one cell so it is not a mirror.
+L38 (7/10): Bell is symmetric and the clapper is a single cell, so the right half gives nothing new. → Add a lopsided handle or a crack so the right half asks a question.
+L39 (7/10): Good aha, but only on one row. The rest of the bust is plain fill. → Add a second eye-like void or a hat on the opposite side.
+
+level-design score 7.6/10 — A polished, well-sequenced 120-level set with a clear one-idea-per-world structure, 0% trap rate everywhere and sensible teach, practise, boss, breather and finale rhythm. Weak spots: a few tension-free or cosmetic levels (L7, L13, L20, L62), pictures that look generic (L20 pine tree, L115, L117), stamps used as uniqueness patches, and difficulty spikes in the Kiln and Observatory worlds (L87, L99, L101). The late third averages about 64.5% casual, just under the cap. Fix the five or six lowest-rated levels and the set is launch-ready.

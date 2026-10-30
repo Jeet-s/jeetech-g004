@@ -1,0 +1,1 @@
+cd /Users/jagjeetsingh/ai-game-factory/.workspaces/d7bebc6d-5835-4075-b86d-b7e325900918 && npx expo export --platform web --output-dir .tmp/webout2 > /tmp/nono-export.txt 2>&1; tail -1 /tmp/nono-export.txt; cp node_modules/canvaskit-wasm/bin/full/canvaskit.wasm .tmp/webout2/

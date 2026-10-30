@@ -1,0 +1,10 @@
+== stargazer-hat #2B3A67,#E3A83B
+.......a.
+......aa.
+.....aa..
+....aa...
+...aaaaa.
+..aaaaaa.
+..bbbbbb.
+aaa.aaaa.
+aaaaaaaaa

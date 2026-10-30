@@ -1,0 +1,13 @@
+== paper-boat #D9694F,#E3A83B smudge=r7
+bb....a....bb
+.b...aa.a..b.
+b....aaa.a..b
+bb.aaaa.aaa.b
+.baaaaa.aaaa.
+baaaaaa.aaaaa
+bbbbbbbbbbbbb
+.bbbbbbbbbbb.
+..bbbbbbbbb..
+b..bbbbbbb..b
+aa..aaaaa..aa
+...aa...aa...

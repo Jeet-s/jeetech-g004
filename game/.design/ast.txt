@@ -1,0 +1,14 @@
+== astronaut-helmet #2B3A67,#6FA8DC
+......aaa....
+....aaaaaa...
+...aabbbbaa..
+..aabbbbbbaa.
+..abbaabbbba.
+..abaabbbbba.
+..abbbbbbbba.
+..aabbbbbbaa.
+...aabbbbaa..
+.a..aaaaaa...
+.aaaa.aa.aaa.
+aa.aaaaaaa.aa
+.a.a.aaa.a..a

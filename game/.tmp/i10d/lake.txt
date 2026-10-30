@@ -1,0 +1,21 @@
+= 3 lake
+......b.......bbb...
+.....bbb....bbbbbb..
+....bbbbb......b....
+...aaaaaaa....bbb...
+..aaaaaaaaa..aaaaa..
+.aaaaaaaaaaaaaaaaaa.
+aaaaaaaaaaaaaaaaaaaa
+.a...a...a...a...a..
+aaa.aaa.aaa.aaa.aaa.
+aaaaaaaaaaaaaaaaaaaa
+ccaaaaaaaaaccaaaaacc
+cc.aaaaaaacc.caaac.c
+ccccaaaaaccccc.acccc
+c..ccaaa..ccccccc..c
+cccc..accccc..cccccc
+ccccccc..ccccccc..cc
+cc..cccccccc..cccccc
+cccccc..cccccccc..cc
+cccccccccc..cccccccc
+cccccccccccccccccccc

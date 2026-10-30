@@ -1,0 +1,7 @@
+exhibit-grand-masterwork: 35 unique of 251
+search 118.8 steps 82 passes 8 open0 48  S: c24 c20  C: r19.0 c12.2 r21.1
+search 107.0 steps 71 passes 8 open0 48  S: c8 c20  C: r18.2 r16.1 r21.1
+search 103.6 steps 76 passes 7 open0 48  S: r3 r2  C: r19.10 c20.2 c8.5
+search 99.5 steps 77 passes 7 open0 48  S: c11 c3  C: r24.0 c1.10 c10.5
+search 96.4 steps 66 passes 7 open0 48  S: r9 r14  C: c16.3 c23.2 r21.3
+max 118.8

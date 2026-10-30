@@ -1,0 +1,13 @@
+~~~~.bab.~~~~
+~~.bbbabbb.~~
+~.bb..a..bb.~
+~bba..a..abb~
+.b..aaaaa..b.
+bb..aaaaa..bb
+aaaaaaaaaaaaa
+bb..aaaaa..bb
+.b..aaaaa..b.
+~bba..a..abb~
+~.bb..a..bb.~
+~~.bbbabbb.~~
+~~~~.bab.~~~~

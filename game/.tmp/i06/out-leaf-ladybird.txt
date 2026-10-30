@@ -1,0 +1,20 @@
+start 38.6
+step 1: (6,10) a->. search 47.3
+step 2: (10,10) c->. search 54.0
+step 3: (10,2) c->. search 54.5
+step 4: (6,8) a->b search 56.0
+step 5: (7,9) b->a search 57.4
+step 6: (0,6) c->. search 57.6
+~~~~cc.cc~~~~
+~~cccb.bccc~~
+~ccc.bbb.ccc~
+ccc.bbbbb.ccc
+cc.aaabaaa.cc
+c.abaabaaba.c
+c.aaaababa..c
+c.abbababaa.c
+c.aaaabaaaa.c
+cc.abababa.cc
+~c..aabaa..c~
+~~ccc...ccc~~
+~~~~ccccc~~~~

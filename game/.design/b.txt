@@ -1,0 +1,43 @@
+== bucket #000
+..####..
+.#....#.
+########
+.######.
+.##..##.
+..####..
+== bucket2 #000
+..####.#
+.#....##
+######.#
+.####..#
+.####.##
+..##..##
+== acorn #000
+...##...
+....#...
+.######.
+########
+#.#.#.##
+.######.
+..####..
+...##...
+== hat #2B3A67,#E3A83B
+.......a.
+......aa.
+.....aa..
+....aa...
+...aaaaa.
+..aaaaaa.
+..bbbbbb.
+aaaa.aaaa
+aaaaaaaaa
+== mina #8A5A3C,#F2B35E,#2E8C8A
+..c.ccc..
+.ccc.bcc.
+.ccccc.cc
+.aaaaaaa.
+abbbbbbba
+ab.bbbbba
+abbbabbba
+.abbbbba.
+..aaaaa..

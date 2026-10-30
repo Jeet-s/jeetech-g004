@@ -1,0 +1,15 @@
+// TEMP web preview only — removed after the visual check.
+const { getDefaultConfig } = require("expo/metro-config");
+const path = require("path");
+const config = getDefaultConfig(__dirname);
+const stubs = {
+  "react-native-google-mobile-ads": path.join(__dirname, ".tmp/webprev/gma-stub.js"),
+  "expo-iap": path.join(__dirname, ".tmp/webprev/iap-stub.js"),
+  "expo-notifications": path.join(__dirname, ".tmp/webprev/iap-stub.js"),
+};
+const orig = config.resolver.resolveRequest;
+config.resolver.resolveRequest = (ctx, name, platform) => {
+  if (platform === "web" && stubs[name]) return { type: "sourceFile", filePath: stubs[name] };
+  return orig ? orig(ctx, name, platform) : ctx.resolveRequest(ctx, name, platform);
+};
+module.exports = config;

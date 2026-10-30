@@ -1,0 +1,132 @@
+id: "market-strawberry", title: "Strawberry", palette: ["#D9694F", "#2E8C8A"], role: "teach", mechanics: ["color"], aha: "x"
+..b.b..
+.bbbbb.
+.aaaaa.
+aaaaaaa
+aa.aa.a
+.aaaaa.
+..aaa..
+
+id: "twin-cherries", title: "Twin Cherries", palette: ["#D9694F", "#8A5A3C"], role: "teach", mechanics: ["color"], aha: "x"
+...bbb..
+..b..bb.
+.b....b.
+.b....b.
+aaa..aaa
+aaa.aaaa
+aaa.aaaa
+.a...aa.
+
+id: "bunch-carrot", title: "Carrot", palette: ["#F2B35E", "#2E8C8A"], role: "practise", mechanics: ["color"], aha: "x"
+.....b.b
+......bb
+....aabb
+...aaaa.
+..aaaa..
+.aaa.a..
+.aaa....
+aa......
+
+id: "watermelon-slice", title: "Watermelon Slice", palette: ["#D9694F", "#2E8C8A"], role: "practise", mechanics: ["color", "exact-fit"], aha: "x"
+aaaaaaaaaa
+aa.aaaa.aa
+baaaaaaaab
+.baa.aaab.
+.baaaaaab.
+..baaaab..
+...bbbb...
+
+id: "ripe-pear", title: "Ripe Pear", palette: ["#E3A83B", "#8A5A3C"], role: "twist", mechanics: ["color", "overlap"], aha: "x"
+....b....
+....bbb..
+...ab....
+..aaaa...
+..aaaa...
+.aaaaaa..
+aaaaaaaa.
+aaaaaaaa.
+.aaaaaa..
+
+id: "plum-jam-jar", title: "Jam Jar", palette: ["#8C6BB1", "#E3A83B"], role: "boss", mechanics: ["color", "overlap", "reach"], aha: "x"
+.bbbbbbbb.
+bb.bb.bb.b
+.bbbbbbb..
+.aaaaaaaa.
+aa......aa
+aa.bbbb.aa
+aa......aa
+aa.bb...aa
+aaaaaaaaaa
+.aaaaaaa..
+
+id: "sunny-lemon", title: "Lemon", palette: ["#E3A83B", "#2E8C8A"], role: "breather", mechanics: ["color"], aha: "x"
+...bb...
+..bbbb..
+...bb...
+.aaaaaa.
+aaaaaaaa
+aaaaaaa.
+.aaaaa..
+..aa....
+
+id: "sprout-flowerpot", title: "Flowerpot", palette: ["#D9694F", "#2E8C8A"], role: "practise", mechanics: ["color", "overlap"], aha: "x"
+...aaa...
+..aa.aa..
+...aaa...
+.bb.b.bb.
+..bbbbb..
+....b....
+aaaaaaaaa
+.aaaaaaa.
+..aaaaa..
+
+id: "striped-awning", title: "Striped Awning", palette: ["#D9694F", "#C9B8A0"], role: "combine", mechanics: ["color", "exact-fit", "overlap"], aha: "x"
+aaabbbaaab
+aaabbbaaab
+aaabbbaaab
+.a..b..a..
+.b......b.
+.b......b.
+.b.aaaa.b.
+.b.aaaa.b.
+bbbbbbbbbb
+.b......b.
+
+id: "ice-cream-cone", title: "Ice-Cream Cone", palette: ["#E98F7A", "#8A5A3C"], role: "twist", mechanics: ["color", "reach"], aha: "x"
+...aaa...
+..aaaaa..
+.aaaaaaa.
+.aaaaaaa.
+a.aaaaa.a
+bbbbbbbbb
+.b.b.b.b.
+.bbbbbbb.
+..b.b.b..
+...bbb...
+....b....
+
+id: "apple-basket", title: "Apple Basket", palette: ["#D9694F", "#8A5A3C"], role: "combine", mechanics: ["color", "overlap", "reach"], aha: "x"
+...bbbb...
+..b....b..
+.b.aa.a.b.
+.baaaaaab.
+aaa.aaa.aa
+bbbbbbbbbb
+b.bb.bb.bb
+.bbbbbbbb.
+.b.bb.bb..
+..bbbbbb..
+
+id: "market-stall", title: "Market Stall", palette: ["#D9694F", "#C9B8A0"], role: "finale", mechanics: ["color", "overlap", "reach"], aha: "x"
+..aabbaabb..
+.aabbaabbaa.
+aabbaabbaabb
+aabbaabbaabb
+a.bb.aa.bb.b
+b..........b
+b.aa..a.a..b
+b.aa.aaaaa.b
+bbbbbbbbbbbb
+b.b..b.b..bb
+bbbbbbbbbbbb
+b..........b

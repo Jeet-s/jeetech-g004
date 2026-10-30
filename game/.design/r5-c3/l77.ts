@@ -1,0 +1,46 @@
+const G = "#E3A83B", C = "#D9694F";
+const b = (id: string, art: string, smudge = ["c4"]) => ({ id: "fireworks-burst", title: id, palette: [G, C], role: "twist", mechanics: ["smudged", "color"], smudge, aha: "", art });
+export const A = [
+b("g1", `
+bb..a....
+.aa.a..bb
+.baaa.aa.
+...bbba..
+aaabbbaa.
+...bbb...
+..aaa.aa.
+.aa.a.ab.
+bb..b....`),
+b("g2", `
+bb..a....
+.aa.a...b
+.baaa..aa
+...bbbaa.
+aaabbb...
+...bbbaa.
+..aaa..ab
+.aa.a....
+bb..b....`),
+b("g3", `
+bb..a.....
+.aa.a...bb
+.baaa..aa.
+...bbbaa..
+aaabbbb...
+...bbbbaa.
+..aaa...ab
+.aa.a.....
+bb..a.....
+....b.....`),
+b("g4", `
+bb..b....
+.aa.a...b
+.baaa..aa
+...bbbaa.
+aaabbb...
+...bbbaab
+..aaa....
+.aa.a....
+bb..a....
+....b....`),
+];

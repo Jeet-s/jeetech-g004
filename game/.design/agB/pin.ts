@@ -1,0 +1,43 @@
+const C="#D9694F",G="#E3A83B",U="#8A5A3C";
+const mk=(title:string,smudge:string[],art:string)=>({id:"lantern-pinwheel",title,palette:[C,G,U],role:"combine",mechanics:["smudged","color"],smudge,aha:"",art});
+export const A=[
+mk("w1",["c2"],`
+a....bbbb
+aa...bbb.
+aaa..bb..
+aaaa.b...
+....c....
+...bcaaaa
+..bbc.aaa
+.bbbc..aa
+bbbbc...a
+....cb...
+....c.bb.
+...ccc...`),
+mk("w2",["c2"],`
+ab...bbbb
+aab..bba.
+aaa..ba..
+aaaa.b...
+....c....
+...bcaaaa
+..abc.aaa
+.abbc..ba
+babbc...b
+....c....
+....c....
+...ccc...`),
+mk("w3",["c2"],`
+a....bbbb.
+aa...bbb..
+aaa..bb...
+aaaa.b....
+....cc....
+...bcaaaa.
+..bbc.aaa.
+.bbbc..aa.
+bbbbc...a.
+....c..b.b
+....c...b.
+...ccc..b.`),
+];

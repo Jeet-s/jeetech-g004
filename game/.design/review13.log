@@ -1,0 +1,66 @@
+PASS level_intents: all 120 levels have a specific intent
+PASS no_filler_levels: no trivial filler levels after the tutorial
+FAIL level_design: level-design review 7.5/10 (bar 8), 0 level(s) below 6/10: This is a well-built, honest 120-level set. The boards are clean, every level is unique by line logic, and the trap rate is 0 throughout. Each chapter adds one idea (tally, colour, void, stamp, colour-cross, smudge, crack, colour-tally, then a combined chapter). Every chapter ends on a hard finale, and the casual win rate falls from about 97% to about 54%. The last-third average is about 63%, which is on target, and there is never a run of 3 easy levels.
+
+The weaknesses:
+- **Unexplained idea changes.** Colour is introduced for 5 levels before a boss silently adds a third colour (L30). Several chapters (Pigment Market L26–L36, Mosaic L49–L60) repeat one idea rather than escalating it.
+- **Repeated subjects.** Seahorse appears twice (L5, L51) and koi twice (L76, L89).
+- **Weak mid-chapter levels.** A cluster of small or abstract boards has little payoff (L8, L27, L32, L35, L64, L87, L91, L103, L115, L117).
+- **Hard concepts taught on soft ground.** Cracked and colour-tally are taught at 66–76% casual, and a few 'bosses' are not harder than the level before them (L30, L54).
+- **Hard to read the aha.** The intents are almost all 'chain of fills', so the genuinely clever levels (L4, L9, L24, L46, L82, L101, L108) stand out less than they should.
+
+Overall: premium-feeling and fair, but the middle of each chapter is a bit repetitive next to Picross S or Nonogram.com's best sets. Curve: Strong skeleton: each 12-level island is teach, teach, practise, practise, practise, boss, breather, twist, practise, combine, practise, finale. The introductions are clean: tally in the second island, colour in the third, voids in the fourth, then stamp, colour-cross, smudge, crack, colour-tally, and a final pairing island. Casual win rate ramps from 97% down to about 54%, and finales (82, 79, 77, 67, 69, 70, 55, 56, 54, 54) are always harder than their neighbours.
+
+Problems:
+1. Colour-cross (L61) and the 3-colour boss (L30) are not properly taught. L30 adds a third colour with no intro level, and the 3-colour L33 and L34 are easy because they are not cross-reading yet.
+2. Islands 1–3 are too fast to feel the 'aha'. Pigment Market has 12 levels that mostly restate 'different colours may touch, same colours need a gap'.
+3. Chapters 6–11 introduce hard concepts (smudge, crack, colour-tally) at 66–76% casual on the teach level. That is right for the last third, but the first level of each chapter should be near 80% so players don't bounce.
+4. Several bosses are not harder than the level before (L30, L54, L78), and L115 at 90% is the only easy level after L103 in the last 20, which is fine.
+5. The same subjects recur (seahorse L5/L51, koi L76/L89), and small ornament boards (L91, L103, L115) feel like filler.
+6. Late levels are hard because of mechanics stacking (void+stamp+colour-cross+smudge+crack), which is good for the finales. Mid-island twists could use fresher visual hooks.
+REDESIGN THESE LEVELS (keep the ones not listed):
+L8 (6/10): Not a twist; L2/L5 already used split-clue exact-fit and overlap. 'Twist' mislabels the board and the aha is thin. → Rename to practise, or make the sail rows depend on a column forcing the spare cell to the other sail.
+L27 (6/10): Largely a repeat of L25 logic in disguise; carrot is a thin silhouette. → Replace with a column-driven puzzle where a colour is forced by a count.
+L32 (6/10): Third time the same gap/touch deduction (L26, L29); intent text is also inconsistent with clue counts. → Swap for a level where the gap must be derived from a crossing line.
+L35 (6/10): Mostly mechanical 'place by column'; apples are four small blobs. → Make one apple depend on the basket count to create a real aha.
+L51 (6/10): Repeats the Seahorse from L5 as a subject; easier alternatives exist for stamp logic. → Replace with a new subject (e.g. dragonfly).
+L64 (6/10): Blocky body of the same colour reads as filler; picture is unclear. → Redraw as a clearer can with a spout shape.
+L87 (6/10): 66% for a bound-by-edge deduction, too hard for the idea. → Add anchors.
+L91 (6/10): Tiny, minor. → Bigger bowl.
+L103 (6/10): No new idea. → Add a hidden gap.
+L115 (6/10): No insight. → Add a gap.
+L117 (6/10): Butterfly symmetric. → Break.
+L5 (7/10): Deduction chain for column 7 depends on many other lines first; reads as busywork more than an aha. → Make column 7 resolvable one step earlier, or add a second spare-cell overlap so the lesson is cleaner.
+L7 (7/10): Fine but forgettable; same shape language as the boss. → Add one small satisfying reveal (e.g. a lone sun cell) so it is memorable.
+L15 (7/10): Two tallies at once with a long chain; slightly more than a 'practise' after only two teaches. → Drop one tally to a plain clue.
+L17 (7/10): Ears are ambiguous as a picture; the shape is hard to read as a rabbit. → Redraw with a clearer head/face so the reveal pays off.
+L19 (7/10): Swallow is lovely but the board is nearly all full or exact lines (3 passes), so no insight. → Add one spare-cell row for a mini aha.
+L21 (7/10): Bear silhouette is blocky; intent chain is mostly mechanical. → Reshape the body so the belly gap reads as a gesture.
+L22 (7/10): The twist is conceptual but the chain is long; solver 30 looks. → Shrink to 9x9 or cut the foot rows to focus the contrast.
+L23 (7/10): Fern fronds are symmetric clutter, so many lines are redundant; 35 looks. → Break the symmetry with an off-centre curl so lines differ.
+L26 (7/10): Fine, but a second teach of the same rule. → Merge the contrast into L25 and make this a practise.
+L30 (7/10): Third colour appears without any intro level; casual 85% is easier than the previous practise, so it is not a boss. → Add a short 3-colour intro before L30 or lower its fill count; raise difficulty with a spare-cell label.
+L31 (7/10): Lots of full lines; hard to find an insight. → Use the basket row as a real gap puzzle.
+L33 (7/10): Good idea but explained as many steps; overlap element is minor. → Remove one aisle row to make the stripe deduction the single aha.
+L36 (7/10): Finale has the 'most anchors' not a distinct insight; 77% casual for a finale is right but intent is thin. → Hide one anchor so the post/awning crossing is the key.
+L39 (7/10): Eyes and mouth appear as X's at once; low depth and 79% casual feels harder than the picture merits. → Swap one exact column for a spare-cell column.
+
+level-design score 7.5/10 — This is a well-built, honest 120-level set. The boards are clean, every level is unique by line logic, and the trap rate is 0 throughout. Each chapter adds one idea (tally, colour, void, stamp, colour-cross, smudge, crack, colour-tally, then a combined chapter). Every chapter ends on a hard finale, and the casual win rate falls from about 97% to about 54%. The last-third average is about 63%, which is on target, and there is never a run of 3 easy levels.
+
+The weaknesses:
+- **Unexplained idea changes.** Colour is introduced for 5 levels before a boss silently adds a third colour (L30). Several chapters (Pigment Market L26–L36, Mosaic L49–L60) repeat one idea rather than escalating it.
+- **Repeated subjects.** Seahorse appears twice (L5, L51) and koi twice (L76, L89).
+- **Weak mid-chapter levels.** A cluster of small or abstract boards has little payoff (L8, L27, L32, L35, L64, L87, L91, L103, L115, L117).
+- **Hard concepts taught on soft ground.** Cracked and colour-tally are taught at 66–76% casual, and a few 'bosses' are not harder than the level before them (L30, L54).
+- **Hard to read the aha.** The intents are almost all 'chain of fills', so the genuinely clever levels (L4, L9, L24, L46, L82, L101, L108) stand out less than they should.
+
+Overall: premium-feeling and fair, but the middle of each chapter is a bit repetitive next to Picross S or Nonogram.com's best sets.
+curve: Strong skeleton: each 12-level island is teach, teach, practise, practise, practise, boss, breather, twist, practise, combine, practise, finale. The introductions are clean: tally in the second island, colour in the third, voids in the fourth, then stamp, colour-cross, smudge, crack, colour-tally, and a final pairing island. Casual win rate ramps from 97% down to about 54%, and finales (82, 79, 77, 67, 69, 70, 55, 56, 54, 54) are always harder than their neighbours.
+
+Problems:
+1. Colour-cross (L61) and the 3-colour boss (L30) are not properly taught. L30 adds a third colour with no intro level, and the 3-colour L33 and L34 are easy because they are not cross-reading yet.
+2. Islands 1–3 are too fast to feel the 'aha'. Pigment Market has 12 levels that mostly restate 'different colours may touch, same colours need a gap'.
+3. Chapters 6–11 introduce hard concepts (smudge, crack, colour-tally) at 66–76% casual on the teach level. That is right for the last third, but the first level of each chapter should be near 80% so players don't bounce.
+4. Several bosses are not harder than the level before (L30, L54, L78), and L115 at 90% is the only easy level after L103 in the last 20, which is fine.
+5. The same subjects recur (seahorse L5/L51, koi L76/L89), and small ornament boards (L91, L103, L115) feel like filler.
+6. Late levels are hard because of mechanics stacking (void+stamp+colour-cross+smudge+crack), which is good for the finales. Mid-island twists could use fresher visual hooks.

@@ -1,0 +1,17 @@
+start 42.4
+step 1: (10,3) .->a search 72.1
+step 2: (12,7) c->. search 84.8
+step 3: (5,9) a->b search 85.2
+....aaaaa....
+...aaaaaaa...
+.aa.aaaaa.aa.
+aaaaa.a.aaaaa
+aaaaabbbaaaaa
+.aaabbabbbaa.
+..aaabbbaaa..
+...aaabaaa...
+..aaa...aaa..
+.aaa..c..aaa.
+...a..c......
+cc....c....cc
+.cccccc.ccccc

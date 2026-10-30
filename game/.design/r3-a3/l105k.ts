@@ -1,0 +1,76 @@
+const NIGHT = "#2B3A67", GOLD = "#E3A83B", SKY = "#6FA8DC", CORAL = "#D9694F";
+const S = (id: string, a: string, t = ["c3", "c9"]) => ({ id, title: "Brass Orrery", palette: [NIGHT, GOLD, SKY, CORAL], role: "combine", mechanics: ["color-tally", "stamp"], aha: "", tally: t, art: a });
+export const A = [S("k1", `
+d....bbb.....
+.d..bbbbb..c.
+....bbbbb.ccc
+.c..bbbbb..c.
+ccc..bbb...a.
+.c....a....a.
+.a....a....a.
+.aaaaaaaaaaa.
+......a......
+......a......
+....aa.aa....
+..bbbbbbbbb..`), S("k2", `
+D....bbb.....
+.d..bbbbb..c.
+....bbbbb.ccc
+.c..bbbbb..c.
+ccc..bbb...a.
+.c....a....a.
+.a....a....a.
+.aaaaaaaaaaa.
+......a......
+......a......
+....aa.aa....
+..bbbbbbbbb..`), S("k3", `
+.....bbb....d
+....bbbbb..cd
+....bbbbb.ccc
+.c..bbbbb..c.
+ccc..bbb...a.
+.c....a....a.
+.a....a....a.
+.aaaaaaaaaaa.
+......a......
+......a......
+....aa.aa....
+..bbbbbbbbb..`)];
+A.push(S("k4", `
+..d..bbb.....
+...Dbbbbb..c.
+....bbbbb.ccc
+.c..bbbbb..c.
+ccc..bbb...a.
+.c....a....a.
+.a....a....a.
+.aaaaaaaaaaa.
+......a......
+......a......
+....aa.aa....
+..bbbbbbbbb..`), S("k5", `
+...d.bbb.....
+..D.bbbbb..c.
+....bbbbb.ccc
+.c..bbbbb..c.
+ccc..bbb...a.
+.c....a....a.
+.a....a....a.
+.aaaaaaaaaaa.
+......a......
+......a......
+....aa.aa....
+..bbbbbbbbb..`), S("k6", `
+...D.bbb.....
+..d.bbbbb..c.
+....bbbbb.ccc
+.c..bbbbb..c.
+ccc..bbb...a.
+.c....a....a.
+.a....a....a.
+.aaaaaaaaaaa.
+......a......
+......a......
+....aa.aa....
+..bbbbbbbbb..`));

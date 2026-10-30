@@ -1,0 +1,14 @@
+.....aaaa.....
+...aaaabaaaa..
+..aa.aabaa.aa.
+.aaa.aabaa.aaa
+aa..aaabaaa..a
+aaaa.aabaa.aaa
+..aa.aabaa.aa.
+aaa.aaabaaa.aa
+.aaa.aabaa.aa.
+..aa.aabaa.a..
+...aaaabaaaa..
+.....aabaa....
+.......b......
+.......c......

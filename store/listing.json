@@ -1,0 +1,33 @@
+{
+  "aso": {
+    "primary": "nonogram puzzles",
+    "problems": [
+      "full_description uses the primary keyword \"nonogram puzzles\" only 0× (aim for 3–5, naturally)"
+    ],
+    "secondary": []
+  },
+  "title": "Nonogram Puzzles: Color Logic",
+  "category": "Puzzle",
+  "keywords": [
+    "nonogram puzzles",
+    "nonogram",
+    "color nonogram",
+    "picture logic puzzles",
+    "logic puzzles offline",
+    "non wifi games",
+    "picture cross puzzle",
+    "grid puzzle offline"
+  ],
+  "release_notes": "First release: 120 handcrafted levels across 10 islands, colour puzzles, a daily puzzle with streaks, hints, undo, a Gallery, atelier restoration, colourblind mode and full offline play.",
+  "content_rating": "Everyone",
+  "full_description": "Fill the grid, follow the clues and watch a hidden picture appear. Nonogram Atelier is a calm picture-logic game with 120 handcrafted levels, each one a small painting waiting to be revealed.\n\nHOW IT PLAYS\nEvery row and column carries number clues that tell you which cells to fill. Use them to work out the picture, one line at a time. Some levels use a palette of colours, so the clues are coloured too and each run has to match its shade.\n\n• Tap a cell to fill it\n• Drag along a row or column to paint a whole run in one sweep\n• Switch to the X or dot tool to mark cells you know are empty\n• Undo a move or restart the level whenever you like\n\n120 LEVELS ACROSS 10 ISLANDS\nTravel through ten themed islands of handcrafted pictures, from small starter grids to big, detailed finales. Every level is open from the start, so you can jump to whatever you feel like solving.\n\nA QUIET RENOVATION TO COME BACK TO\nFinished pictures are framed and kept in your Gallery. Spend Pigments, the in-game coins you earn by solving, to restore the rooms of your atelier one by one.\n\nSTUCK? TAKE A HINT\nHint Brushes help when a line won't give way. You get 3 free every day, and you can pick up more with Pigments or by choosing to watch a rewarded ad.\n\nDAILY HABIT, NO PRESSURE\n• A daily puzzle with a forgiving streak\n• Star ratings for each level\n• A freeze boost to protect your streak\n• Colourblind mode\n• Sound and haptics settings you can switch off\n\nPLAY ANYWHERE\nThe game works fully offline, which makes it a good fit for flights, commutes and evenings without Wi-Fi. There is no account or login, and your progress is stored on your device.\n\nADS AND PURCHASES\nThere are no banners in the early levels, and the first interstitial comes only after level 10. After that, ads appear at most once every four levels. Rewarded ads only play when you choose them. A one-time Remove Ads purchase takes the ads away, and optional coin packs are available at fixed prices with nothing random.\n\nPick up a pencil, choose an island and reveal your first picture tonight.",
+  "screenshots_plan": [
+    "Tap and drag to paint lines",
+    "Colour puzzles with coloured clues",
+    "Reveal the hidden picture",
+    "Restore your atelier room by room",
+    "Daily puzzle and gentle streaks",
+    "Plays fully offline"
+  ],
+  "short_description": "Solve colour nonogram puzzles, reveal pictures and restore your atelier offline"
+}

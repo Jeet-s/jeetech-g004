@@ -1,0 +1,2 @@
+combos 1024, hits 0
+

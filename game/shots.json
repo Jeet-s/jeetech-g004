@@ -1,0 +1,11 @@
+{
+  "_note": "Store screenshot scenes. Each id is opened with <scheme>://shot/<id> and captured on an emulator. Each renders a REAL game state (src/screenshots.tsx). The 'home' scene (title screen) is required.",
+  "scenes": [
+    { "id": "home", "caption": "Calm picture logic puzzles" },
+    { "id": "solve", "caption": "Big cells, drag to paint" },
+    { "id": "color", "caption": "Colour nonograms to master" },
+    { "id": "win", "caption": "Reveal a painting every puzzle" },
+    { "id": "map", "caption": "10 islands, all unlocked" },
+    { "id": "gallery", "caption": "Frame your finished art" }
+  ]
+}

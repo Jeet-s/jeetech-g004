@@ -1,0 +1,13 @@
+== sun #E3A83B,#8A5A3C,#8DB48E
+...a.aa.....
+..aaaaaaa.a.
+.aaabbbbaaa.
+aaab.bb.baa.
+.aabbb.bbaaa
+aaab.bb.ba..
+.aaabbbbaaa.
+..aaaaaaaa..
+...a.cc.a...
+.cc..cc.....
+..ccccc..cc.
+.....ccccccc

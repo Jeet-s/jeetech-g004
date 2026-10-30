@@ -1,0 +1,281 @@
+{
+ "isl01": {
+  "jellyfish": {
+   "title": "Jellyfish",
+   "role": "teach",
+   "mechanics": [
+    "overlap",
+    "fill",
+    "x-marks"
+   ],
+   "aha": "Overlap, and no line is full: rows 2 and 4 (5 in seven) always cover columns 3-5, and columns 2 and 6 (4 in seven) always cover row 4 — so row 4's 5 is the whole rim of the bell. Column 4's 2 3 must then hang its 3 from row 4 (rows 4-6, the middle tentacle), with its 2 above the spot.",
+   "art": [
+    "..###..",
+    ".#####.",
+    ".##.##.",
+    ".#####.",
+    ".#.#.#.",
+    "#..#..#",
+    "#...#.#"
+   ]
+  },
+  "starfish": {
+   "title": "Starfish",
+   "role": "practise",
+   "mechanics": [
+    "overlap",
+    "x-marks"
+   ],
+   "aha": "Practise: overlap on a lopsided starfish — the top arm leans, one arm waves and one leg is thin and bent, so no half can be copied from the other. Column 4's 7 in nine covers rows 3-7 and column 6's 6 covers rows 4-6 — the body either side of the eye — and row 6's 5 covers column 5. Row 5's 3 3 then X's the eye at column 5; the legs' rows (2 2, 1 2, 1 2) overlap nothing and are read from the columns last.",
+   "art": [
+    "...##....",
+    "...###...",
+    "...###.##",
+    "##.#####.",
+    ".###.###.",
+    "..#####..",
+    "..##.##..",
+    "..#...##.",
+    ".#.....##"
+   ]
+  },
+  "anchor": {
+   "title": "Anchor",
+   "role": "practise",
+   "mechanics": [
+    "overlap",
+    "x-marks"
+   ],
+   "aha": "A quiet start — no line fits exactly. Column 5's 1 7 in ten has one spare cell, so the shaft's rows 4-9 are sure but neither end; row 5's 7 in nine (the stock) overlaps columns 3-7. Row 6's lone 1 is then the shaft cell, so its other eight are X. The ring hangs one column right of the shaft: column 7's 5 3 (one spare) is its thick right side.",
+   "art": [
+    "....###..",
+    "...#..##.",
+    "...#..##.",
+    "....###..",
+    ".#######.",
+    "....#....",
+    "#...#...#",
+    "##..#.###",
+    ".##.#.##.",
+    "..#####.."
+   ]
+  },
+  "turtle": {
+   "title": "Sea Turtle",
+   "role": "combine",
+   "mechanics": [
+    "exact-fit",
+    "overlap",
+    "x-marks"
+   ],
+   "aha": "Two exact fits cross: row 4's 3 3 3 (3+1+3+1+3 = 11) spreads the front flippers either side of the neck, and column 6's 1 9 (1+1+9 = 11) runs from the head to the tail. Columns 3 and 9's 8 overlap the shell's sides (rows 4-8), and the X's from both fits ring the hex scute in rows 6-8.",
+   "art": [
+    "....###....",
+    "....#.#....",
+    "##...#...##",
+    "###.###.###",
+    "..#######..",
+    "..##.#.##..",
+    "..#.###.#..",
+    "..##.#.##..",
+    "..#######..",
+    "..#.###.#..",
+    ".##..#..##."
+   ]
+  },
+  "whale": {
+   "title": "Harbour Whale",
+   "role": "finale",
+   "mechanics": [
+    "overlap",
+    "exact-fit",
+    "x-marks"
+   ],
+   "aha": "Masterwork on island 1's tools. The sea fits exactly: row 10's 3 3 3 1 is 3+1+3+1+3+1+1 = 13, so the waves go in at once with paper at columns 4, 8 and 12. Row 7's 11 in thirteen overlaps columns 3-11, the long body. The wave X's split each column's last run from the whale above it: column 8's 4 1 must put its 1 in row 11 and its 4 in the body (rows 6-9). The spout, the gull and the raised tail are read last from rows 1-4.",
+   "art": [
+    ".#.#......#.#",
+    "..#.#.#...###",
+    "..#..#.....#.",
+    ".####......#.",
+    "#######...##.",
+    "##.######.#..",
+    "###########..",
+    "#.#########..",
+    ".#########...",
+    "###.###.###.#",
+    "#..#...#...##"
+   ]
+  }
+ },
+ "isl02": {
+  "hedgehog": {
+   "title": "Hedgehog",
+   "role": "practise",
+   "mechanics": [
+    "reach",
+    "overlap",
+    "exact-fit"
+   ],
+   "aha": "Long legs this time. Row 5's 6 3 fits exactly (the eye is the gap) and row 4's 9 in ten inks columns 2-9. Column 2's 6 must include rows 4-5, so it can reach no lower than row 9: column 2's row-10 cell is paper and the back foot there is column 1's. Under the eye, column 7's 5 has exactly rows 6-10 left — the front leg.",
+   "art": [
+    "...#.#.#..",
+    "..#.#.#.#.",
+    "..#######.",
+    "#########.",
+    "######.###",
+    ".########.",
+    ".#######..",
+    "##....#...",
+    ".#....#...",
+    "#.....##.."
+   ]
+  },
+  "meadow-rabbit": {
+   "title": "Lop-Eared Rabbit",
+   "role": "practise",
+   "mechanics": [
+    "reach",
+    "overlap"
+   ],
+   "aha": "Practise: reach on a lop-eared rabbit crouched over its body. Rows 8 and 9 (7 3 and 4 6, both eleven) fill outright. Column 9's 2 must include row 2 (row 2's 1 1 5 inks columns 7-9), so it reaches no lower than row 3; its 5 must include rows 8-9, so it reaches no higher than row 5. Row 4 is out of reach of both — paper — and the ear's flop hangs down columns 10-11.",
+   "art": [
+    "..##..##...",
+    ".#..#.#####",
+    ".#..#..####",
+    ".#..#....##",
+    ".####....##",
+    "#######....",
+    "##.###.###.",
+    "#######.###",
+    "####.######",
+    ".#####.###.",
+    "##...##.##."
+   ]
+  },
+  "wandering-bear": {
+   "title": "Waving Bear",
+   "role": "combine",
+   "mechanics": [
+    "reach",
+    "overlap"
+   ],
+   "aha": "The bear stands up and waves. Row 6's 9 in ten (paw to paw) overlaps columns 2-9, and the belly is hollow: rows 8-9 read only 1 1, so columns 4, 5 and 8 (4 2 3, 2 4 3, 2 4 3 — eleven of twelve) break there and overlap the rest. Column 9's 6 must include rows 6-10, so it cannot reach row 12: the right foot stops at column 8.",
+   "art": [
+    "...##..##.",
+    "#..######.",
+    "#..#.##.#.",
+    "#..#####..",
+    "##..####..",
+    ".#########",
+    "..#######.",
+    "..#.....#.",
+    "..#.....#.",
+    "..#######.",
+    "..###.###.",
+    ".####.##.."
+   ]
+  }
+ },
+ "isl03": {
+  "bunch-carrot": {
+   "title": "Carrot",
+   "palette": [
+    "#F2B35E",
+    "#2E8C8A"
+   ],
+   "role": "practise",
+   "mechanics": [
+    "color"
+   ],
+   "aha": "Count no gap between different colours: column 4 reads green 4, orange 5 — nine cells in ten, one spare. Wherever it sits, rows 2-4 are green and rows 6-9 orange, and row 5 is ink either way; row 5 holds only orange, so it is orange — the leaves sit straight on the root.",
+   "art": [
+    "b..bb..",
+    ".b.b.bb",
+    ".bbbb..",
+    "..bbb..",
+    ".aaaaa.",
+    ".a.aaa.",
+    "..aaaa.",
+    "..aaa..",
+    "..aa...",
+    "..a...."
+   ]
+  },
+  "ripe-pear": {
+   "title": "Ripe Pear",
+   "palette": [
+    "#E3A83B",
+    "#2E8C8A"
+   ],
+   "role": "practise",
+   "mechanics": [
+    "color"
+   ],
+   "aha": "Practise: the shine is a forced gap. Row 8's gold 1, gold 6 needs one (1+1+6 = 8), so it fills the row with the shine at column 2, and row 7's gold 2, gold 4 has one spare cell. Column 4's green 3, gold 7 touch (3+7 = 10): the stalk sits straight on the pear; the leaves either side are read from columns 3 and 5-7.",
+   "art": [
+    "...b....",
+    "..bb..b.",
+    "...bbb..",
+    "..aaa...",
+    "..aaaaa.",
+    ".aaaaaaa",
+    "aa.aaaa.",
+    "a.aaaaaa",
+    "aaaaaaa.",
+    ".aaaaa.."
+   ]
+  },
+  "sprout-flowerpot": {
+   "title": "Flowerpot",
+   "palette": [
+    "#D9694F",
+    "#2E8C8A"
+   ],
+   "role": "practise",
+   "mechanics": [
+    "color"
+   ],
+   "aha": "A full pot: row 9's red 10 is the rim, row 6's leaves (green 3, 4, 1: 3+1+4+1+1 = 10) fill exactly, and column 3 (red 1, 1, green 5, red 1, green 1, red 2) fills its twelve with one same-colour gap. The band needs no gaps at all: once columns 1 and 10 X its ends, row 10's eight touching red and green 1s fill the cells between.",
+   "art": [
+    ".aaa......",
+    "aa.aa..aa.",
+    ".aaa..a.aa",
+    "..b...aaa.",
+    ".bb.b..b..",
+    "bbb.bbbb.b",
+    ".bbbbbbbb.",
+    "..bbbbbb..",
+    "aaaaaaaaaa",
+    ".abababab.",
+    ".aaaaaaaa.",
+    "..aaaaaa.."
+   ]
+  },
+  "ice-cream-cone": {
+   "title": "Ice-Cream Cone",
+   "palette": [
+    "#E98F7A",
+    "#8A5A3C"
+   ],
+   "role": "twist",
+   "mechanics": [
+    "color"
+   ],
+   "aha": "Twist — the drip line. Column 9 reads pink 1, 1, 1, 1: four drops in twelve, nothing overlaps. But rows 5, 7, 9 and 11 each end in a pink 1 after the cone, and column 8 holds a single pink (the scoop, row 3) — so every drop must land in column 9. Columns 4 and 5 (pink 5, brown 3, brown 3 = twelve) stand the scoop and waffle first.",
+   "art": [
+    "...aaa...",
+    ".aaaaaa..",
+    "aaaaaaaa.",
+    "aaaaaaa..",
+    ".aaaaa..a",
+    "bbbbbbb..",
+    ".b.bb.b.a",
+    ".bbbbbb..",
+    "..b..b..a",
+    "..bbbb...",
+    "...bb...a",
+    "...bb...."
+   ]
+  }
+ }
+}

@@ -1,0 +1,3686 @@
+  no-stamp: needs stamp (1 unknown) looks 25
+  plain clues: looks 23 passes 5 open 20
+pa-r0c0 10x10 OK looks 25 passes 7 open 18 search 29.8 first[r2,r3,r4,r5,r6,r7,r8,r9,r10,c2,c3,c4,c5,c6,c7,c8,c9,c10]
+  rows: S:4a | 6a | 1a 2a 1a | 2a 2b 2a | 2a 2a | 3a 3a | 1a 1a 1a 1a | 1a 1a | 6a | 2b 2b
+  cols: S:2a | 2a | 8a 1b | 2a 1a 1a 1b | 3a 1b 1a | 3a 1b 1a | 2a 1a 1a 1b | 8a 1b | 2a | 2a
+  no-stamp: needs stamp (8 unknown) looks 26
+  plain clues: looks 28 passes 5 open 20
+    ...####?..
+    ..######..
+    ..#.##.#..
+    .?#?####..
+    .?#?...##.
+    ###....###
+    #.#....#.#
+    ..#....#..
+    .?#####?..
+    ..##..##..
+pa-r0c1 10x10 BAD(7) looks 26 passes 5 open 18 search 42.3 first[r2,r3,r4,r5,r6,r7,r8,r9,r10,c1,c3,c4,c5,c6,c7,c8,c9,c10]
+  rows: S:4a | 6a | 1a 2a 1a | 2a 2b 2a | 2a 2a | 3a 3a | 1a 1a 1a 1a | 1a 1a | 6a | 2b 2b
+  cols: 2a | S:2a | 8a 1b | 2a 1a 1a 1b | 3a 1b 1a | 3a 1b 1a | 2a 1a 1a 1b | 8a 1b | 2a | 2a
+  no-stamp: needs stamp (1 unknown) looks 28
+  plain clues: looks 22 passes 5 open 20
+pa-r0c2 10x10 OK looks 28 passes 9 open 18 search 34.5 first[r2,r3,r4,r5,r6,r7,r8,r9,r10,c1,c2,c4,c5,c6,c7,c8,c9,c10]
+  rows: S:4a | 6a | 1a 2a 1a | 2a 2b 2a | 2a 2a | 3a 3a | 1a 1a 1a 1a | 1a 1a | 6a | 2b 2b
+  cols: 2a | 2a | S:8a 1b | 2a 1a 1a 1b | 3a 1b 1a | 3a 1b 1a | 2a 1a 1a 1b | 8a 1b | 2a | 2a
+  no-stamp: needs stamp (1 unknown) looks 25
+  plain clues: looks 25 passes 5 open 20
+pa-r0c3 10x10 OK looks 25 passes 5 open 18 search 29.8 first[r2,r3,r4,r5,r6,r7,r8,r9,r10,c1,c2,c3,c5,c6,c7,c8,c9,c10]
+  rows: S:4a | 6a | 1a 2a 1a | 2a 2b 2a | 2a 2a | 3a 3a | 1a 1a 1a 1a | 1a 1a | 6a | 2b 2b
+  cols: 2a | 2a | 8a 1b | S:2a 1a 1a 1b | 3a 1b 1a | 3a 1b 1a | 2a 1a 1a 1b | 8a 1b | 2a | 2a
+  no-stamp: needs stamp (1 unknown) looks 27
+  plain clues: looks 28 passes 5 open 20
+pa-r0c4 10x10 OK looks 27 passes 5 open 18 search 36.8 first[r2,r3,r4,r5,r6,r7,r8,r9,r10,c1,c2,c3,c4,c6,c7,c8,c9,c10]
+  rows: S:4a | 6a | 1a 2a 1a | 2a 2b 2a | 2a 2a | 3a 3a | 1a 1a 1a 1a | 1a 1a | 6a | 2b 2b
+  cols: 2a | 2a | 8a 1b | 2a 1a 1a 1b | S:3a 1b 1a | 3a 1b 1a | 2a 1a 1a 1b | 8a 1b | 2a | 2a
+  no-stamp: needs stamp (1 unknown) looks 29
+  plain clues: looks 28 passes 5 open 20
+pa-r0c5 10x10 OK looks 29 passes 5 open 18 search 38.6 first[r2,r3,r4,r5,r6,r7,r8,r9,r10,c1,c2,c3,c4,c5,c7,c8,c9,c10]
+  rows: S:4a | 6a | 1a 2a 1a | 2a 2b 2a | 2a 2a | 3a 3a | 1a 1a 1a 1a | 1a 1a | 6a | 2b 2b
+  cols: 2a | 2a | 8a 1b | 2a 1a 1a 1b | 3a 1b 1a | S:3a 1b 1a | 2a 1a 1a 1b | 8a 1b | 2a | 2a
+  no-stamp: needs stamp (1 unknown) looks 25
+  plain clues: looks 31 passes 5 open 20
+pa-r0c6 10x10 OK looks 25 passes 5 open 18 search 30.0 first[r2,r3,r4,r5,r6,r7,r8,r9,r10,c1,c2,c3,c4,c5,c6,c8,c9,c10]
+  rows: S:4a | 6a | 1a 2a 1a | 2a 2b 2a | 2a 2a | 3a 3a | 1a 1a 1a 1a | 1a 1a | 6a | 2b 2b
+  cols: 2a | 2a | 8a 1b | 2a 1a 1a 1b | 3a 1b 1a | 3a 1b 1a | S:2a 1a 1a 1b | 8a 1b | 2a | 2a
+  no-stamp: needs stamp (1 unknown) looks 34
+  plain clues: looks 23 passes 5 open 20
+pa-r0c7 10x10 OK looks 34 passes 9 open 18 search 52.8 first[r2,r3,r4,r5,r6,r7,r8,r9,r10,c1,c2,c3,c4,c5,c6,c7,c9,c10]
+  rows: S:4a | 6a | 1a 2a 1a | 2a 2b 2a | 2a 2a | 3a 3a | 1a 1a 1a 1a | 1a 1a | 6a | 2b 2b
+  cols: 2a | 2a | 8a 1b | 2a 1a 1a 1b | 3a 1b 1a | 3a 1b 1a | 2a 1a 1a 1b | S:8a 1b | 2a | 2a
+  no-stamp: needs stamp (8 unknown) looks 25
+  plain clues: looks 23 passes 5 open 20
+    ..?####...
+    ..######..
+    ..#.##.#..
+    ..####?#?.
+    .##...?#?.
+    ###....###
+    #.#....#.#
+    ..#....#..
+    ..?#####?.
+    ..##..##..
+pa-r0c8 10x10 BAD(7) looks 25 passes 5 open 18 search 39.4 first[r2,r3,r4,r5,r6,r7,r8,r9,r10,c1,c2,c3,c4,c5,c6,c7,c8,c10]
+  rows: S:4a | 6a | 1a 2a 1a | 2a 2b 2a | 2a 2a | 3a 3a | 1a 1a 1a 1a | 1a 1a | 6a | 2b 2b
+  cols: 2a | 2a | 8a 1b | 2a 1a 1a 1b | 3a 1b 1a | 3a 1b 1a | 2a 1a 1a 1b | 8a 1b | S:2a | 2a
+  no-stamp: needs stamp (1 unknown) looks 25
+  plain clues: looks 23 passes 5 open 20
+pa-r0c9 10x10 OK looks 25 passes 7 open 18 search 30.0 first[r2,r3,r4,r5,r6,r7,r8,r9,r10,c1,c2,c3,c4,c5,c6,c7,c8,c9]
+  rows: S:4a | 6a | 1a 2a 1a | 2a 2b 2a | 2a 2a | 3a 3a | 1a 1a 1a 1a | 1a 1a | 6a | 2b 2b
+  cols: 2a | 2a | 8a 1b | 2a 1a 1a 1b | 3a 1b 1a | 3a 1b 1a | 2a 1a 1a 1b | 8a 1b | 2a | S:2a
+  no-stamp: needs stamp (1 unknown) looks 33
+  plain clues: looks 24 passes 5 open 20
+pa-r1c0 10x10 OK looks 33 passes 7 open 18 search 47.9 first[r1,r3,r4,r5,r6,r7,r8,r9,r10,c2,c3,c4,c5,c6,c7,c8,c9,c10]
+  rows: 4a | S:6a | 1a 2a 1a | 2a 2b 2a | 2a 2a | 3a 3a | 1a 1a 1a 1a | 1a 1a | 6a | 2b 2b
+  cols: S:2a | 2a | 8a 1b | 2a 1a 1a 1b | 3a 1b 1a | 3a 1b 1a | 2a 1a 1a 1b | 8a 1b | 2a | 2a
+  no-stamp: needs stamp (5 unknown) looks 26
+  plain clues: looks 24 passes 5 open 20
+    ...####...
+    ..######..
+    ..#.##.#..
+    .?#?####..
+    .?#?...##.
+    ###....###
+    #.#....#.#
+    ..#....#..
+    ..######..
+    ..##..##..
+pa-r1c1 10x10 BAD(4) looks 26 passes 7 open 18 search 38.3 first[r1,r3,r4,r5,r6,r7,r8,r9,r10,c1,c3,c4,c5,c6,c7,c8,c9,c10]
+  rows: 4a | S:6a | 1a 2a 1a | 2a 2b 2a | 2a 2a | 3a 3a | 1a 1a 1a 1a | 1a 1a | 6a | 2b 2b
+  cols: 2a | S:2a | 8a 1b | 2a 1a 1a 1b | 3a 1b 1a | 3a 1b 1a | 2a 1a 1a 1b | 8a 1b | 2a | 2a
+  no-stamp: needs stamp (1 unknown) looks 32
+  plain clues: looks 24 passes 5 open 20
+pa-r1c2 10x10 OK looks 32 passes 11 open 18 search 63.1 first[r1,r3,r4,r5,r6,r7,r8,r9,r10,c1,c2,c4,c5,c6,c7,c8,c9,c10]
+  rows: 4a | S:6a | 1a 2a 1a | 2a 2b 2a | 2a 2a | 3a 3a | 1a 1a 1a 1a | 1a 1a | 6a | 2b 2b
+  cols: 2a | 2a | S:8a 1b | 2a 1a 1a 1b | 3a 1b 1a | 3a 1b 1a | 2a 1a 1a 1b | 8a 1b | 2a | 2a
+  no-stamp: needs stamp (1 unknown) looks 28
+  plain clues: looks 24 passes 5 open 20
+pa-r1c3 10x10 OK looks 28 passes 6 open 18 search 37.8 first[r1,r3,r4,r5,r6,r7,r8,r9,r10,c1,c2,c3,c5,c6,c7,c8,c9,c10]
+  rows: 4a | S:6a | 1a 2a 1a | 2a 2b 2a | 2a 2a | 3a 3a | 1a 1a 1a 1a | 1a 1a | 6a | 2b 2b
+  cols: 2a | 2a | 8a 1b | S:2a 1a 1a 1b | 3a 1b 1a | 3a 1b 1a | 2a 1a 1a 1b | 8a 1b | 2a | 2a
+  no-stamp: needs stamp (1 unknown) looks 26
+  plain clues: looks 24 passes 5 open 20
+pa-r1c4 10x10 OK looks 26 passes 6 open 18 search 34.3 first[r1,r3,r4,r5,r6,r7,r8,r9,r10,c1,c2,c3,c4,c6,c7,c8,c9,c10]
+  rows: 4a | S:6a | 1a 2a 1a | 2a 2b 2a | 2a 2a | 3a 3a | 1a 1a 1a 1a | 1a 1a | 6a | 2b 2b
+  cols: 2a | 2a | 8a 1b | 2a 1a 1a 1b | S:3a 1b 1a | 3a 1b 1a | 2a 1a 1a 1b | 8a 1b | 2a | 2a
+  no-stamp: needs stamp (1 unknown) looks 26
+  plain clues: looks 24 passes 5 open 20
+pa-r1c5 10x10 OK looks 26 passes 6 open 18 search 34.7 first[r1,r3,r4,r5,r6,r7,r8,r9,r10,c1,c2,c3,c4,c5,c7,c8,c9,c10]
+  rows: 4a | S:6a | 1a 2a 1a | 2a 2b 2a | 2a 2a | 3a 3a | 1a 1a 1a 1a | 1a 1a | 6a | 2b 2b
+  cols: 2a | 2a | 8a 1b | 2a 1a 1a 1b | 3a 1b 1a | S:3a 1b 1a | 2a 1a 1a 1b | 8a 1b | 2a | 2a
+  no-stamp: needs stamp (1 unknown) looks 27
+  plain clues: looks 24 passes 5 open 20
+pa-r1c6 10x10 OK looks 27 passes 6 open 18 search 35.6 first[r1,r3,r4,r5,r6,r7,r8,r9,r10,c1,c2,c3,c4,c5,c6,c8,c9,c10]
+  rows: 4a | S:6a | 1a 2a 1a | 2a 2b 2a | 2a 2a | 3a 3a | 1a 1a 1a 1a | 1a 1a | 6a | 2b 2b
+  cols: 2a | 2a | 8a 1b | 2a 1a 1a 1b | 3a 1b 1a | 3a 1b 1a | S:2a 1a 1a 1b | 8a 1b | 2a | 2a
+  no-stamp: needs stamp (1 unknown) looks 37
+  plain clues: looks 24 passes 5 open 20
+pa-r1c7 10x10 OK looks 37 passes 11 open 18 search 82.5 first[r1,r3,r4,r5,r6,r7,r8,r9,r10,c1,c2,c3,c4,c5,c6,c7,c9,c10]
+  rows: 4a | S:6a | 1a 2a 1a | 2a 2b 2a | 2a 2a | 3a 3a | 1a 1a 1a 1a | 1a 1a | 6a | 2b 2b
+  cols: 2a | 2a | 8a 1b | 2a 1a 1a 1b | 3a 1b 1a | 3a 1b 1a | 2a 1a 1a 1b | S:8a 1b | 2a | 2a
+  no-stamp: needs stamp (5 unknown) looks 27
+  plain clues: looks 24 passes 5 open 20
+    ...####...
+    ..######..
+    ..#.##.#..
+    ..####?#?.
+    .##...?#?.
+    ###....###
+    #.#....#.#
+    ..#....#..
+    ..######..
+    ..##..##..
+pa-r1c8 10x10 BAD(4) looks 27 passes 7 open 18 search 44.2 first[r1,r3,r4,r5,r6,r7,r8,r9,r10,c1,c2,c3,c4,c5,c6,c7,c8,c10]
+  rows: 4a | S:6a | 1a 2a 1a | 2a 2b 2a | 2a 2a | 3a 3a | 1a 1a 1a 1a | 1a 1a | 6a | 2b 2b
+  cols: 2a | 2a | 8a 1b | 2a 1a 1a 1b | 3a 1b 1a | 3a 1b 1a | 2a 1a 1a 1b | 8a 1b | S:2a | 2a
+  no-stamp: needs stamp (1 unknown) looks 27
+  plain clues: looks 24 passes 5 open 20
+pa-r1c9 10x10 OK looks 27 passes 7 open 18 search 37.4 first[r1,r3,r4,r5,r6,r7,r8,r9,r10,c1,c2,c3,c4,c5,c6,c7,c8,c9]
+  rows: 4a | S:6a | 1a 2a 1a | 2a 2b 2a | 2a 2a | 3a 3a | 1a 1a 1a 1a | 1a 1a | 6a | 2b 2b
+  cols: 2a | 2a | 8a 1b | 2a 1a 1a 1b | 3a 1b 1a | 3a 1b 1a | 2a 1a 1a 1b | 8a 1b | 2a | S:2a
+  no-stamp: needs stamp (1 unknown) looks 23
+  plain clues: looks 23 passes 5 open 20
+pa-r2c0 10x10 OK looks 23 passes 7 open 18 search 27.8 first[r1,r2,r4,r5,r6,r7,r8,r9,r10,c2,c3,c4,c5,c6,c7,c8,c9,c10]
+  rows: 4a | 6a | S:1a 2a 1a | 2a 2b 2a | 2a 2a | 3a 3a | 1a 1a 1a 1a | 1a 1a | 6a | 2b 2b
+  cols: S:2a | 2a | 8a 1b | 2a 1a 1a 1b | 3a 1b 1a | 3a 1b 1a | 2a 1a 1a 1b | 8a 1b | 2a | 2a
+  no-stamp: needs stamp (10 unknown) looks 25
+  plain clues: looks 23 passes 5 open 20
+    ...?###?..
+    ..######..
+    ..#?##.#..
+    .?#?####..
+    .?#?...##.
+    ###....###
+    #.#....#.#
+    ..#....#..
+    .?#####?..
+    ..##..##..
+pa-r2c1 10x10 BAD(9) looks 25 passes 6 open 18 search 45.6 first[r1,r2,r4,r5,r6,r7,r8,r9,r10,c1,c3,c4,c5,c6,c7,c8,c9,c10]
+  rows: 4a | 6a | S:1a 2a 1a | 2a 2b 2a | 2a 2a | 3a 3a | 1a 1a 1a 1a | 1a 1a | 6a | 2b 2b
+  cols: 2a | S:2a | 8a 1b | 2a 1a 1a 1b | 3a 1b 1a | 3a 1b 1a | 2a 1a 1a 1b | 8a 1b | 2a | 2a
+  no-stamp: needs stamp (1 unknown) looks 25
+  plain clues: looks 24 passes 5 open 20
+pa-r2c2 10x10 OK looks 25 passes 9 open 18 search 33.0 first[r1,r2,r4,r5,r6,r7,r8,r9,r10,c1,c2,c4,c5,c6,c7,c8,c9,c10]
+  rows: 4a | 6a | S:1a 2a 1a | 2a 2b 2a | 2a 2a | 3a 3a | 1a 1a 1a 1a | 1a 1a | 6a | 2b 2b
+  cols: 2a | 2a | S:8a 1b | 2a 1a 1a 1b | 3a 1b 1a | 3a 1b 1a | 2a 1a 1a 1b | 8a 1b | 2a | 2a
+  no-stamp: needs stamp (1 unknown) looks 25
+  plain clues: looks 23 passes 5 open 20
+pa-r2c3 10x10 OK looks 25 passes 6 open 18 search 31.6 first[r1,r2,r4,r5,r6,r7,r8,r9,r10,c1,c2,c3,c5,c6,c7,c8,c9,c10]
+  rows: 4a | 6a | S:1a 2a 1a | 2a 2b 2a | 2a 2a | 3a 3a | 1a 1a 1a 1a | 1a 1a | 6a | 2b 2b
+  cols: 2a | 2a | 8a 1b | S:2a 1a 1a 1b | 3a 1b 1a | 3a 1b 1a | 2a 1a 1a 1b | 8a 1b | 2a | 2a
+  no-stamp: needs stamp (1 unknown) looks 29
+  plain clues: looks 23 passes 5 open 20
+pa-r2c4 10x10 OK looks 29 passes 7 open 18 search 40.7 first[r1,r2,r4,r5,r6,r7,r8,r9,r10,c1,c2,c3,c4,c6,c7,c8,c9,c10]
+  rows: 4a | 6a | S:1a 2a 1a | 2a 2b 2a | 2a 2a | 3a 3a | 1a 1a 1a 1a | 1a 1a | 6a | 2b 2b
+  cols: 2a | 2a | 8a 1b | 2a 1a 1a 1b | S:3a 1b 1a | 3a 1b 1a | 2a 1a 1a 1b | 8a 1b | 2a | 2a
+  no-stamp: needs stamp (1 unknown) looks 29
+  plain clues: looks 23 passes 5 open 20
+pa-r2c5 10x10 OK looks 29 passes 7 open 18 search 40.7 first[r1,r2,r4,r5,r6,r7,r8,r9,r10,c1,c2,c3,c4,c5,c7,c8,c9,c10]
+  rows: 4a | 6a | S:1a 2a 1a | 2a 2b 2a | 2a 2a | 3a 3a | 1a 1a 1a 1a | 1a 1a | 6a | 2b 2b
+  cols: 2a | 2a | 8a 1b | 2a 1a 1a 1b | 3a 1b 1a | S:3a 1b 1a | 2a 1a 1a 1b | 8a 1b | 2a | 2a
+  no-stamp: needs stamp (1 unknown) looks 25
+  plain clues: looks 23 passes 5 open 20
+pa-r2c6 10x10 OK looks 25 passes 6 open 18 search 31.8 first[r1,r2,r4,r5,r6,r7,r8,r9,r10,c1,c2,c3,c4,c5,c6,c8,c9,c10]
+  rows: 4a | 6a | S:1a 2a 1a | 2a 2b 2a | 2a 2a | 3a 3a | 1a 1a 1a 1a | 1a 1a | 6a | 2b 2b
+  cols: 2a | 2a | 8a 1b | 2a 1a 1a 1b | 3a 1b 1a | 3a 1b 1a | S:2a 1a 1a 1b | 8a 1b | 2a | 2a
+  no-stamp: needs stamp (1 unknown) looks 25
+  plain clues: looks 24 passes 5 open 20
+pa-r2c7 10x10 OK looks 25 passes 9 open 18 search 33.0 first[r1,r2,r4,r5,r6,r7,r8,r9,r10,c1,c2,c3,c4,c5,c6,c7,c9,c10]
+  rows: 4a | 6a | S:1a 2a 1a | 2a 2b 2a | 2a 2a | 3a 3a | 1a 1a 1a 1a | 1a 1a | 6a | 2b 2b
+  cols: 2a | 2a | 8a 1b | 2a 1a 1a 1b | 3a 1b 1a | 3a 1b 1a | 2a 1a 1a 1b | S:8a 1b | 2a | 2a
+  no-stamp: needs stamp (10 unknown) looks 25
+  plain clues: looks 23 passes 5 open 20
+    ..?###?...
+    ..######..
+    ..#.##?#..
+    ..####?#?.
+    .##...?#?.
+    ###....###
+    #.#....#.#
+    ..#....#..
+    ..?#####?.
+    ..##..##..
+pa-r2c8 10x10 BAD(9) looks 25 passes 6 open 18 search 46.5 first[r1,r2,r4,r5,r6,r7,r8,r9,r10,c1,c2,c3,c4,c5,c6,c7,c8,c10]
+  rows: 4a | 6a | S:1a 2a 1a | 2a 2b 2a | 2a 2a | 3a 3a | 1a 1a 1a 1a | 1a 1a | 6a | 2b 2b
+  cols: 2a | 2a | 8a 1b | 2a 1a 1a 1b | 3a 1b 1a | 3a 1b 1a | 2a 1a 1a 1b | 8a 1b | S:2a | 2a
+  no-stamp: needs stamp (1 unknown) looks 23
+  plain clues: looks 23 passes 5 open 20
+pa-r2c9 10x10 OK looks 23 passes 7 open 18 search 27.8 first[r1,r2,r4,r5,r6,r7,r8,r9,r10,c1,c2,c3,c4,c5,c6,c7,c8,c9]
+  rows: 4a | 6a | S:1a 2a 1a | 2a 2b 2a | 2a 2a | 3a 3a | 1a 1a 1a 1a | 1a 1a | 6a | 2b 2b
+  cols: 2a | 2a | 8a 1b | 2a 1a 1a 1b | 3a 1b 1a | 3a 1b 1a | 2a 1a 1a 1b | 8a 1b | 2a | S:2a
+  no-stamp: needs stamp (4 unknown) looks 28
+  plain clues: looks 26 passes 5 open 20
+    ...####...
+    ..######..
+    ..#.##.#..
+    ..#?####..
+    .##....##.
+    ?##?...###
+    #.#....#.#
+    ..#....#..
+    ..######..
+    ..##..##..
+pa-r3c0 10x10 BAD(3) looks 28 passes 6 open 18 search 35.4 first[r1,r2,r3,r5,r6,r7,r8,r9,r10,c2,c3,c4,c5,c6,c7,c8,c9,c10]
+  rows: 4a | 6a | 1a 2a 1a | S:2a 2b 2a | 2a 2a | 3a 3a | 1a 1a 1a 1a | 1a 1a | 6a | 2b 2b
+  cols: S:2a | 2a | 8a 1b | 2a 1a 1a 1b | 3a 1b 1a | 3a 1b 1a | 2a 1a 1a 1b | 8a 1b | 2a | 2a
+  no-stamp: needs stamp (4 unknown) looks 29
+  plain clues: looks 24 passes 5 open 20
+    ...####...
+    ..######..
+    ..#.##.#..
+    ..#?####..
+    .?#?...##.
+    ###....###
+    #.#....#.#
+    ..#....#..
+    ..######..
+    ..##..##..
+pa-r3c1 10x10 BAD(3) looks 29 passes 7 open 18 search 43.8 first[r1,r2,r3,r5,r6,r7,r8,r9,r10,c1,c3,c4,c5,c6,c7,c8,c9,c10]
+  rows: 4a | 6a | 1a 2a 1a | S:2a 2b 2a | 2a 2a | 3a 3a | 1a 1a 1a 1a | 1a 1a | 6a | 2b 2b
+  cols: 2a | S:2a | 8a 1b | 2a 1a 1a 1b | 3a 1b 1a | 3a 1b 1a | 2a 1a 1a 1b | 8a 1b | 2a | 2a
+  no-stamp: needs stamp (21 unknown) looks 24
+  plain clues: looks 24 passes 5 open 20
+    ...####...
+    ..######..
+    ?.?.##.#..
+    ?.#?##?#..
+    ????...##.
+    ?##?..?##?
+    ????...#.#
+    ?.?....#.?
+    ..######..
+    ..##..##..
+pa-r3c2 10x10 BAD(20) looks 24 passes 6 open 18 search 55.4 first[r1,r2,r3,r5,r6,r7,r8,r9,r10,c1,c2,c4,c5,c6,c7,c8,c9,c10]
+  rows: 4a | 6a | 1a 2a 1a | S:2a 2b 2a | 2a 2a | 3a 3a | 1a 1a 1a 1a | 1a 1a | 6a | 2b 2b
+  cols: 2a | 2a | S:8a 1b | 2a 1a 1a 1b | 3a 1b 1a | 3a 1b 1a | 2a 1a 1a 1b | 8a 1b | 2a | 2a
+  no-stamp: needs stamp (1 unknown) looks 27
+  plain clues: looks 24 passes 5 open 20
+pa-r3c3 10x10 OK looks 27 passes 6 open 18 search 32.1 first[r1,r2,r3,r5,r6,r7,r8,r9,r10,c1,c2,c3,c5,c6,c7,c8,c9,c10]
+  rows: 4a | 6a | 1a 2a 1a | S:2a 2b 2a | 2a 2a | 3a 3a | 1a 1a 1a 1a | 1a 1a | 6a | 2b 2b
+  cols: 2a | 2a | 8a 1b | S:2a 1a 1a 1b | 3a 1b 1a | 3a 1b 1a | 2a 1a 1a 1b | 8a 1b | 2a | 2a
+  no-stamp: needs stamp (1 unknown) looks 30
+  plain clues: looks 24 passes 5 open 20
+pa-r3c4 10x10 OK looks 30 passes 6 open 18 search 36.0 first[r1,r2,r3,r5,r6,r7,r8,r9,r10,c1,c2,c3,c4,c6,c7,c8,c9,c10]
+  rows: 4a | 6a | 1a 2a 1a | S:2a 2b 2a | 2a 2a | 3a 3a | 1a 1a 1a 1a | 1a 1a | 6a | 2b 2b
+  cols: 2a | 2a | 8a 1b | 2a 1a 1a 1b | S:3a 1b 1a | 3a 1b 1a | 2a 1a 1a 1b | 8a 1b | 2a | 2a
+  no-stamp: needs stamp (1 unknown) looks 30
+  plain clues: looks 24 passes 5 open 20
+pa-r3c5 10x10 OK looks 30 passes 6 open 18 search 39.6 first[r1,r2,r3,r5,r6,r7,r8,r9,r10,c1,c2,c3,c4,c5,c7,c8,c9,c10]
+  rows: 4a | 6a | 1a 2a 1a | S:2a 2b 2a | 2a 2a | 3a 3a | 1a 1a 1a 1a | 1a 1a | 6a | 2b 2b
+  cols: 2a | 2a | 8a 1b | 2a 1a 1a 1b | 3a 1b 1a | S:3a 1b 1a | 2a 1a 1a 1b | 8a 1b | 2a | 2a
+  no-stamp: needs stamp (1 unknown) looks 27
+  plain clues: looks 24 passes 5 open 20
+pa-r3c6 10x10 OK looks 27 passes 6 open 18 search 33.4 first[r1,r2,r3,r5,r6,r7,r8,r9,r10,c1,c2,c3,c4,c5,c6,c8,c9,c10]
+  rows: 4a | 6a | 1a 2a 1a | S:2a 2b 2a | 2a 2a | 3a 3a | 1a 1a 1a 1a | 1a 1a | 6a | 2b 2b
+  cols: 2a | 2a | 8a 1b | 2a 1a 1a 1b | 3a 1b 1a | 3a 1b 1a | S:2a 1a 1a 1b | 8a 1b | 2a | 2a
+  no-stamp: needs stamp (21 unknown) looks 25
+  plain clues: looks 24 passes 5 open 20
+    ...####...
+    ..######..
+    ..#.##.?.?
+    ..#?##?#.?
+    .##...????
+    ?##?..?##?
+    #.#...????
+    ?.#....?.?
+    ..######..
+    ..##..##..
+pa-r3c7 10x10 BAD(20) looks 25 passes 6 open 18 search 57.3 first[r1,r2,r3,r5,r6,r7,r8,r9,r10,c1,c2,c3,c4,c5,c6,c7,c9,c10]
+  rows: 4a | 6a | 1a 2a 1a | S:2a 2b 2a | 2a 2a | 3a 3a | 1a 1a 1a 1a | 1a 1a | 6a | 2b 2b
+  cols: 2a | 2a | 8a 1b | 2a 1a 1a 1b | 3a 1b 1a | 3a 1b 1a | 2a 1a 1a 1b | S:8a 1b | 2a | 2a
+  no-stamp: needs stamp (4 unknown) looks 28
+  plain clues: looks 24 passes 5 open 20
+    ...####...
+    ..######..
+    ..#.##.#..
+    ..####?#..
+    .##...?#?.
+    ###....###
+    #.#....#.#
+    ..#....#..
+    ..######..
+    ..##..##..
+pa-r3c8 10x10 BAD(3) looks 28 passes 7 open 18 search 40.1 first[r1,r2,r3,r5,r6,r7,r8,r9,r10,c1,c2,c3,c4,c5,c6,c7,c8,c10]
+  rows: 4a | 6a | 1a 2a 1a | S:2a 2b 2a | 2a 2a | 3a 3a | 1a 1a 1a 1a | 1a 1a | 6a | 2b 2b
+  cols: 2a | 2a | 8a 1b | 2a 1a 1a 1b | 3a 1b 1a | 3a 1b 1a | 2a 1a 1a 1b | 8a 1b | S:2a | 2a
+  no-stamp: needs stamp (4 unknown) looks 28
+  plain clues: looks 24 passes 5 open 20
+    ...####...
+    ..######..
+    ..#.##.#..
+    ..####?#..
+    .##....##.
+    ###...?##?
+    #.#....#.#
+    ..#....#..
+    ..######..
+    ..##..##..
+pa-r3c9 10x10 BAD(3) looks 28 passes 6 open 18 search 35.7 first[r1,r2,r3,r5,r6,r7,r8,r9,r10,c1,c2,c3,c4,c5,c6,c7,c8,c9]
+  rows: 4a | 6a | 1a 2a 1a | S:2a 2b 2a | 2a 2a | 3a 3a | 1a 1a 1a 1a | 1a 1a | 6a | 2b 2b
+  cols: 2a | 2a | 8a 1b | 2a 1a 1a 1b | 3a 1b 1a | 3a 1b 1a | 2a 1a 1a 1b | 8a 1b | 2a | S:2a
+  no-stamp: needs stamp (1 unknown) looks 26
+  plain clues: looks 24 passes 5 open 20
+pa-r4c0 10x10 OK looks 26 passes 7 open 18 search 32.0 first[r1,r2,r3,r4,r6,r7,r8,r9,r10,c2,c3,c4,c5,c6,c7,c8,c9,c10]
+  rows: 4a | 6a | 1a 2a 1a | 2a 2b 2a | S:2a 2a | 3a 3a | 1a 1a 1a 1a | 1a 1a | 6a | 2b 2b
+  cols: S:2a | 2a | 8a 1b | 2a 1a 1a 1b | 3a 1b 1a | 3a 1b 1a | 2a 1a 1a 1b | 8a 1b | 2a | 2a
+  no-stamp: needs stamp (4 unknown) looks 33
+  plain clues: looks 25 passes 5 open 20
+    ...####...
+    ..######..
+    ..#.##.#..
+    .?#?####..
+    .##?...##.
+    ###....###
+    #.#....#.#
+    ..#....#..
+    ..######..
+    ..##..##..
+pa-r4c1 10x10 BAD(3) looks 33 passes 7 open 18 search 52.0 first[r1,r2,r3,r4,r6,r7,r8,r9,r10,c1,c3,c4,c5,c6,c7,c8,c9,c10]
+  rows: 4a | 6a | 1a 2a 1a | 2a 2b 2a | S:2a 2a | 3a 3a | 1a 1a 1a 1a | 1a 1a | 6a | 2b 2b
+  cols: 2a | S:2a | 8a 1b | 2a 1a 1a 1b | 3a 1b 1a | 3a 1b 1a | 2a 1a 1a 1b | 8a 1b | 2a | 2a
+  no-stamp: needs stamp (1 unknown) looks 27
+  plain clues: looks 24 passes 5 open 20
+pa-r4c2 10x10 OK looks 27 passes 9 open 18 search 32.3 first[r1,r2,r3,r4,r6,r7,r8,r9,r10,c1,c2,c4,c5,c6,c7,c8,c9,c10]
+  rows: 4a | 6a | 1a 2a 1a | 2a 2b 2a | S:2a 2a | 3a 3a | 1a 1a 1a 1a | 1a 1a | 6a | 2b 2b
+  cols: 2a | 2a | S:8a 1b | 2a 1a 1a 1b | 3a 1b 1a | 3a 1b 1a | 2a 1a 1a 1b | 8a 1b | 2a | 2a
+  no-stamp: needs stamp (1 unknown) looks 28
+  plain clues: looks 25 passes 5 open 20
+pa-r4c3 10x10 OK looks 28 passes 6 open 18 search 35.1 first[r1,r2,r3,r4,r6,r7,r8,r9,r10,c1,c2,c3,c5,c6,c7,c8,c9,c10]
+  rows: 4a | 6a | 1a 2a 1a | 2a 2b 2a | S:2a 2a | 3a 3a | 1a 1a 1a 1a | 1a 1a | 6a | 2b 2b
+  cols: 2a | 2a | 8a 1b | S:2a 1a 1a 1b | 3a 1b 1a | 3a 1b 1a | 2a 1a 1a 1b | 8a 1b | 2a | 2a
+  no-stamp: needs stamp (6 unknown) looks 31
+  plain clues: looks 24 passes 5 open 20
+    ...####...
+    ..######..
+    ..#.##.#..
+    ..######..
+    ?##....##?
+    ###....###
+    ?.#.?..#.?
+    ..#....#..
+    ..######..
+    ..##..##..
+pa-r4c4 10x10 BAD(5) looks 31 passes 7 open 18 search 53.9 first[r1,r2,r3,r4,r6,r7,r8,r9,r10,c1,c2,c3,c4,c6,c7,c8,c9,c10]
+  rows: 4a | 6a | 1a 2a 1a | 2a 2b 2a | S:2a 2a | 3a 3a | 1a 1a 1a 1a | 1a 1a | 6a | 2b 2b
+  cols: 2a | 2a | 8a 1b | 2a 1a 1a 1b | S:3a 1b 1a | 3a 1b 1a | 2a 1a 1a 1b | 8a 1b | 2a | 2a
+  no-stamp: needs stamp (6 unknown) looks 33
+  plain clues: looks 24 passes 5 open 20
+    ...####...
+    ..######..
+    ..#.##.#..
+    ..######..
+    ?##....##?
+    ###....###
+    ?.#..?.#.?
+    ..#....#..
+    ..######..
+    ..##..##..
+pa-r4c5 10x10 BAD(5) looks 33 passes 7 open 18 search 69.1 first[r1,r2,r3,r4,r6,r7,r8,r9,r10,c1,c2,c3,c4,c5,c7,c8,c9,c10]
+  rows: 4a | 6a | 1a 2a 1a | 2a 2b 2a | S:2a 2a | 3a 3a | 1a 1a 1a 1a | 1a 1a | 6a | 2b 2b
+  cols: 2a | 2a | 8a 1b | 2a 1a 1a 1b | 3a 1b 1a | S:3a 1b 1a | 2a 1a 1a 1b | 8a 1b | 2a | 2a
+  no-stamp: needs stamp (1 unknown) looks 28
+  plain clues: looks 21 passes 5 open 20
+pa-r4c6 10x10 OK looks 28 passes 6 open 18 search 34.8 first[r1,r2,r3,r4,r6,r7,r8,r9,r10,c1,c2,c3,c4,c5,c6,c8,c9,c10]
+  rows: 4a | 6a | 1a 2a 1a | 2a 2b 2a | S:2a 2a | 3a 3a | 1a 1a 1a 1a | 1a 1a | 6a | 2b 2b
+  cols: 2a | 2a | 8a 1b | 2a 1a 1a 1b | 3a 1b 1a | 3a 1b 1a | S:2a 1a 1a 1b | 8a 1b | 2a | 2a
+  no-stamp: needs stamp (1 unknown) looks 37
+  plain clues: looks 24 passes 5 open 20
+pa-r4c7 10x10 OK looks 37 passes 9 open 18 search 53.8 first[r1,r2,r3,r4,r6,r7,r8,r9,r10,c1,c2,c3,c4,c5,c6,c7,c9,c10]
+  rows: 4a | 6a | 1a 2a 1a | 2a 2b 2a | S:2a 2a | 3a 3a | 1a 1a 1a 1a | 1a 1a | 6a | 2b 2b
+  cols: 2a | 2a | 8a 1b | 2a 1a 1a 1b | 3a 1b 1a | 3a 1b 1a | 2a 1a 1a 1b | S:8a 1b | 2a | 2a
+  no-stamp: needs stamp (4 unknown) looks 31
+  plain clues: looks 21 passes 5 open 20
+    ...####...
+    ..######..
+    ..#.##.#..
+    ..####?#?.
+    .##...?##.
+    ###....###
+    #.#....#.#
+    ..#....#..
+    ..######..
+    ..##..##..
+pa-r4c8 10x10 BAD(3) looks 31 passes 7 open 18 search 47.0 first[r1,r2,r3,r4,r6,r7,r8,r9,r10,c1,c2,c3,c4,c5,c6,c7,c8,c10]
+  rows: 4a | 6a | 1a 2a 1a | 2a 2b 2a | S:2a 2a | 3a 3a | 1a 1a 1a 1a | 1a 1a | 6a | 2b 2b
+  cols: 2a | 2a | 8a 1b | 2a 1a 1a 1b | 3a 1b 1a | 3a 1b 1a | 2a 1a 1a 1b | 8a 1b | S:2a | 2a
+  no-stamp: needs stamp (1 unknown) looks 26
+  plain clues: looks 24 passes 5 open 20
+pa-r4c9 10x10 OK looks 26 passes 7 open 18 search 32.0 first[r1,r2,r3,r4,r6,r7,r8,r9,r10,c1,c2,c3,c4,c5,c6,c7,c8,c9]
+  rows: 4a | 6a | 1a 2a 1a | 2a 2b 2a | S:2a 2a | 3a 3a | 1a 1a 1a 1a | 1a 1a | 6a | 2b 2b
+  cols: 2a | 2a | 8a 1b | 2a 1a 1a 1b | 3a 1b 1a | 3a 1b 1a | 2a 1a 1a 1b | 8a 1b | 2a | S:2a
+  no-stamp: needs stamp (9 unknown) looks 27
+  plain clues: looks 26 passes 5 open 20
+    ...####...
+    ..######..
+    ..#.##.#..
+    .?#?##?#?.
+    .##....##.
+    #?#?..?#?#
+    #.#....#.#
+    ..#....#..
+    ..######..
+    ..##..##..
+pa-r5c0 10x10 BAD(8) looks 27 passes 5 open 18 search 51.0 first[r1,r2,r3,r4,r5,r7,r8,r9,r10,c2,c3,c4,c5,c6,c7,c8,c9,c10]
+  rows: 4a | 6a | 1a 2a 1a | 2a 2b 2a | 2a 2a | S:3a 3a | 1a 1a 1a 1a | 1a 1a | 6a | 2b 2b
+  cols: S:2a | 2a | 8a 1b | 2a 1a 1a 1b | 3a 1b 1a | 3a 1b 1a | 2a 1a 1a 1b | 8a 1b | 2a | 2a
+  no-stamp: needs stamp (10 unknown) looks 33
+  plain clues: looks 24 passes 5 open 20
+    ...####...
+    ..######..
+    ..#.##.#..
+    .?#?##?#?.
+    .?#?...##.
+    ###?..?#?#
+    #.#....#.#
+    ..#....#..
+    ..######..
+    ..##..##..
+pa-r5c1 10x10 BAD(9) looks 33 passes 7 open 18 search 74.8 first[r1,r2,r3,r4,r5,r7,r8,r9,r10,c1,c3,c4,c5,c6,c7,c8,c9,c10]
+  rows: 4a | 6a | 1a 2a 1a | 2a 2b 2a | 2a 2a | S:3a 3a | 1a 1a 1a 1a | 1a 1a | 6a | 2b 2b
+  cols: 2a | S:2a | 8a 1b | 2a 1a 1a 1b | 3a 1b 1a | 3a 1b 1a | 2a 1a 1a 1b | 8a 1b | 2a | 2a
+  no-stamp: needs stamp (28 unknown) looks 32
+  plain clues: looks 24 passes 5 open 20
+    ...####...
+    ..######..
+    ???.##.#..
+    ????##?#?.
+    ????...##.
+    ??#?..?#??
+    ????...#.#
+    ???....#.?
+    ..######..
+    ..##..##..
+pa-r5c2 10x10 BAD(27) looks 32 passes 9 open 18 search 81.2 first[r1,r2,r3,r4,r5,r7,r8,r9,r10,c1,c2,c4,c5,c6,c7,c8,c9,c10]
+  rows: 4a | 6a | 1a 2a 1a | 2a 2b 2a | 2a 2a | S:3a 3a | 1a 1a 1a 1a | 1a 1a | 6a | 2b 2b
+  cols: 2a | 2a | S:8a 1b | 2a 1a 1a 1b | 3a 1b 1a | 3a 1b 1a | 2a 1a 1a 1b | 8a 1b | 2a | 2a
+  no-stamp: needs stamp (10 unknown) looks 30
+  plain clues: looks 25 passes 5 open 20
+    ...####...
+    ..######..
+    ..#.##.#..
+    .?#?#??#?.
+    .##....##.
+    #?#..??#?#
+    #.#....#.#
+    ..#....#..
+    ..######..
+    ..##..##..
+pa-r5c3 10x10 BAD(9) looks 30 passes 6 open 18 search 70.6 first[r1,r2,r3,r4,r5,r7,r8,r9,r10,c1,c2,c3,c5,c6,c7,c8,c9,c10]
+  rows: 4a | 6a | 1a 2a 1a | 2a 2b 2a | 2a 2a | S:3a 3a | 1a 1a 1a 1a | 1a 1a | 6a | 2b 2b
+  cols: 2a | 2a | 8a 1b | S:2a 1a 1a 1b | 3a 1b 1a | 3a 1b 1a | 2a 1a 1a 1b | 8a 1b | 2a | 2a
+  no-stamp: needs stamp (9 unknown) looks 28
+  plain clues: looks 24 passes 5 open 20
+    ...####...
+    ..######..
+    ..#.##.#..
+    .?#?##?#?.
+    .##....##.
+    #?#?..?#?#
+    #.#....#.#
+    ..#....#..
+    ..######..
+    ..##..##..
+pa-r5c4 10x10 BAD(8) looks 28 passes 5 open 18 search 50.9 first[r1,r2,r3,r4,r5,r7,r8,r9,r10,c1,c2,c3,c4,c6,c7,c8,c9,c10]
+  rows: 4a | 6a | 1a 2a 1a | 2a 2b 2a | 2a 2a | S:3a 3a | 1a 1a 1a 1a | 1a 1a | 6a | 2b 2b
+  cols: 2a | 2a | 8a 1b | 2a 1a 1a 1b | S:3a 1b 1a | 3a 1b 1a | 2a 1a 1a 1b | 8a 1b | 2a | 2a
+  no-stamp: needs stamp (9 unknown) looks 29
+  plain clues: looks 24 passes 5 open 20
+    ...####...
+    ..######..
+    ..#.##.#..
+    .?#?##?#?.
+    .##....##.
+    #?#?..?#?#
+    #.#....#.#
+    ..#....#..
+    ..######..
+    ..##..##..
+pa-r5c5 10x10 BAD(8) looks 29 passes 5 open 18 search 59.4 first[r1,r2,r3,r4,r5,r7,r8,r9,r10,c1,c2,c3,c4,c5,c7,c8,c9,c10]
+  rows: 4a | 6a | 1a 2a 1a | 2a 2b 2a | 2a 2a | S:3a 3a | 1a 1a 1a 1a | 1a 1a | 6a | 2b 2b
+  cols: 2a | 2a | 8a 1b | 2a 1a 1a 1b | 3a 1b 1a | S:3a 1b 1a | 2a 1a 1a 1b | 8a 1b | 2a | 2a
+  no-stamp: needs stamp (10 unknown) looks 29
+  plain clues: looks 25 passes 5 open 20
+    ...####...
+    ..######..
+    ..#.##.#..
+    .?#??#?#?.
+    .##....##.
+    #?#??..#?#
+    #.#....#.#
+    ..#....#..
+    ..######..
+    ..##..##..
+pa-r5c6 10x10 BAD(9) looks 29 passes 6 open 18 search 63.8 first[r1,r2,r3,r4,r5,r7,r8,r9,r10,c1,c2,c3,c4,c5,c6,c8,c9,c10]
+  rows: 4a | 6a | 1a 2a 1a | 2a 2b 2a | 2a 2a | S:3a 3a | 1a 1a 1a 1a | 1a 1a | 6a | 2b 2b
+  cols: 2a | 2a | 8a 1b | 2a 1a 1a 1b | 3a 1b 1a | 3a 1b 1a | S:2a 1a 1a 1b | 8a 1b | 2a | 2a
+  no-stamp: needs stamp (28 unknown) looks 32
+  plain clues: looks 24 passes 5 open 20
+    ...####...
+    ..######..
+    ..#.##.???
+    .?#?##????
+    .##...????
+    ??#?..?#??
+    #.#...????
+    ?.#....???
+    ..######..
+    ..##..##..
+pa-r5c7 10x10 BAD(27) looks 32 passes 9 open 18 search 78.1 first[r1,r2,r3,r4,r5,r7,r8,r9,r10,c1,c2,c3,c4,c5,c6,c7,c9,c10]
+  rows: 4a | 6a | 1a 2a 1a | 2a 2b 2a | 2a 2a | S:3a 3a | 1a 1a 1a 1a | 1a 1a | 6a | 2b 2b
+  cols: 2a | 2a | 8a 1b | 2a 1a 1a 1b | 3a 1b 1a | 3a 1b 1a | 2a 1a 1a 1b | S:8a 1b | 2a | 2a
+  no-stamp: needs stamp (10 unknown) looks 30
+  plain clues: looks 24 passes 5 open 20
+    ...####...
+    ..######..
+    ..#.##.#..
+    .?#?##?#?.
+    .##...?#?.
+    #?#?..?###
+    #.#....#.#
+    ..#....#..
+    ..######..
+    ..##..##..
+pa-r5c8 10x10 BAD(9) looks 30 passes 7 open 18 search 58.0 first[r1,r2,r3,r4,r5,r7,r8,r9,r10,c1,c2,c3,c4,c5,c6,c7,c8,c10]
+  rows: 4a | 6a | 1a 2a 1a | 2a 2b 2a | 2a 2a | S:3a 3a | 1a 1a 1a 1a | 1a 1a | 6a | 2b 2b
+  cols: 2a | 2a | 8a 1b | 2a 1a 1a 1b | 3a 1b 1a | 3a 1b 1a | 2a 1a 1a 1b | 8a 1b | S:2a | 2a
+  no-stamp: needs stamp (9 unknown) looks 31
+  plain clues: looks 26 passes 5 open 20
+    ...####...
+    ..######..
+    ..#.##.#..
+    .?#?##?#?.
+    .##....##.
+    #?#?..?#?#
+    #.#....#.#
+    ..#....#..
+    ..######..
+    ..##..##..
+pa-r5c9 10x10 BAD(8) looks 31 passes 5 open 18 search 66.2 first[r1,r2,r3,r4,r5,r7,r8,r9,r10,c1,c2,c3,c4,c5,c6,c7,c8,c9]
+  rows: 4a | 6a | 1a 2a 1a | 2a 2b 2a | 2a 2a | S:3a 3a | 1a 1a 1a 1a | 1a 1a | 6a | 2b 2b
+  cols: 2a | 2a | 8a 1b | 2a 1a 1a 1b | 3a 1b 1a | 3a 1b 1a | 2a 1a 1a 1b | 8a 1b | 2a | S:2a
+  no-stamp: needs stamp (1 unknown) looks 32
+  plain clues: looks 28 passes 5 open 20
+pa-r6c0 10x10 OK looks 32 passes 8 open 18 search 44.2 first[r1,r2,r3,r4,r5,r6,r8,r9,r10,c2,c3,c4,c5,c6,c7,c8,c9,c10]
+  rows: 4a | 6a | 1a 2a 1a | 2a 2b 2a | 2a 2a | 3a 3a | S:1a 1a 1a 1a | 1a 1a | 6a | 2b 2b
+  cols: S:2a | 2a | 8a 1b | 2a 1a 1a 1b | 3a 1b 1a | 3a 1b 1a | 2a 1a 1a 1b | 8a 1b | 2a | 2a
+  no-stamp: needs stamp (6 unknown) looks 35
+  plain clues: looks 24 passes 5 open 20
+    ...####...
+    ..######..
+    ..#.##.#..
+    .?#?####..
+    .?#?...##.
+    ###....###
+    #.#?...#.#
+    ..#....#..
+    ..######..
+    ..##..##..
+pa-r6c1 10x10 BAD(5) looks 35 passes 8 open 18 search 60.6 first[r1,r2,r3,r4,r5,r6,r8,r9,r10,c1,c3,c4,c5,c6,c7,c8,c9,c10]
+  rows: 4a | 6a | 1a 2a 1a | 2a 2b 2a | 2a 2a | 3a 3a | S:1a 1a 1a 1a | 1a 1a | 6a | 2b 2b
+  cols: 2a | S:2a | 8a 1b | 2a 1a 1a 1b | 3a 1b 1a | 3a 1b 1a | 2a 1a 1a 1b | 8a 1b | 2a | 2a
+  no-stamp: needs stamp (4 unknown) looks 37
+  plain clues: looks 24 passes 5 open 20
+    ...####...
+    ..######..
+    ..#.##.#..
+    ..######..
+    ?#?....##.
+    ###....###
+    ?.#....#.#
+    ..#....#..
+    ..######..
+    ..##..##..
+pa-r6c2 10x10 BAD(3) looks 37 passes 9 open 18 search 77.7 first[r1,r2,r3,r4,r5,r6,r8,r9,r10,c1,c2,c4,c5,c6,c7,c8,c9,c10]
+  rows: 4a | 6a | 1a 2a 1a | 2a 2b 2a | 2a 2a | 3a 3a | S:1a 1a 1a 1a | 1a 1a | 6a | 2b 2b
+  cols: 2a | 2a | S:8a 1b | 2a 1a 1a 1b | 3a 1b 1a | 3a 1b 1a | 2a 1a 1a 1b | 8a 1b | 2a | 2a
+  no-stamp: needs stamp (4 unknown) looks 31
+  plain clues: looks 24 passes 5 open 20
+    ...####...
+    ..######..
+    ..#.##.#..
+    ..######..
+    .?#?...##.
+    ###....###
+    #?#....#.#
+    ..#....#..
+    ..######..
+    ..##..##..
+pa-r6c3 10x10 BAD(3) looks 31 passes 8 open 18 search 49.8 first[r1,r2,r3,r4,r5,r6,r8,r9,r10,c1,c2,c3,c5,c6,c7,c8,c9,c10]
+  rows: 4a | 6a | 1a 2a 1a | 2a 2b 2a | 2a 2a | 3a 3a | S:1a 1a 1a 1a | 1a 1a | 6a | 2b 2b
+  cols: 2a | 2a | 8a 1b | S:2a 1a 1a 1b | 3a 1b 1a | 3a 1b 1a | 2a 1a 1a 1b | 8a 1b | 2a | 2a
+  no-stamp: needs stamp (1 unknown) looks 31
+  plain clues: looks 28 passes 5 open 20
+pa-r6c4 10x10 OK looks 31 passes 9 open 18 search 45.0 first[r1,r2,r3,r4,r5,r6,r8,r9,r10,c1,c2,c3,c4,c6,c7,c8,c9,c10]
+  rows: 4a | 6a | 1a 2a 1a | 2a 2b 2a | 2a 2a | 3a 3a | S:1a 1a 1a 1a | 1a 1a | 6a | 2b 2b
+  cols: 2a | 2a | 8a 1b | 2a 1a 1a 1b | S:3a 1b 1a | 3a 1b 1a | 2a 1a 1a 1b | 8a 1b | 2a | 2a
+  no-stamp: needs stamp (1 unknown) looks 37
+  plain clues: looks 28 passes 5 open 20
+pa-r6c5 10x10 OK looks 37 passes 9 open 18 search 65.1 first[r1,r2,r3,r4,r5,r6,r8,r9,r10,c1,c2,c3,c4,c5,c7,c8,c9,c10]
+  rows: 4a | 6a | 1a 2a 1a | 2a 2b 2a | 2a 2a | 3a 3a | S:1a 1a 1a 1a | 1a 1a | 6a | 2b 2b
+  cols: 2a | 2a | 8a 1b | 2a 1a 1a 1b | 3a 1b 1a | S:3a 1b 1a | 2a 1a 1a 1b | 8a 1b | 2a | 2a
+  no-stamp: needs stamp (4 unknown) looks 33
+  plain clues: looks 24 passes 5 open 20
+    ...####...
+    ..######..
+    ..#.##.#..
+    ..######..
+    .##...?#?.
+    ###....###
+    #.#....#?#
+    ..#....#..
+    ..######..
+    ..##..##..
+pa-r6c6 10x10 BAD(3) looks 33 passes 8 open 18 search 50.2 first[r1,r2,r3,r4,r5,r6,r8,r9,r10,c1,c2,c3,c4,c5,c6,c8,c9,c10]
+  rows: 4a | 6a | 1a 2a 1a | 2a 2b 2a | 2a 2a | 3a 3a | S:1a 1a 1a 1a | 1a 1a | 6a | 2b 2b
+  cols: 2a | 2a | 8a 1b | 2a 1a 1a 1b | 3a 1b 1a | 3a 1b 1a | S:2a 1a 1a 1b | 8a 1b | 2a | 2a
+  no-stamp: needs stamp (4 unknown) looks 35
+  plain clues: looks 24 passes 5 open 20
+    ...####...
+    ..######..
+    ..#.##.#..
+    ..######..
+    .##....?#?
+    ###....###
+    #.#....#.?
+    ..#....#..
+    ..######..
+    ..##..##..
+pa-r6c7 10x10 BAD(3) looks 35 passes 9 open 18 search 60.5 first[r1,r2,r3,r4,r5,r6,r8,r9,r10,c1,c2,c3,c4,c5,c6,c7,c9,c10]
+  rows: 4a | 6a | 1a 2a 1a | 2a 2b 2a | 2a 2a | 3a 3a | S:1a 1a 1a 1a | 1a 1a | 6a | 2b 2b
+  cols: 2a | 2a | 8a 1b | 2a 1a 1a 1b | 3a 1b 1a | 3a 1b 1a | 2a 1a 1a 1b | S:8a 1b | 2a | 2a
+  no-stamp: needs stamp (6 unknown) looks 33
+  plain clues: looks 24 passes 5 open 20
+    ...####...
+    ..######..
+    ..#.##.#..
+    ..####?#?.
+    .##...?#?.
+    ###....###
+    #.#...?#.#
+    ..#....#..
+    ..######..
+    ..##..##..
+pa-r6c8 10x10 BAD(5) looks 33 passes 8 open 18 search 54.7 first[r1,r2,r3,r4,r5,r6,r8,r9,r10,c1,c2,c3,c4,c5,c6,c7,c8,c10]
+  rows: 4a | 6a | 1a 2a 1a | 2a 2b 2a | 2a 2a | 3a 3a | S:1a 1a 1a 1a | 1a 1a | 6a | 2b 2b
+  cols: 2a | 2a | 8a 1b | 2a 1a 1a 1b | 3a 1b 1a | 3a 1b 1a | 2a 1a 1a 1b | 8a 1b | S:2a | 2a
+  no-stamp: needs stamp (1 unknown) looks 32
+  plain clues: looks 26 passes 5 open 20
+pa-r6c9 10x10 OK looks 32 passes 8 open 18 search 43.1 first[r1,r2,r3,r4,r5,r6,r8,r9,r10,c1,c2,c3,c4,c5,c6,c7,c8,c9]
+  rows: 4a | 6a | 1a 2a 1a | 2a 2b 2a | 2a 2a | 3a 3a | S:1a 1a 1a 1a | 1a 1a | 6a | 2b 2b
+  cols: 2a | 2a | 8a 1b | 2a 1a 1a 1b | 3a 1b 1a | 3a 1b 1a | 2a 1a 1a 1b | 8a 1b | 2a | S:2a
+  no-stamp: needs stamp (1 unknown) looks 26
+  plain clues: looks 24 passes 5 open 20
+pa-r7c0 10x10 OK looks 26 passes 8 open 18 search 32.7 first[r1,r2,r3,r4,r5,r6,r7,r9,r10,c2,c3,c4,c5,c6,c7,c8,c9,c10]
+  rows: 4a | 6a | 1a 2a 1a | 2a 2b 2a | 2a 2a | 3a 3a | 1a 1a 1a 1a | S:1a 1a | 6a | 2b 2b
+  cols: S:2a | 2a | 8a 1b | 2a 1a 1a 1b | 3a 1b 1a | 3a 1b 1a | 2a 1a 1a 1b | 8a 1b | 2a | 2a
+  no-stamp: needs stamp (8 unknown) looks 32
+  plain clues: looks 24 passes 5 open 20
+    ...####...
+    ..######..
+    ..#.##.#..
+    .?#?####..
+    .?#?...##.
+    ?##?...###
+    #.#....#.#
+    ?.#....#..
+    ..######..
+    ..##..##..
+pa-r7c1 10x10 BAD(7) looks 32 passes 8 open 18 search 60.4 first[r1,r2,r3,r4,r5,r6,r7,r9,r10,c1,c3,c4,c5,c6,c7,c8,c9,c10]
+  rows: 4a | 6a | 1a 2a 1a | 2a 2b 2a | 2a 2a | 3a 3a | 1a 1a 1a 1a | S:1a 1a | 6a | 2b 2b
+  cols: 2a | S:2a | 8a 1b | 2a 1a 1a 1b | 3a 1b 1a | 3a 1b 1a | 2a 1a 1a 1b | 8a 1b | 2a | 2a
+  no-stamp: needs stamp (1 unknown) looks 36
+  plain clues: looks 24 passes 5 open 20
+pa-r7c2 10x10 OK looks 36 passes 9 open 18 search 54.2 first[r1,r2,r3,r4,r5,r6,r7,r9,r10,c1,c2,c4,c5,c6,c7,c8,c9,c10]
+  rows: 4a | 6a | 1a 2a 1a | 2a 2b 2a | 2a 2a | 3a 3a | 1a 1a 1a 1a | S:1a 1a | 6a | 2b 2b
+  cols: 2a | 2a | S:8a 1b | 2a 1a 1a 1b | 3a 1b 1a | 3a 1b 1a | 2a 1a 1a 1b | 8a 1b | 2a | 2a
+  no-stamp: needs stamp (4 unknown) looks 29
+  plain clues: looks 24 passes 5 open 20
+    ...####...
+    ..######..
+    ..#.##.#..
+    ..######..
+    .##....##.
+    ?##?...###
+    #.#....#.#
+    ?.#....#..
+    ..######..
+    ..##..##..
+pa-r7c3 10x10 BAD(3) looks 29 passes 8 open 18 search 39.4 first[r1,r2,r3,r4,r5,r6,r7,r9,r10,c1,c2,c3,c5,c6,c7,c8,c9,c10]
+  rows: 4a | 6a | 1a 2a 1a | 2a 2b 2a | 2a 2a | 3a 3a | 1a 1a 1a 1a | S:1a 1a | 6a | 2b 2b
+  cols: 2a | 2a | 8a 1b | S:2a 1a 1a 1b | 3a 1b 1a | 3a 1b 1a | 2a 1a 1a 1b | 8a 1b | 2a | 2a
+  no-stamp: needs stamp (8 unknown) looks 30
+  plain clues: looks 24 passes 5 open 20
+    ...####...
+    ..######..
+    ..#.##.#..
+    .?#?####..
+    .##....##.
+    ??#??..###
+    #.#....#.#
+    ?.#....#..
+    ..######..
+    ..##..##..
+pa-r7c4 10x10 BAD(7) looks 30 passes 10 open 18 search 59.9 first[r1,r2,r3,r4,r5,r6,r7,r9,r10,c1,c2,c3,c4,c6,c7,c8,c9,c10]
+  rows: 4a | 6a | 1a 2a 1a | 2a 2b 2a | 2a 2a | 3a 3a | 1a 1a 1a 1a | S:1a 1a | 6a | 2b 2b
+  cols: 2a | 2a | 8a 1b | 2a 1a 1a 1b | S:3a 1b 1a | 3a 1b 1a | 2a 1a 1a 1b | 8a 1b | 2a | 2a
+  no-stamp: needs stamp (8 unknown) looks 30
+  plain clues: looks 24 passes 5 open 20
+    ...####...
+    ..######..
+    ..#.##.#..
+    ..####?#?.
+    .##....##.
+    ###..??#??
+    #.#....#.#
+    ..#....#.?
+    ..######..
+    ..##..##..
+pa-r7c5 10x10 BAD(7) looks 30 passes 10 open 18 search 58.7 first[r1,r2,r3,r4,r5,r6,r7,r9,r10,c1,c2,c3,c4,c5,c7,c8,c9,c10]
+  rows: 4a | 6a | 1a 2a 1a | 2a 2b 2a | 2a 2a | 3a 3a | 1a 1a 1a 1a | S:1a 1a | 6a | 2b 2b
+  cols: 2a | 2a | 8a 1b | 2a 1a 1a 1b | 3a 1b 1a | S:3a 1b 1a | 2a 1a 1a 1b | 8a 1b | 2a | 2a
+  no-stamp: needs stamp (4 unknown) looks 29
+  plain clues: looks 24 passes 5 open 20
+    ...####...
+    ..######..
+    ..#.##.#..
+    ..######..
+    .##....##.
+    ###...?##?
+    #.#....#.#
+    ..#....#.?
+    ..######..
+    ..##..##..
+pa-r7c6 10x10 BAD(3) looks 29 passes 8 open 18 search 39.0 first[r1,r2,r3,r4,r5,r6,r7,r9,r10,c1,c2,c3,c4,c5,c6,c8,c9,c10]
+  rows: 4a | 6a | 1a 2a 1a | 2a 2b 2a | 2a 2a | 3a 3a | 1a 1a 1a 1a | S:1a 1a | 6a | 2b 2b
+  cols: 2a | 2a | 8a 1b | 2a 1a 1a 1b | 3a 1b 1a | 3a 1b 1a | S:2a 1a 1a 1b | 8a 1b | 2a | 2a
+  no-stamp: needs stamp (1 unknown) looks 32
+  plain clues: looks 24 passes 5 open 20
+pa-r7c7 10x10 OK looks 32 passes 9 open 18 search 50.8 first[r1,r2,r3,r4,r5,r6,r7,r9,r10,c1,c2,c3,c4,c5,c6,c7,c9,c10]
+  rows: 4a | 6a | 1a 2a 1a | 2a 2b 2a | 2a 2a | 3a 3a | 1a 1a 1a 1a | S:1a 1a | 6a | 2b 2b
+  cols: 2a | 2a | 8a 1b | 2a 1a 1a 1b | 3a 1b 1a | 3a 1b 1a | 2a 1a 1a 1b | S:8a 1b | 2a | 2a
+  no-stamp: needs stamp (8 unknown) looks 30
+  plain clues: looks 24 passes 5 open 20
+    ...####...
+    ..######..
+    ..#.##.#..
+    ..####?#?.
+    .##...?#?.
+    ###...?##?
+    #.#....#.#
+    ..#....#.?
+    ..######..
+    ..##..##..
+pa-r7c8 10x10 BAD(7) looks 30 passes 8 open 18 search 51.9 first[r1,r2,r3,r4,r5,r6,r7,r9,r10,c1,c2,c3,c4,c5,c6,c7,c8,c10]
+  rows: 4a | 6a | 1a 2a 1a | 2a 2b 2a | 2a 2a | 3a 3a | 1a 1a 1a 1a | S:1a 1a | 6a | 2b 2b
+  cols: 2a | 2a | 8a 1b | 2a 1a 1a 1b | 3a 1b 1a | 3a 1b 1a | 2a 1a 1a 1b | 8a 1b | S:2a | 2a
+  no-stamp: needs stamp (1 unknown) looks 26
+  plain clues: looks 24 passes 5 open 20
+pa-r7c9 10x10 OK looks 26 passes 8 open 18 search 32.7 first[r1,r2,r3,r4,r5,r6,r7,r9,r10,c1,c2,c3,c4,c5,c6,c7,c8,c9]
+  rows: 4a | 6a | 1a 2a 1a | 2a 2b 2a | 2a 2a | 3a 3a | 1a 1a 1a 1a | S:1a 1a | 6a | 2b 2b
+  cols: 2a | 2a | 8a 1b | 2a 1a 1a 1b | 3a 1b 1a | 3a 1b 1a | 2a 1a 1a 1b | 8a 1b | 2a | S:2a
+  no-stamp: needs stamp (13 unknown) looks 28
+  plain clues: looks 26 passes 5 open 20
+    ...####...
+    ..######..
+    ..#.##.#..
+    .?#?####..
+    .##....##.
+    ??#??..###
+    ?.#.??.#.#
+    ..#....#..
+    ..#???##..
+    ..##..##..
+pa-r8c0 10x10 BAD(12) looks 28 passes 6 open 18 search 56.8 first[r1,r2,r3,r4,r5,r6,r7,r8,r10,c2,c3,c4,c5,c6,c7,c8,c9,c10]
+  rows: 4a | 6a | 1a 2a 1a | 2a 2b 2a | 2a 2a | 3a 3a | 1a 1a 1a 1a | 1a 1a | S:6a | 2b 2b
+  cols: S:2a | 2a | 8a 1b | 2a 1a 1a 1b | 3a 1b 1a | 3a 1b 1a | 2a 1a 1a 1b | 8a 1b | 2a | 2a
+  no-stamp: needs stamp (5 unknown) looks 28
+  plain clues: looks 25 passes 5 open 20
+    ...####...
+    ..######..
+    ..#.##.#..
+    .?#?####..
+    .?#?...##.
+    ###....###
+    #.#....#.#
+    ..#....#..
+    ..######..
+    ..##..##..
+pa-r8c1 10x10 BAD(4) looks 28 passes 6 open 18 search 46.7 first[r1,r2,r3,r4,r5,r6,r7,r8,r10,c1,c3,c4,c5,c6,c7,c8,c9,c10]
+  rows: 4a | 6a | 1a 2a 1a | 2a 2b 2a | 2a 2a | 3a 3a | 1a 1a 1a 1a | 1a 1a | S:6a | 2b 2b
+  cols: 2a | S:2a | 8a 1b | 2a 1a 1a 1b | 3a 1b 1a | 3a 1b 1a | 2a 1a 1a 1b | 8a 1b | 2a | 2a
+  no-stamp: needs stamp (46 unknown) looks 32
+  plain clues: looks 22 passes 5 open 20
+    ...####...
+    ..######..
+    ???.##.#..
+    ????##?#?.
+    ??????.##.
+    ???????#??
+    ??????.#.?
+    ??????.#.?
+    ??#????#.?
+    ..##..##..
+pa-r8c2 10x10 BAD(45) looks 32 passes 8 open 18 search 87.8 first[r1,r2,r3,r4,r5,r6,r7,r8,r10,c1,c2,c4,c5,c6,c7,c8,c9,c10]
+  rows: 4a | 6a | 1a 2a 1a | 2a 2b 2a | 2a 2a | 3a 3a | 1a 1a 1a 1a | 1a 1a | S:6a | 2b 2b
+  cols: 2a | 2a | S:8a 1b | 2a 1a 1a 1b | 3a 1b 1a | 3a 1b 1a | 2a 1a 1a 1b | 8a 1b | 2a | 2a
+  no-stamp: needs stamp (4 unknown) looks 33
+  plain clues: looks 23 passes 5 open 20
+    ...?###?..
+    ..######..
+    ..#.##.#..
+    ..######..
+    .##....##.
+    ###....###
+    #.#....#.#
+    ..#....#..
+    ..#####?..
+    ..##..##..
+pa-r8c3 10x10 BAD(3) looks 33 passes 6 open 18 search 48.6 first[r1,r2,r3,r4,r5,r6,r7,r8,r10,c1,c2,c3,c5,c6,c7,c8,c9,c10]
+  rows: 4a | 6a | 1a 2a 1a | 2a 2b 2a | 2a 2a | 3a 3a | 1a 1a 1a 1a | 1a 1a | S:6a | 2b 2b
+  cols: 2a | 2a | 8a 1b | S:2a 1a 1a 1b | 3a 1b 1a | 3a 1b 1a | 2a 1a 1a 1b | 8a 1b | 2a | 2a
+  no-stamp: needs stamp (1 unknown) looks 34
+  plain clues: looks 23 passes 5 open 20
+pa-r8c4 10x10 OK looks 34 passes 7 open 18 search 47.5 first[r1,r2,r3,r4,r5,r6,r7,r8,r10,c1,c2,c3,c4,c6,c7,c8,c9,c10]
+  rows: 4a | 6a | 1a 2a 1a | 2a 2b 2a | 2a 2a | 3a 3a | 1a 1a 1a 1a | 1a 1a | S:6a | 2b 2b
+  cols: 2a | 2a | 8a 1b | 2a 1a 1a 1b | S:3a 1b 1a | 3a 1b 1a | 2a 1a 1a 1b | 8a 1b | 2a | 2a
+  no-stamp: needs stamp (1 unknown) looks 34
+  plain clues: looks 23 passes 5 open 20
+pa-r8c5 10x10 OK looks 34 passes 7 open 18 search 48.2 first[r1,r2,r3,r4,r5,r6,r7,r8,r10,c1,c2,c3,c4,c5,c7,c8,c9,c10]
+  rows: 4a | 6a | 1a 2a 1a | 2a 2b 2a | 2a 2a | 3a 3a | 1a 1a 1a 1a | 1a 1a | S:6a | 2b 2b
+  cols: 2a | 2a | 8a 1b | 2a 1a 1a 1b | 3a 1b 1a | S:3a 1b 1a | 2a 1a 1a 1b | 8a 1b | 2a | 2a
+  no-stamp: needs stamp (4 unknown) looks 31
+  plain clues: looks 26 passes 5 open 20
+    ..?###?...
+    ..######..
+    ..#.##.#..
+    ..######..
+    .##....##.
+    ###....###
+    #.#....#.#
+    ..#....#..
+    ..?#####..
+    ..##..##..
+pa-r8c6 10x10 BAD(3) looks 31 passes 6 open 18 search 45.3 first[r1,r2,r3,r4,r5,r6,r7,r8,r10,c1,c2,c3,c4,c5,c6,c8,c9,c10]
+  rows: 4a | 6a | 1a 2a 1a | 2a 2b 2a | 2a 2a | 3a 3a | 1a 1a 1a 1a | 1a 1a | S:6a | 2b 2b
+  cols: 2a | 2a | 8a 1b | 2a 1a 1a 1b | 3a 1b 1a | 3a 1b 1a | S:2a 1a 1a 1b | 8a 1b | 2a | 2a
+  no-stamp: needs stamp (46 unknown) looks 32
+  plain clues: looks 23 passes 5 open 20
+    ...####...
+    ..######..
+    ..#.##.???
+    .?#?##????
+    .##.??????
+    ??#???????
+    ?.#.??????
+    ?.#.??????
+    ?.#????#??
+    ..##..##..
+pa-r8c7 10x10 BAD(45) looks 32 passes 8 open 18 search 82.9 first[r1,r2,r3,r4,r5,r6,r7,r8,r10,c1,c2,c3,c4,c5,c6,c7,c9,c10]
+  rows: 4a | 6a | 1a 2a 1a | 2a 2b 2a | 2a 2a | 3a 3a | 1a 1a 1a 1a | 1a 1a | S:6a | 2b 2b
+  cols: 2a | 2a | 8a 1b | 2a 1a 1a 1b | 3a 1b 1a | 3a 1b 1a | 2a 1a 1a 1b | S:8a 1b | 2a | 2a
+  no-stamp: needs stamp (5 unknown) looks 31
+  plain clues: looks 21 passes 5 open 20
+    ...####...
+    ..######..
+    ..#.##.#..
+    ..####?#?.
+    .##...?#?.
+    ###....###
+    #.#....#.#
+    ..#....#..
+    ..######..
+    ..##..##..
+pa-r8c8 10x10 BAD(4) looks 31 passes 6 open 18 search 50.1 first[r1,r2,r3,r4,r5,r6,r7,r8,r10,c1,c2,c3,c4,c5,c6,c7,c8,c10]
+  rows: 4a | 6a | 1a 2a 1a | 2a 2b 2a | 2a 2a | 3a 3a | 1a 1a 1a 1a | 1a 1a | S:6a | 2b 2b
+  cols: 2a | 2a | 8a 1b | 2a 1a 1a 1b | 3a 1b 1a | 3a 1b 1a | 2a 1a 1a 1b | 8a 1b | S:2a | 2a
+  no-stamp: needs stamp (13 unknown) looks 29
+  plain clues: looks 23 passes 5 open 20
+    ...####...
+    ..######..
+    ..#.##.#..
+    ..####?#?.
+    .##....##.
+    ###..??#??
+    #.#.??.#.?
+    ..#....#..
+    ..##???#..
+    ..##..##..
+pa-r8c9 10x10 BAD(12) looks 29 passes 6 open 18 search 59.6 first[r1,r2,r3,r4,r5,r6,r7,r8,r10,c1,c2,c3,c4,c5,c6,c7,c8,c9]
+  rows: 4a | 6a | 1a 2a 1a | 2a 2b 2a | 2a 2a | 3a 3a | 1a 1a 1a 1a | 1a 1a | S:6a | 2b 2b
+  cols: 2a | 2a | 8a 1b | 2a 1a 1a 1b | 3a 1b 1a | 3a 1b 1a | 2a 1a 1a 1b | 8a 1b | 2a | S:2a
+  no-stamp: needs stamp (1 unknown) looks 26
+  plain clues: looks 26 passes 5 open 20
+pa-r9c0 10x10 OK looks 26 passes 7 open 18 search 31.9 first[r1,r2,r3,r4,r5,r6,r7,r8,r9,c2,c3,c4,c5,c6,c7,c8,c9,c10]
+  rows: 4a | 6a | 1a 2a 1a | 2a 2b 2a | 2a 2a | 3a 3a | 1a 1a 1a 1a | 1a 1a | 6a | S:2b 2b
+  cols: S:2a | 2a | 8a 1b | 2a 1a 1a 1b | 3a 1b 1a | 3a 1b 1a | 2a 1a 1a 1b | 8a 1b | 2a | 2a
+  no-stamp: needs stamp (5 unknown) looks 28
+  plain clues: looks 27 passes 5 open 20
+    ...####...
+    ..######..
+    ..#.##.#..
+    .?#?####..
+    .?#?...##.
+    ###....###
+    #.#....#.#
+    ..#....#..
+    ..######..
+    ..##..##..
+pa-r9c1 10x10 BAD(4) looks 28 passes 7 open 18 search 40.6 first[r1,r2,r3,r4,r5,r6,r7,r8,r9,c1,c3,c4,c5,c6,c7,c8,c9,c10]
+  rows: 4a | 6a | 1a 2a 1a | 2a 2b 2a | 2a 2a | 3a 3a | 1a 1a 1a 1a | 1a 1a | 6a | S:2b 2b
+  cols: 2a | S:2a | 8a 1b | 2a 1a 1a 1b | 3a 1b 1a | 3a 1b 1a | 2a 1a 1a 1b | 8a 1b | 2a | 2a
+  no-stamp: needs stamp (1 unknown) looks 26
+  plain clues: looks 24 passes 5 open 20
+pa-r9c2 10x10 OK looks 26 passes 9 open 18 search 33.7 first[r1,r2,r3,r4,r5,r6,r7,r8,r9,c1,c2,c4,c5,c6,c7,c8,c9,c10]
+  rows: 4a | 6a | 1a 2a 1a | 2a 2b 2a | 2a 2a | 3a 3a | 1a 1a 1a 1a | 1a 1a | 6a | S:2b 2b
+  cols: 2a | 2a | S:8a 1b | 2a 1a 1a 1b | 3a 1b 1a | 3a 1b 1a | 2a 1a 1a 1b | 8a 1b | 2a | 2a
+  no-stamp: needs stamp (1 unknown) looks 26
+  plain clues: looks 26 passes 5 open 20
+pa-r9c3 10x10 OK looks 26 passes 7 open 18 search 32.2 first[r1,r2,r3,r4,r5,r6,r7,r8,r9,c1,c2,c3,c5,c6,c7,c8,c9,c10]
+  rows: 4a | 6a | 1a 2a 1a | 2a 2b 2a | 2a 2a | 3a 3a | 1a 1a 1a 1a | 1a 1a | 6a | S:2b 2b
+  cols: 2a | 2a | 8a 1b | S:2a 1a 1a 1b | 3a 1b 1a | 3a 1b 1a | 2a 1a 1a 1b | 8a 1b | 2a | 2a
+  no-stamp: needs stamp (1 unknown) looks 30
+  plain clues: looks 28 passes 5 open 20
+pa-r9c4 10x10 OK looks 30 passes 10 open 18 search 40.4 first[r1,r2,r3,r4,r5,r6,r7,r8,r9,c1,c2,c3,c4,c6,c7,c8,c9,c10]
+  rows: 4a | 6a | 1a 2a 1a | 2a 2b 2a | 2a 2a | 3a 3a | 1a 1a 1a 1a | 1a 1a | 6a | S:2b 2b
+  cols: 2a | 2a | 8a 1b | 2a 1a 1a 1b | S:3a 1b 1a | 3a 1b 1a | 2a 1a 1a 1b | 8a 1b | 2a | 2a
+  no-stamp: needs stamp (1 unknown) looks 30
+  plain clues: looks 28 passes 5 open 20
+pa-r9c5 10x10 OK looks 30 passes 10 open 18 search 40.4 first[r1,r2,r3,r4,r5,r6,r7,r8,r9,c1,c2,c3,c4,c5,c7,c8,c9,c10]
+  rows: 4a | 6a | 1a 2a 1a | 2a 2b 2a | 2a 2a | 3a 3a | 1a 1a 1a 1a | 1a 1a | 6a | S:2b 2b
+  cols: 2a | 2a | 8a 1b | 2a 1a 1a 1b | 3a 1b 1a | S:3a 1b 1a | 2a 1a 1a 1b | 8a 1b | 2a | 2a
+  no-stamp: needs stamp (1 unknown) looks 26
+  plain clues: looks 25 passes 5 open 20
+pa-r9c6 10x10 OK looks 26 passes 7 open 18 search 32.0 first[r1,r2,r3,r4,r5,r6,r7,r8,r9,c1,c2,c3,c4,c5,c6,c8,c9,c10]
+  rows: 4a | 6a | 1a 2a 1a | 2a 2b 2a | 2a 2a | 3a 3a | 1a 1a 1a 1a | 1a 1a | 6a | S:2b 2b
+  cols: 2a | 2a | 8a 1b | 2a 1a 1a 1b | 3a 1b 1a | 3a 1b 1a | S:2a 1a 1a 1b | 8a 1b | 2a | 2a
+  no-stamp: needs stamp (1 unknown) looks 34
+  plain clues: looks 24 passes 5 open 20
+pa-r9c7 10x10 OK looks 34 passes 9 open 18 search 63.8 first[r1,r2,r3,r4,r5,r6,r7,r8,r9,c1,c2,c3,c4,c5,c6,c7,c9,c10]
+  rows: 4a | 6a | 1a 2a 1a | 2a 2b 2a | 2a 2a | 3a 3a | 1a 1a 1a 1a | 1a 1a | 6a | S:2b 2b
+  cols: 2a | 2a | 8a 1b | 2a 1a 1a 1b | 3a 1b 1a | 3a 1b 1a | 2a 1a 1a 1b | S:8a 1b | 2a | 2a
+  no-stamp: needs stamp (5 unknown) looks 27
+  plain clues: looks 24 passes 5 open 20
+    ...####...
+    ..######..
+    ..#.##.#..
+    ..####?#?.
+    .##...?#?.
+    ###....###
+    #.#....#.#
+    ..#....#..
+    ..######..
+    ..##..##..
+pa-r9c8 10x10 BAD(4) looks 27 passes 7 open 18 search 39.3 first[r1,r2,r3,r4,r5,r6,r7,r8,r9,c1,c2,c3,c4,c5,c6,c7,c8,c10]
+  rows: 4a | 6a | 1a 2a 1a | 2a 2b 2a | 2a 2a | 3a 3a | 1a 1a 1a 1a | 1a 1a | 6a | S:2b 2b
+  cols: 2a | 2a | 8a 1b | 2a 1a 1a 1b | 3a 1b 1a | 3a 1b 1a | 2a 1a 1a 1b | 8a 1b | S:2a | 2a
+  no-stamp: needs stamp (1 unknown) looks 26
+  plain clues: looks 26 passes 5 open 20
+pa-r9c9 10x10 OK looks 26 passes 7 open 18 search 31.9 first[r1,r2,r3,r4,r5,r6,r7,r8,r9,c1,c2,c3,c4,c5,c6,c7,c8,c9]
+  rows: 4a | 6a | 1a 2a 1a | 2a 2b 2a | 2a 2a | 3a 3a | 1a 1a 1a 1a | 1a 1a | 6a | S:2b 2b
+  cols: 2a | 2a | 8a 1b | 2a 1a 1a 1b | 3a 1b 1a | 3a 1b 1a | 2a 1a 1a 1b | 8a 1b | 2a | S:2a
+  no-stamp: needs stamp (5 unknown) looks 39
+  plain clues: looks 32 passes 7 open 21
+    ...####...
+    ..######..
+    .##.##.##.
+    ?##?#####.
+    .##....##.
+    ?##?...###
+    ##......##
+    .#......#.
+    .##....##.
+    ..######..
+    .###..###.
+pb-r0c0 10x11 BAD(4) looks 39 passes 10 open 19 search 74.9 first[r2,r3,r4,r5,r6,r7,r8,r9,r10,r11,c2,c3,c4,c5,c6,c7,c8,c9,c10]
+  rows: S:4a | 6a | 2a 2a 2a | 3a 2b 3a | 2a 2a | 3a 3a | 2a 2a | 1a 1a | 2a 2a | 6a | 3b 3b
+  cols: S:2a | 7a 1b | 5a 2a 1b | 2a 1a 1a 1b | 3a 1b 1a | 3a 1b 1a | 2a 1a 1a 1b | 5a 2a 1b | 7a 1b | 2a
+  no-stamp: needs stamp (1 unknown) looks 44
+  plain clues: looks 32 passes 7 open 21
+pb-r0c1 10x11 OK looks 44 passes 13 open 19 search 74.8 first[r2,r3,r4,r5,r6,r7,r8,r9,r10,r11,c1,c3,c4,c5,c6,c7,c8,c9,c10]
+  rows: S:4a | 6a | 2a 2a 2a | 3a 2b 3a | 2a 2a | 3a 3a | 2a 2a | 1a 1a | 2a 2a | 6a | 3b 3b
+  cols: 2a | S:7a 1b | 5a 2a 1b | 2a 1a 1a 1b | 3a 1b 1a | 3a 1b 1a | 2a 1a 1a 1b | 5a 2a 1b | 7a 1b | 2a
+  no-stamp: needs stamp (11 unknown) looks 44
+  plain clues: looks 36 passes 7 open 21
+    ...####...
+    ..######..
+    ?#?.##.##.
+    ?##?#####.
+    ?#?....##.
+    ?##?...###
+    ?#?.....##
+    .#......#.
+    .##....##.
+    ..######..
+    .###..###.
+pb-r0c2 10x11 BAD(10) looks 44 passes 11 open 19 search 105.9 first[r2,r3,r4,r5,r6,r7,r8,r9,r10,r11,c1,c2,c4,c5,c6,c7,c8,c9,c10]
+  rows: S:4a | 6a | 2a 2a 2a | 3a 2b 3a | 2a 2a | 3a 3a | 2a 2a | 1a 1a | 2a 2a | 6a | 3b 3b
+  cols: 2a | 7a 1b | S:5a 2a 1b | 2a 1a 1a 1b | 3a 1b 1a | 3a 1b 1a | 2a 1a 1a 1b | 5a 2a 1b | 7a 1b | 2a
+  no-stamp: needs stamp (1 unknown) looks 42
+  plain clues: looks 32 passes 7 open 21
+pb-r0c3 10x11 OK looks 42 passes 14 open 19 search 76.3 first[r2,r3,r4,r5,r6,r7,r8,r9,r10,r11,c1,c2,c3,c5,c6,c7,c8,c9,c10]
+  rows: S:4a | 6a | 2a 2a 2a | 3a 2b 3a | 2a 2a | 3a 3a | 2a 2a | 1a 1a | 2a 2a | 6a | 3b 3b
+  cols: 2a | 7a 1b | 5a 2a 1b | S:2a 1a 1a 1b | 3a 1b 1a | 3a 1b 1a | 2a 1a 1a 1b | 5a 2a 1b | 7a 1b | 2a
+  no-stamp: needs stamp (1 unknown) looks 33
+  plain clues: looks 32 passes 7 open 21
+pb-r0c4 10x11 OK looks 33 passes 8 open 19 search 49.8 first[r2,r3,r4,r5,r6,r7,r8,r9,r10,r11,c1,c2,c3,c4,c6,c7,c8,c9,c10]
+  rows: S:4a | 6a | 2a 2a 2a | 3a 2b 3a | 2a 2a | 3a 3a | 2a 2a | 1a 1a | 2a 2a | 6a | 3b 3b
+  cols: 2a | 7a 1b | 5a 2a 1b | 2a 1a 1a 1b | S:3a 1b 1a | 3a 1b 1a | 2a 1a 1a 1b | 5a 2a 1b | 7a 1b | 2a
+  no-stamp: needs stamp (1 unknown) looks 33
+  plain clues: looks 32 passes 7 open 21
+pb-r0c5 10x11 OK looks 33 passes 8 open 19 search 49.8 first[r2,r3,r4,r5,r6,r7,r8,r9,r10,r11,c1,c2,c3,c4,c5,c7,c8,c9,c10]
+  rows: S:4a | 6a | 2a 2a 2a | 3a 2b 3a | 2a 2a | 3a 3a | 2a 2a | 1a 1a | 2a 2a | 6a | 3b 3b
+  cols: 2a | 7a 1b | 5a 2a 1b | 2a 1a 1a 1b | 3a 1b 1a | S:3a 1b 1a | 2a 1a 1a 1b | 5a 2a 1b | 7a 1b | 2a
+  no-stamp: needs stamp (1 unknown) looks 41
+  plain clues: looks 32 passes 7 open 21
+pb-r0c6 10x11 OK looks 41 passes 14 open 19 search 67.9 first[r2,r3,r4,r5,r6,r7,r8,r9,r10,r11,c1,c2,c3,c4,c5,c6,c8,c9,c10]
+  rows: S:4a | 6a | 2a 2a 2a | 3a 2b 3a | 2a 2a | 3a 3a | 2a 2a | 1a 1a | 2a 2a | 6a | 3b 3b
+  cols: 2a | 7a 1b | 5a 2a 1b | 2a 1a 1a 1b | 3a 1b 1a | 3a 1b 1a | S:2a 1a 1a 1b | 5a 2a 1b | 7a 1b | 2a
+  no-stamp: needs stamp (11 unknown) looks 43
+  plain clues: looks 34 passes 7 open 21
+    ...####...
+    ..######..
+    .##.##.?#?
+    .#####?##?
+    .##....?#?
+    ###...?##?
+    ##.....?#?
+    .#......#.
+    .##....##.
+    ..######..
+    .###..###.
+pb-r0c7 10x11 BAD(10) looks 43 passes 11 open 19 search 102.3 first[r2,r3,r4,r5,r6,r7,r8,r9,r10,r11,c1,c2,c3,c4,c5,c6,c7,c9,c10]
+  rows: S:4a | 6a | 2a 2a 2a | 3a 2b 3a | 2a 2a | 3a 3a | 2a 2a | 1a 1a | 2a 2a | 6a | 3b 3b
+  cols: 2a | 7a 1b | 5a 2a 1b | 2a 1a 1a 1b | 3a 1b 1a | 3a 1b 1a | 2a 1a 1a 1b | S:5a 2a 1b | 7a 1b | 2a
+  no-stamp: needs stamp (1 unknown) looks 48
+  plain clues: looks 34 passes 7 open 21
+pb-r0c8 10x11 OK looks 48 passes 13 open 19 search 82.0 first[r2,r3,r4,r5,r6,r7,r8,r9,r10,r11,c1,c2,c3,c4,c5,c6,c7,c8,c10]
+  rows: S:4a | 6a | 2a 2a 2a | 3a 2b 3a | 2a 2a | 3a 3a | 2a 2a | 1a 1a | 2a 2a | 6a | 3b 3b
+  cols: 2a | 7a 1b | 5a 2a 1b | 2a 1a 1a 1b | 3a 1b 1a | 3a 1b 1a | 2a 1a 1a 1b | 5a 2a 1b | S:7a 1b | 2a
+  no-stamp: needs stamp (5 unknown) looks 39
+  plain clues: looks 32 passes 7 open 21
+    ...####...
+    ..######..
+    .##.##.##.
+    .#####?##?
+    .##....##.
+    ###...?##?
+    ##......##
+    .#......#.
+    .##....##.
+    ..######..
+    .###..###.
+pb-r0c9 10x11 BAD(4) looks 39 passes 10 open 19 search 74.9 first[r2,r3,r4,r5,r6,r7,r8,r9,r10,r11,c1,c2,c3,c4,c5,c6,c7,c8,c9]
+  rows: S:4a | 6a | 2a 2a 2a | 3a 2b 3a | 2a 2a | 3a 3a | 2a 2a | 1a 1a | 2a 2a | 6a | 3b 3b
+  cols: 2a | 7a 1b | 5a 2a 1b | 2a 1a 1a 1b | 3a 1b 1a | 3a 1b 1a | 2a 1a 1a 1b | 5a 2a 1b | 7a 1b | S:2a
+  no-stamp: needs stamp (8 unknown) looks 31
+  plain clues: looks 32 passes 7 open 21
+    ...####...
+    ..?#####..
+    .##.##.##.
+    ?##?#####.
+    .##....##.
+    ?##?...###
+    ?#?.....##
+    .#......#.
+    .##....##.
+    ..######..
+    .###..###.
+pb-r1c0 10x11 BAD(7) looks 31 passes 7 open 19 search 53.2 first[r1,r3,r4,r5,r6,r7,r8,r9,r10,r11,c2,c3,c4,c5,c6,c7,c8,c9,c10]
+  rows: 4a | S:6a | 2a 2a 2a | 3a 2b 3a | 2a 2a | 3a 3a | 2a 2a | 1a 1a | 2a 2a | 6a | 3b 3b
+  cols: S:2a | 7a 1b | 5a 2a 1b | 2a 1a 1a 1b | 3a 1b 1a | 3a 1b 1a | 2a 1a 1a 1b | 5a 2a 1b | 7a 1b | 2a
+  no-stamp: needs stamp (1 unknown) looks 45
+  plain clues: looks 32 passes 7 open 21
+pb-r1c1 10x11 OK looks 45 passes 10 open 19 search 68.7 first[r1,r3,r4,r5,r6,r7,r8,r9,r10,r11,c1,c3,c4,c5,c6,c7,c8,c9,c10]
+  rows: 4a | S:6a | 2a 2a 2a | 3a 2b 3a | 2a 2a | 3a 3a | 2a 2a | 1a 1a | 2a 2a | 6a | 3b 3b
+  cols: 2a | S:7a 1b | 5a 2a 1b | 2a 1a 1a 1b | 3a 1b 1a | 3a 1b 1a | 2a 1a 1a 1b | 5a 2a 1b | 7a 1b | 2a
+  no-stamp: needs stamp (12 unknown) looks 37
+  plain clues: looks 31 passes 7 open 21
+    ...####...
+    ?.######..
+    ?#?.##.##.
+    ?##?#####.
+    ?#?....##.
+    ?##?...###
+    ?#?.....##
+    .#......#.
+    .##....##.
+    ..######..
+    .###..###.
+pb-r1c2 10x11 BAD(11) looks 37 passes 8 open 19 search 82.4 first[r1,r3,r4,r5,r6,r7,r8,r9,r10,r11,c1,c2,c4,c5,c6,c7,c8,c9,c10]
+  rows: 4a | S:6a | 2a 2a 2a | 3a 2b 3a | 2a 2a | 3a 3a | 2a 2a | 1a 1a | 2a 2a | 6a | 3b 3b
+  cols: 2a | 7a 1b | S:5a 2a 1b | 2a 1a 1a 1b | 3a 1b 1a | 3a 1b 1a | 2a 1a 1a 1b | 5a 2a 1b | 7a 1b | 2a
+  no-stamp: needs stamp (4 unknown) looks 32
+  plain clues: looks 32 passes 7 open 21
+    ...####...
+    .?######..
+    .##.##.##.
+    .########.
+    .##....##.
+    ###....###
+    ##......##
+    .#......#.
+    .?#?...##.
+    ..######..
+    .###..###.
+pb-r1c3 10x11 BAD(3) looks 32 passes 7 open 19 search 46.9 first[r1,r3,r4,r5,r6,r7,r8,r9,r10,r11,c1,c2,c3,c5,c6,c7,c8,c9,c10]
+  rows: 4a | S:6a | 2a 2a 2a | 3a 2b 3a | 2a 2a | 3a 3a | 2a 2a | 1a 1a | 2a 2a | 6a | 3b 3b
+  cols: 2a | 7a 1b | 5a 2a 1b | S:2a 1a 1a 1b | 3a 1b 1a | 3a 1b 1a | 2a 1a 1a 1b | 5a 2a 1b | 7a 1b | 2a
+  no-stamp: needs stamp (1 unknown) looks 31
+  plain clues: looks 31 passes 7 open 21
+pb-r1c4 10x11 OK looks 31 passes 7 open 19 search 41.1 first[r1,r3,r4,r5,r6,r7,r8,r9,r10,r11,c1,c2,c3,c4,c6,c7,c8,c9,c10]
+  rows: 4a | S:6a | 2a 2a 2a | 3a 2b 3a | 2a 2a | 3a 3a | 2a 2a | 1a 1a | 2a 2a | 6a | 3b 3b
+  cols: 2a | 7a 1b | 5a 2a 1b | 2a 1a 1a 1b | S:3a 1b 1a | 3a 1b 1a | 2a 1a 1a 1b | 5a 2a 1b | 7a 1b | 2a
+  no-stamp: needs stamp (1 unknown) looks 32
+  plain clues: looks 32 passes 7 open 21
+pb-r1c5 10x11 OK looks 32 passes 7 open 19 search 40.9 first[r1,r3,r4,r5,r6,r7,r8,r9,r10,r11,c1,c2,c3,c4,c5,c7,c8,c9,c10]
+  rows: 4a | S:6a | 2a 2a 2a | 3a 2b 3a | 2a 2a | 3a 3a | 2a 2a | 1a 1a | 2a 2a | 6a | 3b 3b
+  cols: 2a | 7a 1b | 5a 2a 1b | 2a 1a 1a 1b | 3a 1b 1a | S:3a 1b 1a | 2a 1a 1a 1b | 5a 2a 1b | 7a 1b | 2a
+  no-stamp: needs stamp (4 unknown) looks 33
+  plain clues: looks 32 passes 7 open 21
+    ...####...
+    ..######?.
+    .##.##.##.
+    .########.
+    .##....##.
+    ###....###
+    ##......##
+    .#......#.
+    .##...?#?.
+    ..######..
+    .###..###.
+pb-r1c6 10x11 BAD(3) looks 33 passes 7 open 19 search 53.0 first[r1,r3,r4,r5,r6,r7,r8,r9,r10,r11,c1,c2,c3,c4,c5,c6,c8,c9,c10]
+  rows: 4a | S:6a | 2a 2a 2a | 3a 2b 3a | 2a 2a | 3a 3a | 2a 2a | 1a 1a | 2a 2a | 6a | 3b 3b
+  cols: 2a | 7a 1b | 5a 2a 1b | 2a 1a 1a 1b | 3a 1b 1a | 3a 1b 1a | S:2a 1a 1a 1b | 5a 2a 1b | 7a 1b | 2a
+  no-stamp: needs stamp (12 unknown) looks 37
+  plain clues: looks 32 passes 7 open 21
+    ...####...
+    ..######.?
+    .##.##.?#?
+    .#####?##?
+    .##....?#?
+    ###...?##?
+    ##.....?#?
+    .#......#.
+    .##....##.
+    ..######..
+    .###..###.
+pb-r1c7 10x11 BAD(11) looks 37 passes 8 open 19 search 81.7 first[r1,r3,r4,r5,r6,r7,r8,r9,r10,r11,c1,c2,c3,c4,c5,c6,c7,c9,c10]
+  rows: 4a | S:6a | 2a 2a 2a | 3a 2b 3a | 2a 2a | 3a 3a | 2a 2a | 1a 1a | 2a 2a | 6a | 3b 3b
+  cols: 2a | 7a 1b | 5a 2a 1b | 2a 1a 1a 1b | 3a 1b 1a | 3a 1b 1a | 2a 1a 1a 1b | S:5a 2a 1b | 7a 1b | 2a
+  no-stamp: needs stamp (1 unknown) looks 38
+  plain clues: looks 31 passes 7 open 21
+pb-r1c8 10x11 OK looks 38 passes 10 open 19 search 59.5 first[r1,r3,r4,r5,r6,r7,r8,r9,r10,r11,c1,c2,c3,c4,c5,c6,c7,c8,c10]
+  rows: 4a | S:6a | 2a 2a 2a | 3a 2b 3a | 2a 2a | 3a 3a | 2a 2a | 1a 1a | 2a 2a | 6a | 3b 3b
+  cols: 2a | 7a 1b | 5a 2a 1b | 2a 1a 1a 1b | 3a 1b 1a | 3a 1b 1a | 2a 1a 1a 1b | 5a 2a 1b | S:7a 1b | 2a
+  no-stamp: needs stamp (8 unknown) looks 31
+  plain clues: looks 32 passes 7 open 21
+    ...####...
+    ..#####?..
+    .##.##.##.
+    .#####?##?
+    .##....##.
+    ###...?##?
+    ##.....?#?
+    .#......#.
+    .##....##.
+    ..######..
+    .###..###.
+pb-r1c9 10x11 BAD(7) looks 31 passes 7 open 19 search 55.2 first[r1,r3,r4,r5,r6,r7,r8,r9,r10,r11,c1,c2,c3,c4,c5,c6,c7,c8,c9]
+  rows: 4a | S:6a | 2a 2a 2a | 3a 2b 3a | 2a 2a | 3a 3a | 2a 2a | 1a 1a | 2a 2a | 6a | 3b 3b
+  cols: 2a | 7a 1b | 5a 2a 1b | 2a 1a 1a 1b | 3a 1b 1a | 3a 1b 1a | 2a 1a 1a 1b | 5a 2a 1b | 7a 1b | S:2a
+  no-stamp: needs stamp (5 unknown) looks 41
+  plain clues: looks 32 passes 7 open 21
+    ...####...
+    ..######..
+    .##.##.##.
+    ?##?#####.
+    .##....##.
+    ?##?...###
+    ##......##
+    .#......#.
+    .##....##.
+    ..######..
+    .###..###.
+pb-r2c0 10x11 BAD(4) looks 41 passes 14 open 19 search 109.2 first[r1,r2,r4,r5,r6,r7,r8,r9,r10,r11,c2,c3,c4,c5,c6,c7,c8,c9,c10]
+  rows: 4a | 6a | S:2a 2a 2a | 3a 2b 3a | 2a 2a | 3a 3a | 2a 2a | 1a 1a | 2a 2a | 6a | 3b 3b
+  cols: S:2a | 7a 1b | 5a 2a 1b | 2a 1a 1a 1b | 3a 1b 1a | 3a 1b 1a | 2a 1a 1a 1b | 5a 2a 1b | 7a 1b | 2a
+  no-stamp: needs stamp (16 unknown) looks 46
+  plain clues: looks 35 passes 7 open 21
+    ...####...
+    .?#####?..
+    .##.##.#??
+    .#####?##?
+    .##....##.
+    ###...?##?
+    ##.....?#?
+    .??...?.#.
+    .##....##.
+    ..?#####?.
+    .###..###.
+pb-r2c1 10x11 BAD(15) looks 46 passes 18 open 19 search 189.6 first[r1,r2,r4,r5,r6,r7,r8,r9,r10,r11,c1,c3,c4,c5,c6,c7,c8,c9,c10]
+  rows: 4a | 6a | S:2a 2a 2a | 3a 2b 3a | 2a 2a | 3a 3a | 2a 2a | 1a 1a | 2a 2a | 6a | 3b 3b
+  cols: 2a | S:7a 1b | 5a 2a 1b | 2a 1a 1a 1b | 3a 1b 1a | 3a 1b 1a | 2a 1a 1a 1b | 5a 2a 1b | 7a 1b | 2a
+  no-stamp: needs stamp (13 unknown) looks 46
+  plain clues: looks 32 passes 7 open 21
+    ...####...
+    ..######..
+    ?##.##.#?.
+    ?##?#####.
+    ?#?....##.
+    ?##?...###
+    ?#?.....##
+    .#......#.
+    .##....##.
+    ..?#####?.
+    .###..###.
+pb-r2c2 10x11 BAD(12) looks 46 passes 16 open 19 search 143.3 first[r1,r2,r4,r5,r6,r7,r8,r9,r10,r11,c1,c2,c4,c5,c6,c7,c8,c9,c10]
+  rows: 4a | 6a | S:2a 2a 2a | 3a 2b 3a | 2a 2a | 3a 3a | 2a 2a | 1a 1a | 2a 2a | 6a | 3b 3b
+  cols: 2a | 7a 1b | S:5a 2a 1b | 2a 1a 1a 1b | 3a 1b 1a | 3a 1b 1a | 2a 1a 1a 1b | 5a 2a 1b | 7a 1b | 2a
+  no-stamp: needs stamp (12 unknown) looks 39
+  plain clues: looks 32 passes 7 open 21
+    ...####...
+    .?#####?..
+    .##.##.##?
+    .#####?##?
+    .##....##.
+    ###...?##?
+    ##.....?#?
+    .#......#.
+    .?#?...##.
+    ..######..
+    .###..###.
+pb-r2c3 10x11 BAD(11) looks 39 passes 14 open 19 search 98.5 first[r1,r2,r4,r5,r6,r7,r8,r9,r10,r11,c1,c2,c3,c5,c6,c7,c8,c9,c10]
+  rows: 4a | 6a | S:2a 2a 2a | 3a 2b 3a | 2a 2a | 3a 3a | 2a 2a | 1a 1a | 2a 2a | 6a | 3b 3b
+  cols: 2a | 7a 1b | 5a 2a 1b | S:2a 1a 1a 1b | 3a 1b 1a | 3a 1b 1a | 2a 1a 1a 1b | 5a 2a 1b | 7a 1b | 2a
+  no-stamp: needs stamp (1 unknown) looks 46
+  plain clues: looks 35 passes 7 open 21
+pb-r2c4 10x11 OK looks 46 passes 14 open 19 search 137.1 first[r1,r2,r4,r5,r6,r7,r8,r9,r10,r11,c1,c2,c3,c4,c6,c7,c8,c9,c10]
+  rows: 4a | 6a | S:2a 2a 2a | 3a 2b 3a | 2a 2a | 3a 3a | 2a 2a | 1a 1a | 2a 2a | 6a | 3b 3b
+  cols: 2a | 7a 1b | 5a 2a 1b | 2a 1a 1a 1b | S:3a 1b 1a | 3a 1b 1a | 2a 1a 1a 1b | 5a 2a 1b | 7a 1b | 2a
+  no-stamp: needs stamp (1 unknown) looks 46
+  plain clues: looks 32 passes 7 open 21
+pb-r2c5 10x11 OK looks 46 passes 14 open 19 search 116.7 first[r1,r2,r4,r5,r6,r7,r8,r9,r10,r11,c1,c2,c3,c4,c5,c7,c8,c9,c10]
+  rows: 4a | 6a | S:2a 2a 2a | 3a 2b 3a | 2a 2a | 3a 3a | 2a 2a | 1a 1a | 2a 2a | 6a | 3b 3b
+  cols: 2a | 7a 1b | 5a 2a 1b | 2a 1a 1a 1b | 3a 1b 1a | S:3a 1b 1a | 2a 1a 1a 1b | 5a 2a 1b | 7a 1b | 2a
+  no-stamp: needs stamp (12 unknown) looks 38
+  plain clues: looks 35 passes 7 open 21
+    ...####...
+    ..?#####?.
+    ?##.##.##.
+    ?##?#####.
+    .##....##.
+    ?##?...###
+    ?#?.....##
+    .#......#.
+    .##...?#?.
+    ..######..
+    .###..###.
+pb-r2c6 10x11 BAD(11) looks 38 passes 14 open 19 search 117.0 first[r1,r2,r4,r5,r6,r7,r8,r9,r10,r11,c1,c2,c3,c4,c5,c6,c8,c9,c10]
+  rows: 4a | 6a | S:2a 2a 2a | 3a 2b 3a | 2a 2a | 3a 3a | 2a 2a | 1a 1a | 2a 2a | 6a | 3b 3b
+  cols: 2a | 7a 1b | 5a 2a 1b | 2a 1a 1a 1b | 3a 1b 1a | 3a 1b 1a | S:2a 1a 1a 1b | 5a 2a 1b | 7a 1b | 2a
+  no-stamp: needs stamp (13 unknown) looks 48
+  plain clues: looks 32 passes 7 open 21
+    ...####...
+    ..######..
+    .?#.##.##?
+    .#####?##?
+    .##....?#?
+    ###...?##?
+    ##.....?#?
+    .#......#.
+    .##....##.
+    .?#####?..
+    .###..###.
+pb-r2c7 10x11 BAD(12) looks 48 passes 16 open 19 search 162.9 first[r1,r2,r4,r5,r6,r7,r8,r9,r10,r11,c1,c2,c3,c4,c5,c6,c7,c9,c10]
+  rows: 4a | 6a | S:2a 2a 2a | 3a 2b 3a | 2a 2a | 3a 3a | 2a 2a | 1a 1a | 2a 2a | 6a | 3b 3b
+  cols: 2a | 7a 1b | 5a 2a 1b | 2a 1a 1a 1b | 3a 1b 1a | 3a 1b 1a | 2a 1a 1a 1b | S:5a 2a 1b | 7a 1b | 2a
+  no-stamp: needs stamp (16 unknown) looks 46
+  plain clues: looks 34 passes 7 open 21
+    ...####...
+    ..?#####?.
+    ??#.##.##.
+    ?##?#####.
+    .##....##.
+    ?##?...###
+    ?#?.....##
+    .#.?...??.
+    .##....##.
+    .?#####?..
+    .###..###.
+pb-r2c8 10x11 BAD(15) looks 46 passes 18 open 19 search 186.5 first[r1,r2,r4,r5,r6,r7,r8,r9,r10,r11,c1,c2,c3,c4,c5,c6,c7,c8,c10]
+  rows: 4a | 6a | S:2a 2a 2a | 3a 2b 3a | 2a 2a | 3a 3a | 2a 2a | 1a 1a | 2a 2a | 6a | 3b 3b
+  cols: 2a | 7a 1b | 5a 2a 1b | 2a 1a 1a 1b | 3a 1b 1a | 3a 1b 1a | 2a 1a 1a 1b | 5a 2a 1b | S:7a 1b | 2a
+  no-stamp: needs stamp (5 unknown) looks 44
+  plain clues: looks 32 passes 7 open 21
+    ...####...
+    ..######..
+    .##.##.##.
+    .#####?##?
+    .##....##.
+    ###...?##?
+    ##......##
+    .#......#.
+    .##....##.
+    ..######..
+    .###..###.
+pb-r2c9 10x11 BAD(4) looks 44 passes 14 open 19 search 114.1 first[r1,r2,r4,r5,r6,r7,r8,r9,r10,r11,c1,c2,c3,c4,c5,c6,c7,c8,c9]
+  rows: 4a | 6a | S:2a 2a 2a | 3a 2b 3a | 2a 2a | 3a 3a | 2a 2a | 1a 1a | 2a 2a | 6a | 3b 3b
+  cols: 2a | 7a 1b | 5a 2a 1b | 2a 1a 1a 1b | 3a 1b 1a | 3a 1b 1a | 2a 1a 1a 1b | 5a 2a 1b | 7a 1b | S:2a
+  no-stamp: needs stamp (4 unknown) looks 36
+  plain clues: looks 36 passes 7 open 21
+    ...####...
+    ..######..
+    .##.##.##.
+    .##?#####.
+    .##....##.
+    ?##?...###
+    ##......##
+    .#......#.
+    .##....##.
+    ..######..
+    .###..###.
+pb-r3c0 10x11 BAD(3) looks 36 passes 10 open 19 search 70.0 first[r1,r2,r3,r5,r6,r7,r8,r9,r10,r11,c2,c3,c4,c5,c6,c7,c8,c9,c10]
+  rows: 4a | 6a | 2a 2a 2a | S:3a 2b 3a | 2a 2a | 3a 3a | 2a 2a | 1a 1a | 2a 2a | 6a | 3b 3b
+  cols: S:2a | 7a 1b | 5a 2a 1b | 2a 1a 1a 1b | 3a 1b 1a | 3a 1b 1a | 2a 1a 1a 1b | 5a 2a 1b | 7a 1b | 2a
+  no-stamp: needs stamp (11 unknown) looks 37
+  plain clues: looks 32 passes 7 open 21
+    ...####...
+    ..######..
+    .##.##.##.
+    .##?##?##.
+    .?#?...##.
+    ?##?...###
+    ##......##
+    ??.?..?.#.
+    .##....##.
+    ..######..
+    .###..###.
+pb-r3c1 10x11 BAD(10) looks 37 passes 9 open 19 search 64.2 first[r1,r2,r3,r5,r6,r7,r8,r9,r10,r11,c1,c3,c4,c5,c6,c7,c8,c9,c10]
+  rows: 4a | 6a | 2a 2a 2a | S:3a 2b 3a | 2a 2a | 3a 3a | 2a 2a | 1a 1a | 2a 2a | 6a | 3b 3b
+  cols: 2a | S:7a 1b | 5a 2a 1b | 2a 1a 1a 1b | 3a 1b 1a | 3a 1b 1a | 2a 1a 1a 1b | 5a 2a 1b | 7a 1b | 2a
+  no-stamp: needs stamp (11 unknown) looks 41
+  plain clues: looks 32 passes 7 open 21
+    ...####...
+    ..######..
+    ?#?.##.##.
+    ?##?#####.
+    ?#?....##.
+    ?##?...###
+    ?#?.....##
+    .#......#.
+    .##....##.
+    ..######..
+    .###..###.
+pb-r3c2 10x11 BAD(10) looks 41 passes 8 open 19 search 92.5 first[r1,r2,r3,r5,r6,r7,r8,r9,r10,r11,c1,c2,c4,c5,c6,c7,c8,c9,c10]
+  rows: 4a | 6a | 2a 2a 2a | S:3a 2b 3a | 2a 2a | 3a 3a | 2a 2a | 1a 1a | 2a 2a | 6a | 3b 3b
+  cols: 2a | 7a 1b | S:5a 2a 1b | 2a 1a 1a 1b | 3a 1b 1a | 3a 1b 1a | 2a 1a 1a 1b | 5a 2a 1b | 7a 1b | 2a
+  no-stamp: needs stamp (1 unknown) looks 38
+  plain clues: looks 36 passes 7 open 21
+pb-r3c3 10x11 OK looks 38 passes 10 open 19 search 64.1 first[r1,r2,r3,r5,r6,r7,r8,r9,r10,r11,c1,c2,c3,c5,c6,c7,c8,c9,c10]
+  rows: 4a | 6a | 2a 2a 2a | S:3a 2b 3a | 2a 2a | 3a 3a | 2a 2a | 1a 1a | 2a 2a | 6a | 3b 3b
+  cols: 2a | 7a 1b | 5a 2a 1b | S:2a 1a 1a 1b | 3a 1b 1a | 3a 1b 1a | 2a 1a 1a 1b | 5a 2a 1b | 7a 1b | 2a
+  no-stamp: needs stamp (1 unknown) looks 36
+  plain clues: looks 32 passes 7 open 21
+pb-r3c4 10x11 OK looks 36 passes 9 open 19 search 54.4 first[r1,r2,r3,r5,r6,r7,r8,r9,r10,r11,c1,c2,c3,c4,c6,c7,c8,c9,c10]
+  rows: 4a | 6a | 2a 2a 2a | S:3a 2b 3a | 2a 2a | 3a 3a | 2a 2a | 1a 1a | 2a 2a | 6a | 3b 3b
+  cols: 2a | 7a 1b | 5a 2a 1b | 2a 1a 1a 1b | S:3a 1b 1a | 3a 1b 1a | 2a 1a 1a 1b | 5a 2a 1b | 7a 1b | 2a
+  no-stamp: needs stamp (1 unknown) looks 37
+  plain clues: looks 32 passes 7 open 21
+pb-r3c5 10x11 OK looks 37 passes 9 open 19 search 55.5 first[r1,r2,r3,r5,r6,r7,r8,r9,r10,r11,c1,c2,c3,c4,c5,c7,c8,c9,c10]
+  rows: 4a | 6a | 2a 2a 2a | S:3a 2b 3a | 2a 2a | 3a 3a | 2a 2a | 1a 1a | 2a 2a | 6a | 3b 3b
+  cols: 2a | 7a 1b | 5a 2a 1b | 2a 1a 1a 1b | 3a 1b 1a | S:3a 1b 1a | 2a 1a 1a 1b | 5a 2a 1b | 7a 1b | 2a
+  no-stamp: needs stamp (1 unknown) looks 38
+  plain clues: looks 33 passes 7 open 21
+pb-r3c6 10x11 OK looks 38 passes 10 open 19 search 57.4 first[r1,r2,r3,r5,r6,r7,r8,r9,r10,r11,c1,c2,c3,c4,c5,c6,c8,c9,c10]
+  rows: 4a | 6a | 2a 2a 2a | S:3a 2b 3a | 2a 2a | 3a 3a | 2a 2a | 1a 1a | 2a 2a | 6a | 3b 3b
+  cols: 2a | 7a 1b | 5a 2a 1b | 2a 1a 1a 1b | 3a 1b 1a | 3a 1b 1a | S:2a 1a 1a 1b | 5a 2a 1b | 7a 1b | 2a
+  no-stamp: needs stamp (11 unknown) looks 38
+  plain clues: looks 32 passes 7 open 21
+    ...####...
+    ..######..
+    .##.##.?#?
+    .#####?##?
+    .##....?#?
+    ###...?##?
+    ##.....?#?
+    .#......#.
+    .##....##.
+    ..######..
+    .###..###.
+pb-r3c7 10x11 BAD(10) looks 38 passes 8 open 19 search 83.7 first[r1,r2,r3,r5,r6,r7,r8,r9,r10,r11,c1,c2,c3,c4,c5,c6,c7,c9,c10]
+  rows: 4a | 6a | 2a 2a 2a | S:3a 2b 3a | 2a 2a | 3a 3a | 2a 2a | 1a 1a | 2a 2a | 6a | 3b 3b
+  cols: 2a | 7a 1b | 5a 2a 1b | 2a 1a 1a 1b | 3a 1b 1a | 3a 1b 1a | 2a 1a 1a 1b | S:5a 2a 1b | 7a 1b | 2a
+  no-stamp: needs stamp (11 unknown) looks 36
+  plain clues: looks 34 passes 7 open 21
+    ...####...
+    ..######..
+    .##.##.##.
+    .##?##?##.
+    .##...?#?.
+    ###...?##?
+    ##......##
+    .#.?..?.??
+    .##....##.
+    ..######..
+    .###..###.
+pb-r3c8 10x11 BAD(10) looks 36 passes 9 open 19 search 64.7 first[r1,r2,r3,r5,r6,r7,r8,r9,r10,r11,c1,c2,c3,c4,c5,c6,c7,c8,c10]
+  rows: 4a | 6a | 2a 2a 2a | S:3a 2b 3a | 2a 2a | 3a 3a | 2a 2a | 1a 1a | 2a 2a | 6a | 3b 3b
+  cols: 2a | 7a 1b | 5a 2a 1b | 2a 1a 1a 1b | 3a 1b 1a | 3a 1b 1a | 2a 1a 1a 1b | 5a 2a 1b | S:7a 1b | 2a
+  no-stamp: needs stamp (4 unknown) looks 37
+  plain clues: looks 33 passes 7 open 21
+    ...####...
+    ..######..
+    .##.##.##.
+    .#####?##.
+    .##....##.
+    ###...?##?
+    ##......##
+    .#......#.
+    .##....##.
+    ..######..
+    .###..###.
+pb-r3c9 10x11 BAD(3) looks 37 passes 10 open 19 search 63.3 first[r1,r2,r3,r5,r6,r7,r8,r9,r10,r11,c1,c2,c3,c4,c5,c6,c7,c8,c9]
+  rows: 4a | 6a | 2a 2a 2a | S:3a 2b 3a | 2a 2a | 3a 3a | 2a 2a | 1a 1a | 2a 2a | 6a | 3b 3b
+  cols: 2a | 7a 1b | 5a 2a 1b | 2a 1a 1a 1b | 3a 1b 1a | 3a 1b 1a | 2a 1a 1a 1b | 5a 2a 1b | 7a 1b | S:2a
+  no-stamp: needs stamp (6 unknown) looks 36
+  plain clues: looks 34 passes 7 open 21
+    ...####...
+    ..######..
+    .##.##.##.
+    ?##?#####.
+    .##?...##.
+    ?##?...###
+    ##......##
+    .#......#.
+    .##....##.
+    ..######..
+    .###..###.
+pb-r4c0 10x11 BAD(5) looks 36 passes 13 open 19 search 84.5 first[r1,r2,r3,r4,r6,r7,r8,r9,r10,r11,c2,c3,c4,c5,c6,c7,c8,c9,c10]
+  rows: 4a | 6a | 2a 2a 2a | 3a 2b 3a | S:2a 2a | 3a 3a | 2a 2a | 1a 1a | 2a 2a | 6a | 3b 3b
+  cols: S:2a | 7a 1b | 5a 2a 1b | 2a 1a 1a 1b | 3a 1b 1a | 3a 1b 1a | 2a 1a 1a 1b | 5a 2a 1b | 7a 1b | 2a
+  no-stamp: needs stamp (13 unknown) looks 45
+  plain clues: looks 32 passes 7 open 21
+    ...####...
+    .?#####?..
+    .##.##.##.
+    .#####?##?
+    .##...?##?
+    ###...?##?
+    ##.....?#?
+    .?....?.#.
+    .##....##.
+    ..######..
+    .###..###.
+pb-r4c1 10x11 BAD(12) looks 45 passes 18 open 19 search 119.9 first[r1,r2,r3,r4,r6,r7,r8,r9,r10,r11,c1,c3,c4,c5,c6,c7,c8,c9,c10]
+  rows: 4a | 6a | 2a 2a 2a | 3a 2b 3a | S:2a 2a | 3a 3a | 2a 2a | 1a 1a | 2a 2a | 6a | 3b 3b
+  cols: 2a | S:7a 1b | 5a 2a 1b | 2a 1a 1a 1b | 3a 1b 1a | 3a 1b 1a | 2a 1a 1a 1b | 5a 2a 1b | 7a 1b | 2a
+  no-stamp: needs stamp (11 unknown) looks 43
+  plain clues: looks 34 passes 7 open 21
+    ...####...
+    ..######..
+    ?#?.##.##.
+    ?##?#####.
+    ?##?...##.
+    ?##?...###
+    ?#?.....##
+    .#......#.
+    .##....##.
+    ..######..
+    .###..###.
+pb-r4c2 10x11 BAD(10) looks 43 passes 14 open 19 search 131.8 first[r1,r2,r3,r4,r6,r7,r8,r9,r10,r11,c1,c2,c4,c5,c6,c7,c8,c9,c10]
+  rows: 4a | 6a | 2a 2a 2a | 3a 2b 3a | S:2a 2a | 3a 3a | 2a 2a | 1a 1a | 2a 2a | 6a | 3b 3b
+  cols: 2a | 7a 1b | S:5a 2a 1b | 2a 1a 1a 1b | 3a 1b 1a | 3a 1b 1a | 2a 1a 1a 1b | 5a 2a 1b | 7a 1b | 2a
+  no-stamp: needs stamp (13 unknown) looks 32
+  plain clues: looks 31 passes 7 open 21
+    ...####...
+    .?#####?..
+    .##.##.##.
+    .#####?##?
+    .##...?##?
+    ###...?##?
+    ##.....?#?
+    .#......#.
+    .?#?...##.
+    ..######..
+    .###..###.
+pb-r4c3 10x11 BAD(12) looks 32 passes 13 open 19 search 77.8 first[r1,r2,r3,r4,r6,r7,r8,r9,r10,r11,c1,c2,c3,c5,c6,c7,c8,c9,c10]
+  rows: 4a | 6a | 2a 2a 2a | 3a 2b 3a | S:2a 2a | 3a 3a | 2a 2a | 1a 1a | 2a 2a | 6a | 3b 3b
+  cols: 2a | 7a 1b | 5a 2a 1b | S:2a 1a 1a 1b | 3a 1b 1a | 3a 1b 1a | 2a 1a 1a 1b | 5a 2a 1b | 7a 1b | 2a
+  no-stamp: needs stamp (1 unknown) looks 38
+  plain clues: looks 31 passes 7 open 21
+pb-r4c4 10x11 OK looks 38 passes 13 open 19 search 76.2 first[r1,r2,r3,r4,r6,r7,r8,r9,r10,r11,c1,c2,c3,c4,c6,c7,c8,c9,c10]
+  rows: 4a | 6a | 2a 2a 2a | 3a 2b 3a | S:2a 2a | 3a 3a | 2a 2a | 1a 1a | 2a 2a | 6a | 3b 3b
+  cols: 2a | 7a 1b | 5a 2a 1b | 2a 1a 1a 1b | S:3a 1b 1a | 3a 1b 1a | 2a 1a 1a 1b | 5a 2a 1b | 7a 1b | 2a
+  no-stamp: needs stamp (1 unknown) looks 38
+  plain clues: looks 31 passes 7 open 21
+pb-r4c5 10x11 OK looks 38 passes 13 open 19 search 76.2 first[r1,r2,r3,r4,r6,r7,r8,r9,r10,r11,c1,c2,c3,c4,c5,c7,c8,c9,c10]
+  rows: 4a | 6a | 2a 2a 2a | 3a 2b 3a | S:2a 2a | 3a 3a | 2a 2a | 1a 1a | 2a 2a | 6a | 3b 3b
+  cols: 2a | 7a 1b | 5a 2a 1b | 2a 1a 1a 1b | 3a 1b 1a | S:3a 1b 1a | 2a 1a 1a 1b | 5a 2a 1b | 7a 1b | 2a
+  no-stamp: needs stamp (13 unknown) looks 32
+  plain clues: looks 31 passes 7 open 21
+    ...####...
+    ..?#####?.
+    .##.##.##.
+    ?##?#####.
+    ?##?...##.
+    ?##?...###
+    ?#?.....##
+    .#......#.
+    .##...?#?.
+    ..######..
+    .###..###.
+pb-r4c6 10x11 BAD(12) looks 32 passes 13 open 19 search 83.8 first[r1,r2,r3,r4,r6,r7,r8,r9,r10,r11,c1,c2,c3,c4,c5,c6,c8,c9,c10]
+  rows: 4a | 6a | 2a 2a 2a | 3a 2b 3a | S:2a 2a | 3a 3a | 2a 2a | 1a 1a | 2a 2a | 6a | 3b 3b
+  cols: 2a | 7a 1b | 5a 2a 1b | 2a 1a 1a 1b | 3a 1b 1a | 3a 1b 1a | S:2a 1a 1a 1b | 5a 2a 1b | 7a 1b | 2a
+  no-stamp: needs stamp (11 unknown) looks 43
+  plain clues: looks 32 passes 7 open 21
+    ...####...
+    ..######..
+    .##.##.?#?
+    .#####?##?
+    .##...?##?
+    ###...?##?
+    ##.....?#?
+    .#......#.
+    .##....##.
+    ..######..
+    .###..###.
+pb-r4c7 10x11 BAD(10) looks 43 passes 14 open 19 search 122.6 first[r1,r2,r3,r4,r6,r7,r8,r9,r10,r11,c1,c2,c3,c4,c5,c6,c7,c9,c10]
+  rows: 4a | 6a | 2a 2a 2a | 3a 2b 3a | S:2a 2a | 3a 3a | 2a 2a | 1a 1a | 2a 2a | 6a | 3b 3b
+  cols: 2a | 7a 1b | 5a 2a 1b | 2a 1a 1a 1b | 3a 1b 1a | 3a 1b 1a | 2a 1a 1a 1b | S:5a 2a 1b | 7a 1b | 2a
+  no-stamp: needs stamp (13 unknown) looks 45
+  plain clues: looks 35 passes 7 open 21
+    ...####...
+    ..?#####?.
+    .##.##.##.
+    ?##?#####.
+    ?##?...##.
+    ?##?...###
+    ?#?.....##
+    .#.?....?.
+    .##....##.
+    ..######..
+    .###..###.
+pb-r4c8 10x11 BAD(12) looks 45 passes 18 open 19 search 172.6 first[r1,r2,r3,r4,r6,r7,r8,r9,r10,r11,c1,c2,c3,c4,c5,c6,c7,c8,c10]
+  rows: 4a | 6a | 2a 2a 2a | 3a 2b 3a | S:2a 2a | 3a 3a | 2a 2a | 1a 1a | 2a 2a | 6a | 3b 3b
+  cols: 2a | 7a 1b | 5a 2a 1b | 2a 1a 1a 1b | 3a 1b 1a | 3a 1b 1a | 2a 1a 1a 1b | 5a 2a 1b | S:7a 1b | 2a
+  no-stamp: needs stamp (6 unknown) looks 36
+  plain clues: looks 34 passes 7 open 21
+    ...####...
+    ..######..
+    .##.##.##.
+    .#####?##?
+    .##...?##.
+    ###...?##?
+    ##......##
+    .#......#.
+    .##....##.
+    ..######..
+    .###..###.
+pb-r4c9 10x11 BAD(5) looks 36 passes 13 open 19 search 76.7 first[r1,r2,r3,r4,r6,r7,r8,r9,r10,r11,c1,c2,c3,c4,c5,c6,c7,c8,c9]
+  rows: 4a | 6a | 2a 2a 2a | 3a 2b 3a | S:2a 2a | 3a 3a | 2a 2a | 1a 1a | 2a 2a | 6a | 3b 3b
+  cols: 2a | 7a 1b | 5a 2a 1b | 2a 1a 1a 1b | 3a 1b 1a | 3a 1b 1a | 2a 1a 1a 1b | 5a 2a 1b | 7a 1b | S:2a
+  no-stamp: needs stamp (4 unknown) looks 40
+  plain clues: looks 31 passes 7 open 21
+    ...####...
+    ..######..
+    .##.##.##.
+    ?##?#####.
+    .##....##.
+    ###?...###
+    ##......##
+    .#......#.
+    .##....##.
+    ..######..
+    .###..###.
+pb-r5c0 10x11 BAD(3) looks 40 passes 10 open 19 search 76.3 first[r1,r2,r3,r4,r5,r7,r8,r9,r10,r11,c2,c3,c4,c5,c6,c7,c8,c9,c10]
+  rows: 4a | 6a | 2a 2a 2a | 3a 2b 3a | 2a 2a | S:3a 3a | 2a 2a | 1a 1a | 2a 2a | 6a | 3b 3b
+  cols: S:2a | 7a 1b | 5a 2a 1b | 2a 1a 1a 1b | 3a 1b 1a | 3a 1b 1a | 2a 1a 1a 1b | 5a 2a 1b | 7a 1b | 2a
+  no-stamp: needs stamp (4 unknown) looks 41
+  plain clues: looks 30 passes 7 open 21
+    ...####...
+    ..######..
+    .##.##.##.
+    .########.
+    .##....##.
+    ?##....###
+    ##......##
+    ??......#.
+    .##....##.
+    ..######..
+    .###..###.
+pb-r5c1 10x11 BAD(3) looks 41 passes 10 open 19 search 75.9 first[r1,r2,r3,r4,r5,r7,r8,r9,r10,r11,c1,c3,c4,c5,c6,c7,c8,c9,c10]
+  rows: 4a | 6a | 2a 2a 2a | 3a 2b 3a | 2a 2a | S:3a 3a | 2a 2a | 1a 1a | 2a 2a | 6a | 3b 3b
+  cols: 2a | S:7a 1b | 5a 2a 1b | 2a 1a 1a 1b | 3a 1b 1a | 3a 1b 1a | 2a 1a 1a 1b | 5a 2a 1b | 7a 1b | 2a
+  no-stamp: needs stamp (11 unknown) looks 42
+  plain clues: looks 36 passes 7 open 21
+    ...####...
+    ..######..
+    ?#?.##.##.
+    ?##?#####.
+    ?#?....##.
+    ?##?...###
+    ?#?.....##
+    .#......#.
+    .##....##.
+    ..######..
+    .###..###.
+pb-r5c2 10x11 BAD(10) looks 42 passes 9 open 19 search 84.8 first[r1,r2,r3,r4,r5,r7,r8,r9,r10,r11,c1,c2,c4,c5,c6,c7,c8,c9,c10]
+  rows: 4a | 6a | 2a 2a 2a | 3a 2b 3a | 2a 2a | S:3a 3a | 2a 2a | 1a 1a | 2a 2a | 6a | 3b 3b
+  cols: 2a | 7a 1b | S:5a 2a 1b | 2a 1a 1a 1b | 3a 1b 1a | 3a 1b 1a | 2a 1a 1a 1b | 5a 2a 1b | 7a 1b | 2a
+  no-stamp: needs stamp (4 unknown) looks 40
+  plain clues: looks 35 passes 7 open 21
+    ...?###?..
+    ..######..
+    .##.##.##.
+    .########.
+    .##....##.
+    ###....?##
+    ##......##
+    .#......#.
+    .##....##.
+    ..######..
+    .###..###.
+pb-r5c3 10x11 BAD(3) looks 40 passes 12 open 19 search 81.9 first[r1,r2,r3,r4,r5,r7,r8,r9,r10,r11,c1,c2,c3,c5,c6,c7,c8,c9,c10]
+  rows: 4a | 6a | 2a 2a 2a | 3a 2b 3a | 2a 2a | S:3a 3a | 2a 2a | 1a 1a | 2a 2a | 6a | 3b 3b
+  cols: 2a | 7a 1b | 5a 2a 1b | S:2a 1a 1a 1b | 3a 1b 1a | 3a 1b 1a | 2a 1a 1a 1b | 5a 2a 1b | 7a 1b | 2a
+  no-stamp: needs stamp (1 unknown) looks 40
+  plain clues: looks 32 passes 7 open 21
+pb-r5c4 10x11 OK looks 40 passes 8 open 19 search 61.8 first[r1,r2,r3,r4,r5,r7,r8,r9,r10,r11,c1,c2,c3,c4,c6,c7,c8,c9,c10]
+  rows: 4a | 6a | 2a 2a 2a | 3a 2b 3a | 2a 2a | S:3a 3a | 2a 2a | 1a 1a | 2a 2a | 6a | 3b 3b
+  cols: 2a | 7a 1b | 5a 2a 1b | 2a 1a 1a 1b | S:3a 1b 1a | 3a 1b 1a | 2a 1a 1a 1b | 5a 2a 1b | 7a 1b | 2a
+  no-stamp: needs stamp (1 unknown) looks 38
+  plain clues: looks 30 passes 7 open 21
+pb-r5c5 10x11 OK looks 38 passes 8 open 19 search 56.0 first[r1,r2,r3,r4,r5,r7,r8,r9,r10,r11,c1,c2,c3,c4,c5,c7,c8,c9,c10]
+  rows: 4a | 6a | 2a 2a 2a | 3a 2b 3a | 2a 2a | S:3a 3a | 2a 2a | 1a 1a | 2a 2a | 6a | 3b 3b
+  cols: 2a | 7a 1b | 5a 2a 1b | 2a 1a 1a 1b | 3a 1b 1a | S:3a 1b 1a | 2a 1a 1a 1b | 5a 2a 1b | 7a 1b | 2a
+  no-stamp: needs stamp (4 unknown) looks 44
+  plain clues: looks 31 passes 7 open 21
+    ..?###?...
+    ..######..
+    .##.##.##.
+    .########.
+    .##....##.
+    ##?....###
+    ##......##
+    .#......#.
+    .##....##.
+    ..######..
+    .###..###.
+pb-r5c6 10x11 BAD(3) looks 44 passes 12 open 19 search 72.3 first[r1,r2,r3,r4,r5,r7,r8,r9,r10,r11,c1,c2,c3,c4,c5,c6,c8,c9,c10]
+  rows: 4a | 6a | 2a 2a 2a | 3a 2b 3a | 2a 2a | S:3a 3a | 2a 2a | 1a 1a | 2a 2a | 6a | 3b 3b
+  cols: 2a | 7a 1b | 5a 2a 1b | 2a 1a 1a 1b | 3a 1b 1a | 3a 1b 1a | S:2a 1a 1a 1b | 5a 2a 1b | 7a 1b | 2a
+  no-stamp: needs stamp (11 unknown) looks 42
+  plain clues: looks 34 passes 7 open 21
+    ...####...
+    ..######..
+    .##.##.?#?
+    .#####?##?
+    .##....?#?
+    ###...?##?
+    ##.....?#?
+    .#......#.
+    .##....##.
+    ..######..
+    .###..###.
+pb-r5c7 10x11 BAD(10) looks 42 passes 9 open 19 search 91.9 first[r1,r2,r3,r4,r5,r7,r8,r9,r10,r11,c1,c2,c3,c4,c5,c6,c7,c9,c10]
+  rows: 4a | 6a | 2a 2a 2a | 3a 2b 3a | 2a 2a | S:3a 3a | 2a 2a | 1a 1a | 2a 2a | 6a | 3b 3b
+  cols: 2a | 7a 1b | 5a 2a 1b | 2a 1a 1a 1b | 3a 1b 1a | 3a 1b 1a | 2a 1a 1a 1b | S:5a 2a 1b | 7a 1b | 2a
+  no-stamp: needs stamp (4 unknown) looks 39
+  plain clues: looks 30 passes 7 open 21
+    ...####...
+    ..######..
+    .##.##.##.
+    .########.
+    .##....##.
+    ###....##?
+    ##......##
+    .#......??
+    .##....##.
+    ..######..
+    .###..###.
+pb-r5c8 10x11 BAD(3) looks 39 passes 10 open 19 search 65.8 first[r1,r2,r3,r4,r5,r7,r8,r9,r10,r11,c1,c2,c3,c4,c5,c6,c7,c8,c10]
+  rows: 4a | 6a | 2a 2a 2a | 3a 2b 3a | 2a 2a | S:3a 3a | 2a 2a | 1a 1a | 2a 2a | 6a | 3b 3b
+  cols: 2a | 7a 1b | 5a 2a 1b | 2a 1a 1a 1b | 3a 1b 1a | 3a 1b 1a | 2a 1a 1a 1b | 5a 2a 1b | S:7a 1b | 2a
+  no-stamp: needs stamp (4 unknown) looks 40
+  plain clues: looks 33 passes 7 open 21
+    ...####...
+    ..######..
+    .##.##.##.
+    .#####?##?
+    .##....##.
+    ###...?###
+    ##......##
+    .#......#.
+    .##....##.
+    ..######..
+    .###..###.
+pb-r5c9 10x11 BAD(3) looks 40 passes 10 open 19 search 69.9 first[r1,r2,r3,r4,r5,r7,r8,r9,r10,r11,c1,c2,c3,c4,c5,c6,c7,c8,c9]
+  rows: 4a | 6a | 2a 2a 2a | 3a 2b 3a | 2a 2a | S:3a 3a | 2a 2a | 1a 1a | 2a 2a | 6a | 3b 3b
+  cols: 2a | 7a 1b | 5a 2a 1b | 2a 1a 1a 1b | 3a 1b 1a | 3a 1b 1a | 2a 1a 1a 1b | 5a 2a 1b | 7a 1b | S:2a
+  no-stamp: needs stamp (6 unknown) looks 35
+  plain clues: looks 29 passes 7 open 21
+    ...####...
+    ..######..
+    .##.##.##.
+    ?##?#####.
+    .##....##.
+    ?##?...###
+    ##.?....##
+    .#......#.
+    .##....##.
+    ..######..
+    .###..###.
+pb-r6c0 10x11 BAD(5) looks 35 passes 9 open 19 search 67.4 first[r1,r2,r3,r4,r5,r6,r8,r9,r10,r11,c2,c3,c4,c5,c6,c7,c8,c9,c10]
+  rows: 4a | 6a | 2a 2a 2a | 3a 2b 3a | 2a 2a | 3a 3a | S:2a 2a | 1a 1a | 2a 2a | 6a | 3b 3b
+  cols: S:2a | 7a 1b | 5a 2a 1b | 2a 1a 1a 1b | 3a 1b 1a | 3a 1b 1a | 2a 1a 1a 1b | 5a 2a 1b | 7a 1b | 2a
+  no-stamp: needs stamp (4 unknown) looks 44
+  plain clues: looks 32 passes 7 open 21
+    ...####...
+    .?#####?..
+    .##.##.##.
+    .########.
+    .##....##.
+    ###....###
+    ##.....?##
+    .#......#.
+    .##....##.
+    ..######..
+    .###..###.
+pb-r6c1 10x11 BAD(3) looks 44 passes 12 open 19 search 76.2 first[r1,r2,r3,r4,r5,r6,r8,r9,r10,r11,c1,c3,c4,c5,c6,c7,c8,c9,c10]
+  rows: 4a | 6a | 2a 2a 2a | 3a 2b 3a | 2a 2a | 3a 3a | S:2a 2a | 1a 1a | 2a 2a | 6a | 3b 3b
+  cols: 2a | S:7a 1b | 5a 2a 1b | 2a 1a 1a 1b | 3a 1b 1a | 3a 1b 1a | 2a 1a 1a 1b | 5a 2a 1b | 7a 1b | 2a
+  no-stamp: needs stamp (11 unknown) looks 40
+  plain clues: looks 31 passes 7 open 21
+    ...####...
+    ..######..
+    ?#?.##.##.
+    ?##?#####.
+    ?#?....##.
+    ?##?...###
+    ?#.?....##
+    .#......#.
+    .##....##.
+    ..######..
+    .###..###.
+pb-r6c2 10x11 BAD(10) looks 40 passes 10 open 19 search 85.2 first[r1,r2,r3,r4,r5,r6,r8,r9,r10,r11,c1,c2,c4,c5,c6,c7,c8,c9,c10]
+  rows: 4a | 6a | 2a 2a 2a | 3a 2b 3a | 2a 2a | 3a 3a | S:2a 2a | 1a 1a | 2a 2a | 6a | 3b 3b
+  cols: 2a | 7a 1b | S:5a 2a 1b | 2a 1a 1a 1b | 3a 1b 1a | 3a 1b 1a | 2a 1a 1a 1b | 5a 2a 1b | 7a 1b | 2a
+  no-stamp: needs stamp (6 unknown) looks 32
+  plain clues: looks 32 passes 7 open 21
+    ...####...
+    .?#####?..
+    .##.##.##.
+    .########.
+    .##....##.
+    ###....###
+    ##.....?##
+    .#......#.
+    .?#?...##.
+    ..######..
+    .###..###.
+pb-r6c3 10x11 BAD(5) looks 32 passes 9 open 19 search 63.4 first[r1,r2,r3,r4,r5,r6,r8,r9,r10,r11,c1,c2,c3,c5,c6,c7,c8,c9,c10]
+  rows: 4a | 6a | 2a 2a 2a | 3a 2b 3a | 2a 2a | 3a 3a | S:2a 2a | 1a 1a | 2a 2a | 6a | 3b 3b
+  cols: 2a | 7a 1b | 5a 2a 1b | S:2a 1a 1a 1b | 3a 1b 1a | 3a 1b 1a | 2a 1a 1a 1b | 5a 2a 1b | 7a 1b | 2a
+  no-stamp: needs stamp (1 unknown) looks 32
+  plain clues: looks 32 passes 7 open 21
+pb-r6c4 10x11 OK looks 32 passes 9 open 19 search 54.0 first[r1,r2,r3,r4,r5,r6,r8,r9,r10,r11,c1,c2,c3,c4,c6,c7,c8,c9,c10]
+  rows: 4a | 6a | 2a 2a 2a | 3a 2b 3a | 2a 2a | 3a 3a | S:2a 2a | 1a 1a | 2a 2a | 6a | 3b 3b
+  cols: 2a | 7a 1b | 5a 2a 1b | 2a 1a 1a 1b | S:3a 1b 1a | 3a 1b 1a | 2a 1a 1a 1b | 5a 2a 1b | 7a 1b | 2a
+  no-stamp: needs stamp (1 unknown) looks 33
+  plain clues: looks 32 passes 7 open 21
+pb-r6c5 10x11 OK looks 33 passes 9 open 19 search 51.0 first[r1,r2,r3,r4,r5,r6,r8,r9,r10,r11,c1,c2,c3,c4,c5,c7,c8,c9,c10]
+  rows: 4a | 6a | 2a 2a 2a | 3a 2b 3a | 2a 2a | 3a 3a | S:2a 2a | 1a 1a | 2a 2a | 6a | 3b 3b
+  cols: 2a | 7a 1b | 5a 2a 1b | 2a 1a 1a 1b | 3a 1b 1a | S:3a 1b 1a | 2a 1a 1a 1b | 5a 2a 1b | 7a 1b | 2a
+  no-stamp: needs stamp (6 unknown) looks 33
+  plain clues: looks 32 passes 7 open 21
+    ...####...
+    ..?#####?.
+    .##.##.##.
+    .########.
+    .##....##.
+    ###....###
+    ##?.....##
+    .#......#.
+    .##...?#?.
+    ..######..
+    .###..###.
+pb-r6c6 10x11 BAD(5) looks 33 passes 9 open 19 search 64.8 first[r1,r2,r3,r4,r5,r6,r8,r9,r10,r11,c1,c2,c3,c4,c5,c6,c8,c9,c10]
+  rows: 4a | 6a | 2a 2a 2a | 3a 2b 3a | 2a 2a | 3a 3a | S:2a 2a | 1a 1a | 2a 2a | 6a | 3b 3b
+  cols: 2a | 7a 1b | 5a 2a 1b | 2a 1a 1a 1b | 3a 1b 1a | 3a 1b 1a | S:2a 1a 1a 1b | 5a 2a 1b | 7a 1b | 2a
+  no-stamp: needs stamp (11 unknown) looks 42
+  plain clues: looks 31 passes 7 open 21
+    ...####...
+    ..######..
+    .##.##.?#?
+    .#####?##?
+    .##....?#?
+    ###...?##?
+    ##....?.#?
+    .#......#.
+    .##....##.
+    ..######..
+    .###..###.
+pb-r6c7 10x11 BAD(10) looks 42 passes 10 open 19 search 99.0 first[r1,r2,r3,r4,r5,r6,r8,r9,r10,r11,c1,c2,c3,c4,c5,c6,c7,c9,c10]
+  rows: 4a | 6a | 2a 2a 2a | 3a 2b 3a | 2a 2a | 3a 3a | S:2a 2a | 1a 1a | 2a 2a | 6a | 3b 3b
+  cols: 2a | 7a 1b | 5a 2a 1b | 2a 1a 1a 1b | 3a 1b 1a | 3a 1b 1a | 2a 1a 1a 1b | S:5a 2a 1b | 7a 1b | 2a
+  no-stamp: needs stamp (4 unknown) looks 42
+  plain clues: looks 34 passes 7 open 21
+    ...####...
+    ..?#####?.
+    .##.##.##.
+    .########.
+    .##....##.
+    ###....###
+    ##?.....##
+    .#......#.
+    .##....##.
+    ..######..
+    .###..###.
+pb-r6c8 10x11 BAD(3) looks 42 passes 12 open 19 search 71.8 first[r1,r2,r3,r4,r5,r6,r8,r9,r10,r11,c1,c2,c3,c4,c5,c6,c7,c8,c10]
+  rows: 4a | 6a | 2a 2a 2a | 3a 2b 3a | 2a 2a | 3a 3a | S:2a 2a | 1a 1a | 2a 2a | 6a | 3b 3b
+  cols: 2a | 7a 1b | 5a 2a 1b | 2a 1a 1a 1b | 3a 1b 1a | 3a 1b 1a | 2a 1a 1a 1b | 5a 2a 1b | S:7a 1b | 2a
+  no-stamp: needs stamp (6 unknown) looks 34
+  plain clues: looks 29 passes 7 open 21
+    ...####...
+    ..######..
+    .##.##.##.
+    .#####?##?
+    .##....##.
+    ###...?##?
+    ##....?.##
+    .#......#.
+    .##....##.
+    ..######..
+    .###..###.
+pb-r6c9 10x11 BAD(5) looks 34 passes 9 open 19 search 69.6 first[r1,r2,r3,r4,r5,r6,r8,r9,r10,r11,c1,c2,c3,c4,c5,c6,c7,c8,c9]
+  rows: 4a | 6a | 2a 2a 2a | 3a 2b 3a | 2a 2a | 3a 3a | S:2a 2a | 1a 1a | 2a 2a | 6a | 3b 3b
+  cols: 2a | 7a 1b | 5a 2a 1b | 2a 1a 1a 1b | 3a 1b 1a | 3a 1b 1a | 2a 1a 1a 1b | 5a 2a 1b | 7a 1b | S:2a
+  no-stamp: needs stamp (6 unknown) looks 39
+  plain clues: looks 32 passes 7 open 21
+    ...####...
+    ..######..
+    .##.##.##.
+    ?##?#####.
+    .##....##.
+    ?##?...###
+    ##......##
+    .#.?....#.
+    .##....##.
+    ..######..
+    .###..###.
+pb-r7c0 10x11 BAD(5) looks 39 passes 10 open 19 search 70.1 first[r1,r2,r3,r4,r5,r6,r7,r9,r10,r11,c2,c3,c4,c5,c6,c7,c8,c9,c10]
+  rows: 4a | 6a | 2a 2a 2a | 3a 2b 3a | 2a 2a | 3a 3a | 2a 2a | S:1a 1a | 2a 2a | 6a | 3b 3b
+  cols: S:2a | 7a 1b | 5a 2a 1b | 2a 1a 1a 1b | 3a 1b 1a | 3a 1b 1a | 2a 1a 1a 1b | 5a 2a 1b | 7a 1b | 2a
+  no-stamp: needs stamp (4 unknown) looks 42
+  plain clues: looks 32 passes 7 open 21
+    ...####...
+    ..######..
+    .##.##.##.
+    .########.
+    .##....##.
+    ###....###
+    ##......##
+    .#.....?#.
+    .##....##.
+    .?#####?..
+    .###..###.
+pb-r7c1 10x11 BAD(3) looks 42 passes 10 open 19 search 67.8 first[r1,r2,r3,r4,r5,r6,r7,r9,r10,r11,c1,c3,c4,c5,c6,c7,c8,c9,c10]
+  rows: 4a | 6a | 2a 2a 2a | 3a 2b 3a | 2a 2a | 3a 3a | 2a 2a | S:1a 1a | 2a 2a | 6a | 3b 3b
+  cols: 2a | S:7a 1b | 5a 2a 1b | 2a 1a 1a 1b | 3a 1b 1a | 3a 1b 1a | 2a 1a 1a 1b | 5a 2a 1b | 7a 1b | 2a
+  no-stamp: needs stamp (15 unknown) looks 39
+  plain clues: looks 35 passes 7 open 21
+    ...####...
+    ..######..
+    ?#?.##.##.
+    ?##?#####.
+    ?#?....##.
+    ?##?...###
+    ?#?.....##
+    ?#.?....#.
+    ?#?....##.
+    ..######..
+    .###..###.
+pb-r7c2 10x11 BAD(14) looks 39 passes 8 open 19 search 82.1 first[r1,r2,r3,r4,r5,r6,r7,r9,r10,r11,c1,c2,c4,c5,c6,c7,c8,c9,c10]
+  rows: 4a | 6a | 2a 2a 2a | 3a 2b 3a | 2a 2a | 3a 3a | 2a 2a | S:1a 1a | 2a 2a | 6a | 3b 3b
+  cols: 2a | 7a 1b | S:5a 2a 1b | 2a 1a 1a 1b | 3a 1b 1a | 3a 1b 1a | 2a 1a 1a 1b | 5a 2a 1b | 7a 1b | 2a
+  no-stamp: needs stamp (4 unknown) looks 34
+  plain clues: looks 32 passes 7 open 21
+    ...####...
+    ..######..
+    .##.##.##.
+    .########.
+    .##....##.
+    ?##?...###
+    ##......##
+    ?#......#.
+    .##....##.
+    ..######..
+    .###..###.
+pb-r7c3 10x11 BAD(3) looks 34 passes 10 open 19 search 51.6 first[r1,r2,r3,r4,r5,r6,r7,r9,r10,r11,c1,c2,c3,c5,c6,c7,c8,c9,c10]
+  rows: 4a | 6a | 2a 2a 2a | 3a 2b 3a | 2a 2a | 3a 3a | 2a 2a | S:1a 1a | 2a 2a | 6a | 3b 3b
+  cols: 2a | 7a 1b | 5a 2a 1b | S:2a 1a 1a 1b | 3a 1b 1a | 3a 1b 1a | 2a 1a 1a 1b | 5a 2a 1b | 7a 1b | 2a
+  no-stamp: needs stamp (1 unknown) looks 32
+  plain clues: looks 32 passes 7 open 21
+pb-r7c4 10x11 OK looks 32 passes 7 open 19 search 43.0 first[r1,r2,r3,r4,r5,r6,r7,r9,r10,r11,c1,c2,c3,c4,c6,c7,c8,c9,c10]
+  rows: 4a | 6a | 2a 2a 2a | 3a 2b 3a | 2a 2a | 3a 3a | 2a 2a | S:1a 1a | 2a 2a | 6a | 3b 3b
+  cols: 2a | 7a 1b | 5a 2a 1b | 2a 1a 1a 1b | S:3a 1b 1a | 3a 1b 1a | 2a 1a 1a 1b | 5a 2a 1b | 7a 1b | 2a
+  no-stamp: needs stamp (1 unknown) looks 33
+  plain clues: looks 32 passes 7 open 21
+pb-r7c5 10x11 OK looks 33 passes 7 open 19 search 44.0 first[r1,r2,r3,r4,r5,r6,r7,r9,r10,r11,c1,c2,c3,c4,c5,c7,c8,c9,c10]
+  rows: 4a | 6a | 2a 2a 2a | 3a 2b 3a | 2a 2a | 3a 3a | 2a 2a | S:1a 1a | 2a 2a | 6a | 3b 3b
+  cols: 2a | 7a 1b | 5a 2a 1b | 2a 1a 1a 1b | 3a 1b 1a | S:3a 1b 1a | 2a 1a 1a 1b | 5a 2a 1b | 7a 1b | 2a
+  no-stamp: needs stamp (4 unknown) looks 35
+  plain clues: looks 32 passes 7 open 21
+    ...####...
+    ..######..
+    .##.##.##.
+    .########.
+    .##....##.
+    ###...?##?
+    ##......##
+    .#......#?
+    .##....##.
+    ..######..
+    .###..###.
+pb-r7c6 10x11 BAD(3) looks 35 passes 10 open 19 search 58.7 first[r1,r2,r3,r4,r5,r6,r7,r9,r10,r11,c1,c2,c3,c4,c5,c6,c8,c9,c10]
+  rows: 4a | 6a | 2a 2a 2a | 3a 2b 3a | 2a 2a | 3a 3a | 2a 2a | S:1a 1a | 2a 2a | 6a | 3b 3b
+  cols: 2a | 7a 1b | 5a 2a 1b | 2a 1a 1a 1b | 3a 1b 1a | 3a 1b 1a | S:2a 1a 1a 1b | 5a 2a 1b | 7a 1b | 2a
+  no-stamp: needs stamp (15 unknown) looks 42
+  plain clues: looks 35 passes 7 open 21
+    ...####...
+    ..######..
+    .##.##.?#?
+    .#####?##?
+    .##....?#?
+    ###...?##?
+    ##.....?#?
+    .#....?.#?
+    .##....?#?
+    ..######..
+    .###..###.
+pb-r7c7 10x11 BAD(14) looks 42 passes 8 open 19 search 90.8 first[r1,r2,r3,r4,r5,r6,r7,r9,r10,r11,c1,c2,c3,c4,c5,c6,c7,c9,c10]
+  rows: 4a | 6a | 2a 2a 2a | 3a 2b 3a | 2a 2a | 3a 3a | 2a 2a | S:1a 1a | 2a 2a | 6a | 3b 3b
+  cols: 2a | 7a 1b | 5a 2a 1b | 2a 1a 1a 1b | 3a 1b 1a | 3a 1b 1a | 2a 1a 1a 1b | S:5a 2a 1b | 7a 1b | 2a
+  no-stamp: needs stamp (4 unknown) looks 40
+  plain clues: looks 34 passes 7 open 21
+    ...####...
+    ..######..
+    .##.##.##.
+    .########.
+    .##....##.
+    ###....###
+    ##......##
+    .#?.....#.
+    .##....##.
+    ..?#####?.
+    .###..###.
+pb-r7c8 10x11 BAD(3) looks 40 passes 10 open 19 search 62.7 first[r1,r2,r3,r4,r5,r6,r7,r9,r10,r11,c1,c2,c3,c4,c5,c6,c7,c8,c10]
+  rows: 4a | 6a | 2a 2a 2a | 3a 2b 3a | 2a 2a | 3a 3a | 2a 2a | S:1a 1a | 2a 2a | 6a | 3b 3b
+  cols: 2a | 7a 1b | 5a 2a 1b | 2a 1a 1a 1b | 3a 1b 1a | 3a 1b 1a | 2a 1a 1a 1b | 5a 2a 1b | S:7a 1b | 2a
+  no-stamp: needs stamp (6 unknown) looks 36
+  plain clues: looks 32 passes 7 open 21
+    ...####...
+    ..######..
+    .##.##.##.
+    .#####?##?
+    .##....##.
+    ###...?##?
+    ##......##
+    .#....?.#.
+    .##....##.
+    ..######..
+    .###..###.
+pb-r7c9 10x11 BAD(5) looks 36 passes 10 open 19 search 59.5 first[r1,r2,r3,r4,r5,r6,r7,r9,r10,r11,c1,c2,c3,c4,c5,c6,c7,c8,c9]
+  rows: 4a | 6a | 2a 2a 2a | 3a 2b 3a | 2a 2a | 3a 3a | 2a 2a | S:1a 1a | 2a 2a | 6a | 3b 3b
+  cols: 2a | 7a 1b | 5a 2a 1b | 2a 1a 1a 1b | 3a 1b 1a | 3a 1b 1a | 2a 1a 1a 1b | 5a 2a 1b | 7a 1b | S:2a
+  no-stamp: needs stamp (10 unknown) looks 36
+  plain clues: looks 32 passes 7 open 21
+    ...####...
+    ..?#####?.
+    .##.##.##.
+    ?##?#####.
+    .##....##.
+    ?##?...###
+    ?#?.....##
+    .#......#.
+    .##....#?.
+    ..######..
+    .###..###.
+pb-r8c0 10x11 BAD(9) looks 36 passes 11 open 19 search 67.4 first[r1,r2,r3,r4,r5,r6,r7,r8,r10,r11,c2,c3,c4,c5,c6,c7,c8,c9,c10]
+  rows: 4a | 6a | 2a 2a 2a | 3a 2b 3a | 2a 2a | 3a 3a | 2a 2a | 1a 1a | S:2a 2a | 6a | 3b 3b
+  cols: S:2a | 7a 1b | 5a 2a 1b | 2a 1a 1a 1b | 3a 1b 1a | 3a 1b 1a | 2a 1a 1a 1b | 5a 2a 1b | 7a 1b | 2a
+  no-stamp: needs stamp (1 unknown) looks 43
+  plain clues: looks 32 passes 7 open 21
+pb-r8c1 10x11 OK looks 43 passes 11 open 19 search 64.2 first[r1,r2,r3,r4,r5,r6,r7,r8,r10,r11,c1,c3,c4,c5,c6,c7,c8,c9,c10]
+  rows: 4a | 6a | 2a 2a 2a | 3a 2b 3a | 2a 2a | 3a 3a | 2a 2a | 1a 1a | S:2a 2a | 6a | 3b 3b
+  cols: 2a | S:7a 1b | 5a 2a 1b | 2a 1a 1a 1b | 3a 1b 1a | 3a 1b 1a | 2a 1a 1a 1b | 5a 2a 1b | 7a 1b | 2a
+  no-stamp: needs stamp (14 unknown) looks 40
+  plain clues: looks 32 passes 7 open 21
+    ...####...
+    ..?#####?.
+    ?#?.##.##.
+    ?##?#####.
+    ?#?....##.
+    ?##?...###
+    ?#?.....##
+    .#......#.
+    .##....#?.
+    ..######..
+    .###..###.
+pb-r8c2 10x11 BAD(13) looks 40 passes 11 open 19 search 95.1 first[r1,r2,r3,r4,r5,r6,r7,r8,r10,r11,c1,c2,c4,c5,c6,c7,c8,c9,c10]
+  rows: 4a | 6a | 2a 2a 2a | 3a 2b 3a | 2a 2a | 3a 3a | 2a 2a | 1a 1a | S:2a 2a | 6a | 3b 3b
+  cols: 2a | 7a 1b | S:5a 2a 1b | 2a 1a 1a 1b | 3a 1b 1a | 3a 1b 1a | 2a 1a 1a 1b | 5a 2a 1b | 7a 1b | 2a
+  no-stamp: needs stamp (1 unknown) looks 35
+  plain clues: looks 31 passes 7 open 21
+pb-r8c3 10x11 OK looks 35 passes 11 open 19 search 55.3 first[r1,r2,r3,r4,r5,r6,r7,r8,r10,r11,c1,c2,c3,c5,c6,c7,c8,c9,c10]
+  rows: 4a | 6a | 2a 2a 2a | 3a 2b 3a | 2a 2a | 3a 3a | 2a 2a | 1a 1a | S:2a 2a | 6a | 3b 3b
+  cols: 2a | 7a 1b | 5a 2a 1b | S:2a 1a 1a 1b | 3a 1b 1a | 3a 1b 1a | 2a 1a 1a 1b | 5a 2a 1b | 7a 1b | 2a
+  no-stamp: needs stamp (1 unknown) looks 36
+  plain clues: looks 32 passes 7 open 21
+pb-r8c4 10x11 OK looks 36 passes 12 open 19 search 60.3 first[r1,r2,r3,r4,r5,r6,r7,r8,r10,r11,c1,c2,c3,c4,c6,c7,c8,c9,c10]
+  rows: 4a | 6a | 2a 2a 2a | 3a 2b 3a | 2a 2a | 3a 3a | 2a 2a | 1a 1a | S:2a 2a | 6a | 3b 3b
+  cols: 2a | 7a 1b | 5a 2a 1b | 2a 1a 1a 1b | S:3a 1b 1a | 3a 1b 1a | 2a 1a 1a 1b | 5a 2a 1b | 7a 1b | 2a
+  no-stamp: needs stamp (1 unknown) looks 36
+  plain clues: looks 32 passes 7 open 21
+pb-r8c5 10x11 OK looks 36 passes 12 open 19 search 59.8 first[r1,r2,r3,r4,r5,r6,r7,r8,r10,r11,c1,c2,c3,c4,c5,c7,c8,c9,c10]
+  rows: 4a | 6a | 2a 2a 2a | 3a 2b 3a | 2a 2a | 3a 3a | 2a 2a | 1a 1a | S:2a 2a | 6a | 3b 3b
+  cols: 2a | 7a 1b | 5a 2a 1b | 2a 1a 1a 1b | 3a 1b 1a | S:3a 1b 1a | 2a 1a 1a 1b | 5a 2a 1b | 7a 1b | 2a
+  no-stamp: needs stamp (1 unknown) looks 38
+  plain clues: looks 29 passes 7 open 21
+pb-r8c6 10x11 OK looks 38 passes 11 open 19 search 62.2 first[r1,r2,r3,r4,r5,r6,r7,r8,r10,r11,c1,c2,c3,c4,c5,c6,c8,c9,c10]
+  rows: 4a | 6a | 2a 2a 2a | 3a 2b 3a | 2a 2a | 3a 3a | 2a 2a | 1a 1a | S:2a 2a | 6a | 3b 3b
+  cols: 2a | 7a 1b | 5a 2a 1b | 2a 1a 1a 1b | 3a 1b 1a | 3a 1b 1a | S:2a 1a 1a 1b | 5a 2a 1b | 7a 1b | 2a
+  no-stamp: needs stamp (14 unknown) looks 39
+  plain clues: looks 32 passes 7 open 21
+    ...####...
+    .?#####?..
+    .##.##.?#?
+    .#####?##?
+    .##....?#?
+    ###...?##?
+    ##.....?#?
+    .#......#.
+    .?#....##.
+    ..######..
+    .###..###.
+pb-r8c7 10x11 BAD(13) looks 39 passes 11 open 19 search 87.0 first[r1,r2,r3,r4,r5,r6,r7,r8,r10,r11,c1,c2,c3,c4,c5,c6,c7,c9,c10]
+  rows: 4a | 6a | 2a 2a 2a | 3a 2b 3a | 2a 2a | 3a 3a | 2a 2a | 1a 1a | S:2a 2a | 6a | 3b 3b
+  cols: 2a | 7a 1b | 5a 2a 1b | 2a 1a 1a 1b | 3a 1b 1a | 3a 1b 1a | 2a 1a 1a 1b | S:5a 2a 1b | 7a 1b | 2a
+  no-stamp: needs stamp (1 unknown) looks 40
+  plain clues: looks 31 passes 7 open 21
+pb-r8c8 10x11 OK looks 40 passes 11 open 19 search 69.3 first[r1,r2,r3,r4,r5,r6,r7,r8,r10,r11,c1,c2,c3,c4,c5,c6,c7,c8,c10]
+  rows: 4a | 6a | 2a 2a 2a | 3a 2b 3a | 2a 2a | 3a 3a | 2a 2a | 1a 1a | S:2a 2a | 6a | 3b 3b
+  cols: 2a | 7a 1b | 5a 2a 1b | 2a 1a 1a 1b | 3a 1b 1a | 3a 1b 1a | 2a 1a 1a 1b | 5a 2a 1b | S:7a 1b | 2a
+  no-stamp: needs stamp (10 unknown) looks 36
+  plain clues: looks 32 passes 7 open 21
+    ...####...
+    .?#####?..
+    .##.##.##.
+    .#####?##?
+    .##....##.
+    ###...?##?
+    ##.....?#?
+    .#......#.
+    .?#....##.
+    ..######..
+    .###..###.
+pb-r8c9 10x11 BAD(9) looks 36 passes 11 open 19 search 72.8 first[r1,r2,r3,r4,r5,r6,r7,r8,r10,r11,c1,c2,c3,c4,c5,c6,c7,c8,c9]
+  rows: 4a | 6a | 2a 2a 2a | 3a 2b 3a | 2a 2a | 3a 3a | 2a 2a | 1a 1a | S:2a 2a | 6a | 3b 3b
+  cols: 2a | 7a 1b | 5a 2a 1b | 2a 1a 1a 1b | 3a 1b 1a | 3a 1b 1a | 2a 1a 1a 1b | 5a 2a 1b | 7a 1b | S:2a
+  no-stamp: needs stamp (15 unknown) looks 36
+  plain clues: looks 31 passes 7 open 21
+    ...####...
+    ..?#####?.
+    .##.##.##.
+    ?##?#####.
+    .##....##.
+    ?##?...###
+    ?#?.....##
+    .#......#.
+    .##...?#?.
+    ..#?##?#..
+    ?##?..###.
+pb-r9c0 10x11 BAD(14) looks 36 passes 10 open 19 search 70.6 first[r1,r2,r3,r4,r5,r6,r7,r8,r9,r11,c2,c3,c4,c5,c6,c7,c8,c9,c10]
+  rows: 4a | 6a | 2a 2a 2a | 3a 2b 3a | 2a 2a | 3a 3a | 2a 2a | 1a 1a | 2a 2a | S:6a | 3b 3b
+  cols: S:2a | 7a 1b | 5a 2a 1b | 2a 1a 1a 1b | 3a 1b 1a | 3a 1b 1a | 2a 1a 1a 1b | 5a 2a 1b | 7a 1b | 2a
+  no-stamp: needs stamp (19 unknown) looks 43
+  plain clues: looks 35 passes 7 open 21
+    ...####...
+    ..######..
+    .##.##.##.
+    .########.
+    .##....##.
+    ??#??..###
+    ##......##
+    ???????.#.
+    .?#?...##.
+    ..?????#..
+    .###..###.
+pb-r9c1 10x11 BAD(18) looks 43 passes 12 open 19 search 98.2 first[r1,r2,r3,r4,r5,r6,r7,r8,r9,r11,c1,c3,c4,c5,c6,c7,c8,c9,c10]
+  rows: 4a | 6a | 2a 2a 2a | 3a 2b 3a | 2a 2a | 3a 3a | 2a 2a | 1a 1a | 2a 2a | S:6a | 3b 3b
+  cols: 2a | S:7a 1b | 5a 2a 1b | 2a 1a 1a 1b | 3a 1b 1a | 3a 1b 1a | 2a 1a 1a 1b | 5a 2a 1b | 7a 1b | 2a
+  no-stamp: needs stamp (20 unknown) looks 45
+  plain clues: looks 35 passes 7 open 21
+    ...####...
+    ..?#####?.
+    ?#?.##.##.
+    ?##?#####.
+    ?#?....##.
+    ?##?...###
+    ?#?.....##
+    .#......#.
+    ?#?...?#?.
+    ?.#?##?#..
+    .###..###.
+pb-r9c2 10x11 BAD(19) looks 45 passes 11 open 19 search 120.4 first[r1,r2,r3,r4,r5,r6,r7,r8,r9,r11,c1,c2,c4,c5,c6,c7,c8,c9,c10]
+  rows: 4a | 6a | 2a 2a 2a | 3a 2b 3a | 2a 2a | 3a 3a | 2a 2a | 1a 1a | 2a 2a | S:6a | 3b 3b
+  cols: 2a | 7a 1b | S:5a 2a 1b | 2a 1a 1a 1b | 3a 1b 1a | 3a 1b 1a | 2a 1a 1a 1b | 5a 2a 1b | 7a 1b | 2a
+  no-stamp: needs stamp (1 unknown) looks 39
+  plain clues: looks 32 passes 7 open 21
+pb-r9c3 10x11 OK looks 39 passes 11 open 19 search 55.6 first[r1,r2,r3,r4,r5,r6,r7,r8,r9,r11,c1,c2,c3,c5,c6,c7,c8,c9,c10]
+  rows: 4a | 6a | 2a 2a 2a | 3a 2b 3a | 2a 2a | 3a 3a | 2a 2a | 1a 1a | 2a 2a | S:6a | 3b 3b
+  cols: 2a | 7a 1b | 5a 2a 1b | S:2a 1a 1a 1b | 3a 1b 1a | 3a 1b 1a | 2a 1a 1a 1b | 5a 2a 1b | 7a 1b | 2a
+  no-stamp: needs stamp (4 unknown) looks 40
+  plain clues: looks 35 passes 7 open 21
+    ...####...
+    ..######..
+    .##.##.##.
+    .########.
+    .##....##.
+    ###....###
+    ##......##
+    .#......#.
+    .##....##.
+    .?######..
+    .?##?.###.
+pb-r9c4 10x11 BAD(3) looks 40 passes 11 open 19 search 63.5 first[r1,r2,r3,r4,r5,r6,r7,r8,r9,r11,c1,c2,c3,c4,c6,c7,c8,c9,c10]
+  rows: 4a | 6a | 2a 2a 2a | 3a 2b 3a | 2a 2a | 3a 3a | 2a 2a | 1a 1a | 2a 2a | S:6a | 3b 3b
+  cols: 2a | 7a 1b | 5a 2a 1b | 2a 1a 1a 1b | S:3a 1b 1a | 3a 1b 1a | 2a 1a 1a 1b | 5a 2a 1b | 7a 1b | 2a
+  no-stamp: needs stamp (4 unknown) looks 39
+  plain clues: looks 35 passes 7 open 21
+    ...####...
+    ..######..
+    .##.##.##.
+    .########.
+    .##....##.
+    ###....###
+    ##......##
+    .#......#.
+    .##....##.
+    ..######?.
+    .###.?##?.
+pb-r9c5 10x11 BAD(3) looks 39 passes 11 open 19 search 62.4 first[r1,r2,r3,r4,r5,r6,r7,r8,r9,r11,c1,c2,c3,c4,c5,c7,c8,c9,c10]
+  rows: 4a | 6a | 2a 2a 2a | 3a 2b 3a | 2a 2a | 3a 3a | 2a 2a | 1a 1a | 2a 2a | S:6a | 3b 3b
+  cols: 2a | 7a 1b | 5a 2a 1b | 2a 1a 1a 1b | 3a 1b 1a | S:3a 1b 1a | 2a 1a 1a 1b | 5a 2a 1b | 7a 1b | 2a
+  no-stamp: needs stamp (1 unknown) looks 39
+  plain clues: looks 31 passes 7 open 21
+pb-r9c6 10x11 OK looks 39 passes 11 open 19 search 56.4 first[r1,r2,r3,r4,r5,r6,r7,r8,r9,r11,c1,c2,c3,c4,c5,c6,c8,c9,c10]
+  rows: 4a | 6a | 2a 2a 2a | 3a 2b 3a | 2a 2a | 3a 3a | 2a 2a | 1a 1a | 2a 2a | S:6a | 3b 3b
+  cols: 2a | 7a 1b | 5a 2a 1b | 2a 1a 1a 1b | 3a 1b 1a | 3a 1b 1a | S:2a 1a 1a 1b | 5a 2a 1b | 7a 1b | 2a
+  no-stamp: needs stamp (20 unknown) looks 41
+  plain clues: looks 35 passes 7 open 21
+    ...####...
+    .?#####?..
+    .##.##.?#?
+    .#####?##?
+    .##....?#?
+    ###...?##?
+    ##.....?#?
+    .#......#.
+    .?#?...?#?
+    ..#?##?#.?
+    .###..###.
+pb-r9c7 10x11 BAD(19) looks 41 passes 11 open 19 search 104.9 first[r1,r2,r3,r4,r5,r6,r7,r8,r9,r11,c1,c2,c3,c4,c5,c6,c7,c9,c10]
+  rows: 4a | 6a | 2a 2a 2a | 3a 2b 3a | 2a 2a | 3a 3a | 2a 2a | 1a 1a | 2a 2a | S:6a | 3b 3b
+  cols: 2a | 7a 1b | 5a 2a 1b | 2a 1a 1a 1b | 3a 1b 1a | 3a 1b 1a | 2a 1a 1a 1b | S:5a 2a 1b | 7a 1b | 2a
+  no-stamp: needs stamp (19 unknown) looks 41
+  plain clues: looks 35 passes 7 open 21
+    ...####...
+    ..######..
+    .##.##.##.
+    .########.
+    .##....##.
+    ###..??#??
+    ##......##
+    .#.???????
+    .##...?#?.
+    ..#?????..
+    .###..###.
+pb-r9c8 10x11 BAD(18) looks 41 passes 12 open 19 search 95.7 first[r1,r2,r3,r4,r5,r6,r7,r8,r9,r11,c1,c2,c3,c4,c5,c6,c7,c8,c10]
+  rows: 4a | 6a | 2a 2a 2a | 3a 2b 3a | 2a 2a | 3a 3a | 2a 2a | 1a 1a | 2a 2a | S:6a | 3b 3b
+  cols: 2a | 7a 1b | 5a 2a 1b | 2a 1a 1a 1b | 3a 1b 1a | 3a 1b 1a | 2a 1a 1a 1b | 5a 2a 1b | S:7a 1b | 2a
+  no-stamp: needs stamp (15 unknown) looks 36
+  plain clues: looks 32 passes 7 open 21
+    ...####...
+    .?#####?..
+    .##.##.##.
+    .#####?##?
+    .##....##.
+    ###...?##?
+    ##.....?#?
+    .#......#.
+    .?#?...##.
+    ..#?##?#..
+    .###..?##?
+pb-r9c9 10x11 BAD(14) looks 36 passes 10 open 19 search 67.7 first[r1,r2,r3,r4,r5,r6,r7,r8,r9,r11,c1,c2,c3,c4,c5,c6,c7,c8,c9]
+  rows: 4a | 6a | 2a 2a 2a | 3a 2b 3a | 2a 2a | 3a 3a | 2a 2a | 1a 1a | 2a 2a | S:6a | 3b 3b
+  cols: 2a | 7a 1b | 5a 2a 1b | 2a 1a 1a 1b | 3a 1b 1a | 3a 1b 1a | 2a 1a 1a 1b | 5a 2a 1b | 7a 1b | S:2a
+  no-stamp: needs stamp (5 unknown) looks 35
+  plain clues: looks 31 passes 7 open 21
+    ...####...
+    ..######..
+    .##.##.##.
+    ?##?#####.
+    .##....##.
+    ?##?...###
+    ##......##
+    .#......#.
+    .##....##.
+    ..######..
+    .###..###.
+pb-r10c0 10x11 BAD(4) looks 35 passes 10 open 19 search 70.1 first[r1,r2,r3,r4,r5,r6,r7,r8,r9,r10,c2,c3,c4,c5,c6,c7,c8,c9,c10]
+  rows: 4a | 6a | 2a 2a 2a | 3a 2b 3a | 2a 2a | 3a 3a | 2a 2a | 1a 1a | 2a 2a | 6a | S:3b 3b
+  cols: S:2a | 7a 1b | 5a 2a 1b | 2a 1a 1a 1b | 3a 1b 1a | 3a 1b 1a | 2a 1a 1a 1b | 5a 2a 1b | 7a 1b | 2a
+  no-stamp: needs stamp (1 unknown) looks 43
+  plain clues: looks 30 passes 7 open 21
+pb-r10c1 10x11 OK looks 43 passes 10 open 19 search 67.0 first[r1,r2,r3,r4,r5,r6,r7,r8,r9,r10,c1,c3,c4,c5,c6,c7,c8,c9,c10]
+  rows: 4a | 6a | 2a 2a 2a | 3a 2b 3a | 2a 2a | 3a 3a | 2a 2a | 1a 1a | 2a 2a | 6a | S:3b 3b
+  cols: 2a | S:7a 1b | 5a 2a 1b | 2a 1a 1a 1b | 3a 1b 1a | 3a 1b 1a | 2a 1a 1a 1b | 5a 2a 1b | 7a 1b | 2a
+  no-stamp: needs stamp (11 unknown) looks 36
+  plain clues: looks 32 passes 7 open 21
+    ...####...
+    ..######..
+    ?#?.##.##.
+    ?##?#####.
+    ?#?....##.
+    ?##?...###
+    ?#?.....##
+    .#......#.
+    .##....##.
+    ..######..
+    .###..###.
+pb-r10c2 10x11 BAD(10) looks 36 passes 8 open 19 search 68.3 first[r1,r2,r3,r4,r5,r6,r7,r8,r9,r10,c1,c2,c4,c5,c6,c7,c8,c9,c10]
+  rows: 4a | 6a | 2a 2a 2a | 3a 2b 3a | 2a 2a | 3a 3a | 2a 2a | 1a 1a | 2a 2a | 6a | S:3b 3b
+  cols: 2a | 7a 1b | S:5a 2a 1b | 2a 1a 1a 1b | 3a 1b 1a | 3a 1b 1a | 2a 1a 1a 1b | 5a 2a 1b | 7a 1b | 2a
+  no-stamp: needs stamp (1 unknown) looks 36
+  plain clues: looks 31 passes 7 open 21
+pb-r10c3 10x11 OK looks 36 passes 10 open 19 search 48.1 first[r1,r2,r3,r4,r5,r6,r7,r8,r9,r10,c1,c2,c3,c5,c6,c7,c8,c9,c10]
+  rows: 4a | 6a | 2a 2a 2a | 3a 2b 3a | 2a 2a | 3a 3a | 2a 2a | 1a 1a | 2a 2a | 6a | S:3b 3b
+  cols: 2a | 7a 1b | 5a 2a 1b | S:2a 1a 1a 1b | 3a 1b 1a | 3a 1b 1a | 2a 1a 1a 1b | 5a 2a 1b | 7a 1b | 2a
+  no-stamp: needs stamp (1 unknown) looks 31
+  plain clues: looks 33 passes 7 open 21
+pb-r10c4 10x11 OK looks 31 passes 7 open 19 search 41.9 first[r1,r2,r3,r4,r5,r6,r7,r8,r9,r10,c1,c2,c3,c4,c6,c7,c8,c9,c10]
+  rows: 4a | 6a | 2a 2a 2a | 3a 2b 3a | 2a 2a | 3a 3a | 2a 2a | 1a 1a | 2a 2a | 6a | S:3b 3b
+  cols: 2a | 7a 1b | 5a 2a 1b | 2a 1a 1a 1b | S:3a 1b 1a | 3a 1b 1a | 2a 1a 1a 1b | 5a 2a 1b | 7a 1b | 2a
+  no-stamp: needs stamp (1 unknown) looks 31
+  plain clues: looks 35 passes 7 open 21
+pb-r10c5 10x11 OK looks 31 passes 7 open 19 search 41.9 first[r1,r2,r3,r4,r5,r6,r7,r8,r9,r10,c1,c2,c3,c4,c5,c7,c8,c9,c10]
+  rows: 4a | 6a | 2a 2a 2a | 3a 2b 3a | 2a 2a | 3a 3a | 2a 2a | 1a 1a | 2a 2a | 6a | S:3b 3b
+  cols: 2a | 7a 1b | 5a 2a 1b | 2a 1a 1a 1b | 3a 1b 1a | S:3a 1b 1a | 2a 1a 1a 1b | 5a 2a 1b | 7a 1b | 2a
+  no-stamp: needs stamp (1 unknown) looks 33
+  plain clues: looks 32 passes 7 open 21
+pb-r10c6 10x11 OK looks 33 passes 10 open 19 search 44.0 first[r1,r2,r3,r4,r5,r6,r7,r8,r9,r10,c1,c2,c3,c4,c5,c6,c8,c9,c10]
+  rows: 4a | 6a | 2a 2a 2a | 3a 2b 3a | 2a 2a | 3a 3a | 2a 2a | 1a 1a | 2a 2a | 6a | S:3b 3b
+  cols: 2a | 7a 1b | 5a 2a 1b | 2a 1a 1a 1b | 3a 1b 1a | 3a 1b 1a | S:2a 1a 1a 1b | 5a 2a 1b | 7a 1b | 2a
+  no-stamp: needs stamp (11 unknown) looks 37
+  plain clues: looks 32 passes 7 open 21
+    ...####...
+    ..######..
+    .##.##.?#?
+    .#####?##?
+    .##....?#?
+    ###...?##?
+    ##.....?#?
+    .#......#.
+    .##....##.
+    ..######..
+    .###..###.
+pb-r10c7 10x11 BAD(10) looks 37 passes 8 open 19 search 92.0 first[r1,r2,r3,r4,r5,r6,r7,r8,r9,r10,c1,c2,c3,c4,c5,c6,c7,c9,c10]
+  rows: 4a | 6a | 2a 2a 2a | 3a 2b 3a | 2a 2a | 3a 3a | 2a 2a | 1a 1a | 2a 2a | 6a | S:3b 3b
+  cols: 2a | 7a 1b | 5a 2a 1b | 2a 1a 1a 1b | 3a 1b 1a | 3a 1b 1a | 2a 1a 1a 1b | S:5a 2a 1b | 7a 1b | 2a
+  no-stamp: needs stamp (1 unknown) looks 40
+  plain clues: looks 30 passes 7 open 21
+pb-r10c8 10x11 OK looks 40 passes 10 open 19 search 69.9 first[r1,r2,r3,r4,r5,r6,r7,r8,r9,r10,c1,c2,c3,c4,c5,c6,c7,c8,c10]
+  rows: 4a | 6a | 2a 2a 2a | 3a 2b 3a | 2a 2a | 3a 3a | 2a 2a | 1a 1a | 2a 2a | 6a | S:3b 3b
+  cols: 2a | 7a 1b | 5a 2a 1b | 2a 1a 1a 1b | 3a 1b 1a | 3a 1b 1a | 2a 1a 1a 1b | 5a 2a 1b | S:7a 1b | 2a
+  no-stamp: needs stamp (5 unknown) looks 34
+  plain clues: looks 31 passes 7 open 21
+    ...####...
+    ..######..
+    .##.##.##.
+    .#####?##?
+    .##....##.
+    ###...?##?
+    ##......##
+    .#......#.
+    .##....##.
+    ..######..
+    .###..###.
+pb-r10c9 10x11 BAD(4) looks 34 passes 10 open 19 search 55.2 first[r1,r2,r3,r4,r5,r6,r7,r8,r9,r10,c1,c2,c3,c4,c5,c6,c7,c8,c9]
+  rows: 4a | 6a | 2a 2a 2a | 3a 2b 3a | 2a 2a | 3a 3a | 2a 2a | 1a 1a | 2a 2a | 6a | S:3b 3b
+  cols: 2a | 7a 1b | 5a 2a 1b | 2a 1a 1a 1b | 3a 1b 1a | 3a 1b 1a | 2a 1a 1a 1b | 5a 2a 1b | 7a 1b | S:2a
+  no-stamp: needs stamp (1 unknown) looks 35
+  plain clues: looks 36 passes 9 open 22
+pc-r0c0 11x11 OK looks 35 passes 11 open 20 search 46.8 first[r2,r3,r4,r5,r6,r7,r8,r9,r10,r11,c2,c3,c4,c5,c6,c7,c8,c9,c10,c11]
+  rows: S:4a | 6a | 1a 4a 2b | 6a | 2a 3a | 2a 2a | 3a 3a | 2a 2a | 2a 2a | 4a | 2b 2b
+  cols: S:1a | 3a | 8a 1b | 2a 2a 2a 1b | 4a 1a | 4a 1a | 5a 2a 1b | 8a 1b | 1b 4a | 1b 1a | 
+  no-stamp: needs stamp (37 unknown) looks 29
+  plain clues: looks 34 passes 8 open 22
+    ?.?##???...
+    ??####??...
+    ..#.######.
+    ..######...
+    ..##.?##?..
+    .##...?#?..
+    ??#??.?##?.
+    .?#?...##..
+    ??????#???.
+    ...???#???.
+    ..##..##...
+pc-r0c1 11x11 BAD(36) looks 29 passes 6 open 20 search 87.9 first[r2,r3,r4,r5,r6,r7,r8,r9,r10,r11,c1,c3,c4,c5,c6,c7,c8,c9,c10,c11]
+  rows: S:4a | 6a | 1a 4a 2b | 6a | 2a 3a | 2a 2a | 3a 3a | 2a 2a | 2a 2a | 4a | 2b 2b
+  cols: 1a | S:3a | 8a 1b | 2a 2a 2a 1b | 4a 1a | 4a 1a | 5a 2a 1b | 8a 1b | 1b 4a | 1b 1a | 
+  no-stamp: needs stamp (69 unknown) looks 25
+  plain clues: looks 31 passes 7 open 22
+    ??.#????...
+    ??####??...
+    ???.######.
+    ..??####??.
+    ??????##?..
+    ???????#?..
+    ???????##?.
+    ???????#?..
+    ??????????.
+    ??????????.
+    ..##..##...
+pc-r0c2 11x11 BAD(68) looks 25 passes 4 open 20 search 51.2 first[r2,r3,r4,r5,r6,r7,r8,r9,r10,r11,c1,c2,c4,c5,c6,c7,c8,c9,c10,c11]
+  rows: S:4a | 6a | 1a 4a 2b | 6a | 2a 3a | 2a 2a | 3a 3a | 2a 2a | 2a 2a | 4a | 2b 2b
+  cols: 1a | 3a | S:8a 1b | 2a 2a 2a 1b | 4a 1a | 4a 1a | 5a 2a 1b | 8a 1b | 1b 4a | 1b 1a | 
+  no-stamp: needs stamp (15 unknown) looks 33
+  plain clues: looks 36 passes 9 open 22
+    ?.?####....
+    ..######...
+    ..#.######.
+    ..######...
+    .?#?..###..
+    .?#?...##..
+    ?##?...###.
+    .?#?...##..
+    ????..##...
+    ...####....
+    ..##..##...
+pc-r0c3 11x11 BAD(14) looks 33 passes 11 open 20 search 63.7 first[r2,r3,r4,r5,r6,r7,r8,r9,r10,r11,c1,c2,c3,c5,c6,c7,c8,c9,c10,c11]
+  rows: S:4a | 6a | 1a 4a 2b | 6a | 2a 3a | 2a 2a | 3a 3a | 2a 2a | 2a 2a | 4a | 2b 2b
+  cols: 1a | 3a | 8a 1b | S:2a 2a 2a 1b | 4a 1a | 4a 1a | 5a 2a 1b | 8a 1b | 1b 4a | 1b 1a | 
+  no-stamp: needs stamp (4 unknown) looks 35
+  plain clues: looks 36 passes 9 open 22
+    ..?####....
+    ..######...
+    ..#.######.
+    ..######...
+    ..##..###..
+    .##....##..
+    ###....###.
+    .##....##..
+    ..?#?.##...
+    ...####....
+    ..##..##...
+pc-r0c4 11x11 BAD(3) looks 35 passes 11 open 20 search 50.1 first[r2,r3,r4,r5,r6,r7,r8,r9,r10,r11,c1,c2,c3,c4,c6,c7,c8,c9,c10,c11]
+  rows: S:4a | 6a | 1a 4a 2b | 6a | 2a 3a | 2a 2a | 3a 3a | 2a 2a | 2a 2a | 4a | 2b 2b
+  cols: 1a | 3a | 8a 1b | 2a 2a 2a 1b | S:4a 1a | 4a 1a | 5a 2a 1b | 8a 1b | 1b 4a | 1b 1a | 
+  no-stamp: needs stamp (4 unknown) looks 34
+  plain clues: looks 34 passes 7 open 22
+    ...####?...
+    ..######...
+    ..#.######.
+    ..######...
+    ..##..###..
+    .##....##..
+    ###....###.
+    .##....##..
+    ..##.?#?...
+    ...####....
+    ..##..##...
+pc-r0c5 11x11 BAD(3) looks 34 passes 10 open 20 search 49.6 first[r2,r3,r4,r5,r6,r7,r8,r9,r10,r11,c1,c2,c3,c4,c5,c7,c8,c9,c10,c11]
+  rows: S:4a | 6a | 1a 4a 2b | 6a | 2a 3a | 2a 2a | 3a 3a | 2a 2a | 2a 2a | 4a | 2b 2b
+  cols: 1a | 3a | 8a 1b | 2a 2a 2a 1b | 4a 1a | S:4a 1a | 5a 2a 1b | 8a 1b | 1b 4a | 1b 1a | 
+  no-stamp: needs stamp (13 unknown) looks 33
+  plain clues: looks 30 passes 7 open 22
+    ...##?#?...
+    ..######...
+    ..#.######.
+    ..######...
+    ..##.??#??.
+    .##....##..
+    ###...?##?.
+    .##....##..
+    ..##..????.
+    ...####....
+    ..##..##...
+pc-r0c6 11x11 BAD(12) looks 33 passes 9 open 20 search 56.4 first[r2,r3,r4,r5,r6,r7,r8,r9,r10,r11,c1,c2,c3,c4,c5,c6,c8,c9,c10,c11]
+  rows: S:4a | 6a | 1a 4a 2b | 6a | 2a 3a | 2a 2a | 3a 3a | 2a 2a | 2a 2a | 4a | 2b 2b
+  cols: 1a | 3a | 8a 1b | 2a 2a 2a 1b | 4a 1a | 4a 1a | S:5a 2a 1b | 8a 1b | 1b 4a | 1b 1a | 
+  no-stamp: needs stamp (1 unknown) looks 38
+  plain clues: looks 36 passes 9 open 22
+pc-r0c7 11x11 OK looks 38 passes 11 open 20 search 51.8 first[r2,r3,r4,r5,r6,r7,r8,r9,r10,r11,c1,c2,c3,c4,c5,c6,c7,c9,c10,c11]
+  rows: S:4a | 6a | 1a 4a 2b | 6a | 2a 3a | 2a 2a | 3a 3a | 2a 2a | 2a 2a | 4a | 2b 2b
+  cols: 1a | 3a | 8a 1b | 2a 2a 2a 1b | 4a 1a | 4a 1a | 5a 2a 1b | S:8a 1b | 1b 4a | 1b 1a | 
+  no-stamp: needs stamp (20 unknown) looks 32
+  plain clues: looks 36 passes 9 open 22
+    ...##???...
+    ..?#####?..
+    ..#.######.
+    ..######...
+    ..##.?##?..
+    .##...?#?..
+    ###...?##?.
+    .##...?#?..
+    ..##..????.
+    ..?###?....
+    ..##..##...
+pc-r0c8 11x11 BAD(19) looks 32 passes 9 open 20 search 76.7 first[r2,r3,r4,r5,r6,r7,r8,r9,r10,r11,c1,c2,c3,c4,c5,c6,c7,c8,c10,c11]
+  rows: S:4a | 6a | 1a 4a 2b | 6a | 2a 3a | 2a 2a | 3a 3a | 2a 2a | 2a 2a | 4a | 2b 2b
+  cols: 1a | 3a | 8a 1b | 2a 2a 2a 1b | 4a 1a | 4a 1a | 5a 2a 1b | 8a 1b | S:1b 4a | 1b 1a | 
+  no-stamp: needs stamp (1 unknown) looks 35
+  plain clues: looks 34 passes 9 open 22
+pc-r0c9 11x11 OK looks 35 passes 11 open 20 search 43.2 first[r2,r3,r4,r5,r6,r7,r8,r9,r10,r11,c1,c2,c3,c4,c5,c6,c7,c8,c9,c11]
+  rows: S:4a | 6a | 1a 4a 2b | 6a | 2a 3a | 2a 2a | 3a 3a | 2a 2a | 2a 2a | 4a | 2b 2b
+  cols: 1a | 3a | 8a 1b | 2a 2a 2a 1b | 4a 1a | 4a 1a | 5a 2a 1b | 8a 1b | 1b 4a | S:1b 1a | 
+  no-stamp: needs stamp (4 unknown) looks 40
+  plain clues: looks 36 passes 9 open 22
+    ...####.?..
+    ..######...
+    ..#.####?#?
+    ..######...
+    ..##..###..
+    .##....##..
+    ###....###.
+    .##....##..
+    ..##..##...
+    ...####....
+    ..##..##...
+pc-r0c10 11x11 BAD(3) looks 40 passes 11 open 20 search 65.7 first[r2,r3,r4,r5,r6,r7,r8,r9,r10,r11,c1,c2,c3,c4,c5,c6,c7,c8,c9,c10]
+  rows: S:4a | 6a | 1a 4a 2b | 6a | 2a 3a | 2a 2a | 3a 3a | 2a 2a | 2a 2a | 4a | 2b 2b
+  cols: 1a | 3a | 8a 1b | 2a 2a 2a 1b | 4a 1a | 4a 1a | 5a 2a 1b | 8a 1b | 1b 4a | 1b 1a | S:
+  no-stamp: needs stamp (1 unknown) looks 39
+  plain clues: looks 35 passes 9 open 22
+pc-r1c0 11x11 OK looks 39 passes 10 open 20 search 54.5 first[r1,r3,r4,r5,r6,r7,r8,r9,r10,r11,c2,c3,c4,c5,c6,c7,c8,c9,c10,c11]
+  rows: 4a | S:6a | 1a 4a 2b | 6a | 2a 3a | 2a 2a | 3a 3a | 2a 2a | 2a 2a | 4a | 2b 2b
+  cols: S:1a | 3a | 8a 1b | 2a 2a 2a 1b | 4a 1a | 4a 1a | 5a 2a 1b | 8a 1b | 1b 4a | 1b 1a | 
+  no-stamp: needs stamp (11 unknown) looks 37
+  plain clues: looks 35 passes 7 open 22
+    ...####....
+    ?.#####?...
+    ..#.######.
+    ..######...
+    ..##..###..
+    .##....##..
+    ?##?...###.
+    .?#?...##..
+    .?#?..##...
+    ...?###?...
+    ..##..##...
+pc-r1c1 11x11 BAD(10) looks 37 passes 12 open 20 search 73.6 first[r1,r3,r4,r5,r6,r7,r8,r9,r10,r11,c1,c3,c4,c5,c6,c7,c8,c9,c10,c11]
+  rows: 4a | S:6a | 1a 4a 2b | 6a | 2a 3a | 2a 2a | 3a 3a | 2a 2a | 2a 2a | 4a | 2b 2b
+  cols: 1a | S:3a | 8a 1b | 2a 2a 2a 1b | 4a 1a | 4a 1a | 5a 2a 1b | 8a 1b | 1b 4a | 1b 1a | 
+  no-stamp: needs stamp (69 unknown) looks 25
+  plain clues: looks 31 passes 9 open 22
+    ???#???....
+    ??##????...
+    ???.######.
+    ..??####??.
+    ??????##?..
+    ???????#?..
+    ???????##?.
+    ???????#?..
+    ???????#?..
+    ??????????.
+    ..##..##...
+pc-r1c2 11x11 BAD(68) looks 25 passes 6 open 20 search 52.1 first[r1,r3,r4,r5,r6,r7,r8,r9,r10,r11,c1,c2,c4,c5,c6,c7,c8,c9,c10,c11]
+  rows: 4a | S:6a | 1a 4a 2b | 6a | 2a 3a | 2a 2a | 3a 3a | 2a 2a | 2a 2a | 4a | 2b 2b
+  cols: 1a | 3a | S:8a 1b | 2a 2a 2a 1b | 4a 1a | 4a 1a | 5a 2a 1b | 8a 1b | 1b 4a | 1b 1a | 
+  no-stamp: needs stamp (15 unknown) looks 36
+  plain clues: looks 36 passes 9 open 22
+    ...####....
+    ?.#####?...
+    ..#.######.
+    ..######...
+    .?#?..###..
+    .?#?...##..
+    ?##?...###.
+    .?#?...##..
+    .?#?..##...
+    ...?###?...
+    ..##..##...
+pc-r1c3 11x11 BAD(14) looks 36 passes 12 open 20 search 79.4 first[r1,r3,r4,r5,r6,r7,r8,r9,r10,r11,c1,c2,c3,c5,c6,c7,c8,c9,c10,c11]
+  rows: 4a | S:6a | 1a 4a 2b | 6a | 2a 3a | 2a 2a | 3a 3a | 2a 2a | 2a 2a | 4a | 2b 2b
+  cols: 1a | 3a | 8a 1b | S:2a 2a 2a 1b | 4a 1a | 4a 1a | 5a 2a 1b | 8a 1b | 1b 4a | 1b 1a | 
+  no-stamp: needs stamp (1 unknown) looks 39
+  plain clues: looks 36 passes 9 open 22
+pc-r1c4 11x11 OK looks 39 passes 12 open 20 search 51.6 first[r1,r3,r4,r5,r6,r7,r8,r9,r10,r11,c1,c2,c3,c4,c6,c7,c8,c9,c10,c11]
+  rows: 4a | S:6a | 1a 4a 2b | 6a | 2a 3a | 2a 2a | 3a 3a | 2a 2a | 2a 2a | 4a | 2b 2b
+  cols: 1a | 3a | 8a 1b | 2a 2a 2a 1b | S:4a 1a | 4a 1a | 5a 2a 1b | 8a 1b | 1b 4a | 1b 1a | 
+  no-stamp: needs stamp (1 unknown) looks 38
+  plain clues: looks 36 passes 9 open 22
+pc-r1c5 11x11 OK looks 38 passes 10 open 20 search 51.3 first[r1,r3,r4,r5,r6,r7,r8,r9,r10,r11,c1,c2,c3,c4,c5,c7,c8,c9,c10,c11]
+  rows: 4a | S:6a | 1a 4a 2b | 6a | 2a 3a | 2a 2a | 3a 3a | 2a 2a | 2a 2a | 4a | 2b 2b
+  cols: 1a | 3a | 8a 1b | 2a 2a 2a 1b | 4a 1a | S:4a 1a | 5a 2a 1b | 8a 1b | 1b 4a | 1b 1a | 
+  no-stamp: needs stamp (8 unknown) looks 37
+  plain clues: looks 35 passes 9 open 22
+    ...####....
+    ..?#####...
+    ..#.######.
+    ..######...
+    ..##..?##?.
+    .##....##..
+    ###...?##?.
+    .##....##..
+    ..##..##...
+    ..?###?....
+    ..##..##...
+pc-r1c6 11x11 BAD(7) looks 37 passes 12 open 20 search 66.1 first[r1,r3,r4,r5,r6,r7,r8,r9,r10,r11,c1,c2,c3,c4,c5,c6,c8,c9,c10,c11]
+  rows: 4a | S:6a | 1a 4a 2b | 6a | 2a 3a | 2a 2a | 3a 3a | 2a 2a | 2a 2a | 4a | 2b 2b
+  cols: 1a | 3a | 8a 1b | 2a 2a 2a 1b | 4a 1a | 4a 1a | S:5a 2a 1b | 8a 1b | 1b 4a | 1b 1a | 
+  no-stamp: needs stamp (1 unknown) looks 37
+  plain clues: looks 32 passes 7 open 22
+pc-r1c7 11x11 OK looks 37 passes 12 open 20 search 55.7 first[r1,r3,r4,r5,r6,r7,r8,r9,r10,r11,c1,c2,c3,c4,c5,c6,c7,c9,c10,c11]
+  rows: 4a | S:6a | 1a 4a 2b | 6a | 2a 3a | 2a 2a | 3a 3a | 2a 2a | 2a 2a | 4a | 2b 2b
+  cols: 1a | 3a | 8a 1b | 2a 2a 2a 1b | 4a 1a | 4a 1a | 5a 2a 1b | S:8a 1b | 1b 4a | 1b 1a | 
+  no-stamp: needs stamp (6 unknown) looks 43
+  plain clues: looks 35 passes 9 open 22
+    ...####....
+    ..?#####...
+    ..#.######.
+    ..######...
+    ..##..###..
+    .##....##..
+    ###....###.
+    .##...?#?..
+    ..##..##...
+    ..?###?....
+    ..##..##...
+pc-r1c8 11x11 BAD(5) looks 43 passes 14 open 20 search 100.5 first[r1,r3,r4,r5,r6,r7,r8,r9,r10,r11,c1,c2,c3,c4,c5,c6,c7,c8,c10,c11]
+  rows: 4a | S:6a | 1a 4a 2b | 6a | 2a 3a | 2a 2a | 3a 3a | 2a 2a | 2a 2a | 4a | 2b 2b
+  cols: 1a | 3a | 8a 1b | 2a 2a 2a 1b | 4a 1a | 4a 1a | 5a 2a 1b | 8a 1b | S:1b 4a | 1b 1a | 
+  no-stamp: needs stamp (1 unknown) looks 40
+  plain clues: looks 36 passes 9 open 22
+pc-r1c9 11x11 OK looks 40 passes 10 open 20 search 55.7 first[r1,r3,r4,r5,r6,r7,r8,r9,r10,r11,c1,c2,c3,c4,c5,c6,c7,c8,c9,c11]
+  rows: 4a | S:6a | 1a 4a 2b | 6a | 2a 3a | 2a 2a | 3a 3a | 2a 2a | 2a 2a | 4a | 2b 2b
+  cols: 1a | 3a | 8a 1b | 2a 2a 2a 1b | 4a 1a | 4a 1a | 5a 2a 1b | 8a 1b | 1b 4a | S:1b 1a | 
+  no-stamp: needs stamp (4 unknown) looks 37
+  plain clues: looks 36 passes 9 open 22
+    ...####....
+    ..######?..
+    ..#.####?#?
+    ..######...
+    ..##..###..
+    .##....##..
+    ###....###.
+    .##....##..
+    ..##..##...
+    ...####....
+    ..##..##...
+pc-r1c10 11x11 BAD(3) looks 37 passes 10 open 20 search 55.1 first[r1,r3,r4,r5,r6,r7,r8,r9,r10,r11,c1,c2,c3,c4,c5,c6,c7,c8,c9,c10]
+  rows: 4a | S:6a | 1a 4a 2b | 6a | 2a 3a | 2a 2a | 3a 3a | 2a 2a | 2a 2a | 4a | 2b 2b
+  cols: 1a | 3a | 8a 1b | 2a 2a 2a 1b | 4a 1a | 4a 1a | 5a 2a 1b | 8a 1b | 1b 4a | 1b 1a | S:
+  no-stamp: needs stamp (1 unknown) looks 41
+  plain clues: looks 37 passes 9 open 22
+pc-r2c0 11x11 OK looks 41 passes 11 open 20 search 58.5 first[r1,r2,r4,r5,r6,r7,r8,r9,r10,r11,c2,c3,c4,c5,c6,c7,c8,c9,c10,c11]
+  rows: 4a | 6a | S:1a 4a 2b | 6a | 2a 3a | 2a 2a | 3a 3a | 2a 2a | 2a 2a | 4a | 2b 2b
+  cols: S:1a | 3a | 8a 1b | 2a 2a 2a 1b | 4a 1a | 4a 1a | 5a 2a 1b | 8a 1b | 1b 4a | 1b 1a | 
+  no-stamp: needs stamp (12 unknown) looks 42
+  plain clues: looks 36 passes 8 open 22
+    ...####....
+    .?#####?...
+    ?.#.######.
+    ..######...
+    ..##..###..
+    .##....##..
+    ?##?...###.
+    .?#?...##..
+    .?#?..##...
+    ...?###?...
+    ..##..##...
+pc-r2c1 11x11 BAD(11) looks 42 passes 13 open 20 search 94.7 first[r1,r2,r4,r5,r6,r7,r8,r9,r10,r11,c1,c3,c4,c5,c6,c7,c8,c9,c10,c11]
+  rows: 4a | 6a | S:1a 4a 2b | 6a | 2a 3a | 2a 2a | 3a 3a | 2a 2a | 2a 2a | 4a | 2b 2b
+  cols: 1a | S:3a | 8a 1b | 2a 2a 2a 1b | 4a 1a | 4a 1a | 5a 2a 1b | 8a 1b | 1b 4a | 1b 1a | 
+  no-stamp: needs stamp (71 unknown) looks 25
+  plain clues: looks 37 passes 8 open 22
+    ????????...
+    ??####??...
+    ??#?######.
+    ..??####??.
+    ??????##?..
+    ???????#?..
+    ???????##?.
+    ???????#?..
+    ??????????.
+    ??????????.
+    ..##..##...
+pc-r2c2 11x11 BAD(70) looks 25 passes 3 open 20 search 67.5 first[r1,r2,r4,r5,r6,r7,r8,r9,r10,r11,c1,c2,c4,c5,c6,c7,c8,c9,c10,c11]
+  rows: 4a | 6a | S:1a 4a 2b | 6a | 2a 3a | 2a 2a | 3a 3a | 2a 2a | 2a 2a | 4a | 2b 2b
+  cols: 1a | 3a | S:8a 1b | 2a 2a 2a 1b | 4a 1a | 4a 1a | 5a 2a 1b | 8a 1b | 1b 4a | 1b 1a | 
+  no-stamp: needs stamp (44 unknown) looks 28
+  plain clues: looks 38 passes 9 open 22
+    .???#???...
+    ??####??...
+    ??#.######.
+    ..######...
+    .?#?.?##?..
+    .?#?..?#?..
+    ??#??.?##?.
+    .?#?...##..
+    ??????#???.
+    ...???#???.
+    ..##..##...
+pc-r2c3 11x11 BAD(43) looks 28 passes 5 open 20 search 71.5 first[r1,r2,r4,r5,r6,r7,r8,r9,r10,r11,c1,c2,c3,c5,c6,c7,c8,c9,c10,c11]
+  rows: 4a | 6a | S:1a 4a 2b | 6a | 2a 3a | 2a 2a | 3a 3a | 2a 2a | 2a 2a | 4a | 2b 2b
+  cols: 1a | 3a | 8a 1b | S:2a 2a 2a 1b | 4a 1a | 4a 1a | 5a 2a 1b | 8a 1b | 1b 4a | 1b 1a | 
+  no-stamp: needs stamp (1 unknown) looks 41
+  plain clues: looks 36 passes 9 open 22
+pc-r2c4 11x11 OK looks 41 passes 13 open 20 search 61.7 first[r1,r2,r4,r5,r6,r7,r8,r9,r10,r11,c1,c2,c3,c4,c6,c7,c8,c9,c10,c11]
+  rows: 4a | 6a | S:1a 4a 2b | 6a | 2a 3a | 2a 2a | 3a 3a | 2a 2a | 2a 2a | 4a | 2b 2b
+  cols: 1a | 3a | 8a 1b | 2a 2a 2a 1b | S:4a 1a | 4a 1a | 5a 2a 1b | 8a 1b | 1b 4a | 1b 1a | 
+  no-stamp: needs stamp (1 unknown) looks 43
+  plain clues: looks 36 passes 9 open 22
+pc-r2c5 11x11 OK looks 43 passes 11 open 20 search 61.3 first[r1,r2,r4,r5,r6,r7,r8,r9,r10,r11,c1,c2,c3,c4,c5,c7,c8,c9,c10,c11]
+  rows: 4a | 6a | S:1a 4a 2b | 6a | 2a 3a | 2a 2a | 3a 3a | 2a 2a | 2a 2a | 4a | 2b 2b
+  cols: 1a | 3a | 8a 1b | 2a 2a 2a 1b | 4a 1a | S:4a 1a | 5a 2a 1b | 8a 1b | 1b 4a | 1b 1a | 
+  no-stamp: needs stamp (5 unknown) looks 41
+  plain clues: looks 37 passes 9 open 22
+    ...####....
+    ..######...
+    ..#.######.
+    ..######...
+    ..##..?##?.
+    .##....##..
+    ###...?##?.
+    .##....##..
+    ..##..##...
+    ...####....
+    ..##..##...
+pc-r2c6 11x11 BAD(4) looks 41 passes 13 open 20 search 69.8 first[r1,r2,r4,r5,r6,r7,r8,r9,r10,r11,c1,c2,c3,c4,c5,c6,c8,c9,c10,c11]
+  rows: 4a | 6a | S:1a 4a 2b | 6a | 2a 3a | 2a 2a | 3a 3a | 2a 2a | 2a 2a | 4a | 2b 2b
+  cols: 1a | 3a | 8a 1b | 2a 2a 2a 1b | 4a 1a | 4a 1a | S:5a 2a 1b | 8a 1b | 1b 4a | 1b 1a | 
+  no-stamp: needs stamp (1 unknown) looks 44
+  plain clues: looks 38 passes 9 open 22
+pc-r2c7 11x11 OK looks 44 passes 12 open 20 search 63.4 first[r1,r2,r4,r5,r6,r7,r8,r9,r10,r11,c1,c2,c3,c4,c5,c6,c7,c9,c10,c11]
+  rows: 4a | 6a | S:1a 4a 2b | 6a | 2a 3a | 2a 2a | 3a 3a | 2a 2a | 2a 2a | 4a | 2b 2b
+  cols: 1a | 3a | 8a 1b | 2a 2a 2a 1b | 4a 1a | 4a 1a | 5a 2a 1b | S:8a 1b | 1b 4a | 1b 1a | 
+  no-stamp: needs stamp (7 unknown) looks 43
+  plain clues: looks 36 passes 9 open 22
+    ...####....
+    ..?#####?..
+    ..#.######.
+    ..######...
+    ..##..###..
+    .##....##..
+    ###....###.
+    .##...?#?..
+    ..##..##...
+    ..?###?....
+    ..##..##...
+pc-r2c8 11x11 BAD(6) looks 43 passes 15 open 20 search 109.0 first[r1,r2,r4,r5,r6,r7,r8,r9,r10,r11,c1,c2,c3,c4,c5,c6,c7,c8,c10,c11]
+  rows: 4a | 6a | S:1a 4a 2b | 6a | 2a 3a | 2a 2a | 3a 3a | 2a 2a | 2a 2a | 4a | 2b 2b
+  cols: 1a | 3a | 8a 1b | 2a 2a 2a 1b | 4a 1a | 4a 1a | 5a 2a 1b | 8a 1b | S:1b 4a | 1b 1a | 
+  no-stamp: needs stamp (1 unknown) looks 41
+  plain clues: looks 36 passes 9 open 22
+pc-r2c9 11x11 OK looks 41 passes 11 open 20 search 60.5 first[r1,r2,r4,r5,r6,r7,r8,r9,r10,r11,c1,c2,c3,c4,c5,c6,c7,c8,c9,c11]
+  rows: 4a | 6a | S:1a 4a 2b | 6a | 2a 3a | 2a 2a | 3a 3a | 2a 2a | 2a 2a | 4a | 2b 2b
+  cols: 1a | 3a | 8a 1b | 2a 2a 2a 1b | 4a 1a | 4a 1a | 5a 2a 1b | 8a 1b | 1b 4a | S:1b 1a | 
+  no-stamp: needs stamp (1 unknown) looks 42
+  plain clues: looks 36 passes 9 open 22
+pc-r2c10 11x11 OK looks 42 passes 11 open 20 search 61.7 first[r1,r2,r4,r5,r6,r7,r8,r9,r10,r11,c1,c2,c3,c4,c5,c6,c7,c8,c9,c10]
+  rows: 4a | 6a | S:1a 4a 2b | 6a | 2a 3a | 2a 2a | 3a 3a | 2a 2a | 2a 2a | 4a | 2b 2b
+  cols: 1a | 3a | 8a 1b | 2a 2a 2a 1b | 4a 1a | 4a 1a | 5a 2a 1b | 8a 1b | 1b 4a | 1b 1a | S:
+  no-stamp: needs stamp (1 unknown) looks 50
+  plain clues: looks 36 passes 9 open 22
+pc-r3c0 11x11 OK looks 50 passes 12 open 20 search 93.5 first[r1,r2,r3,r5,r6,r7,r8,r9,r10,r11,c2,c3,c4,c5,c6,c7,c8,c9,c10,c11]
+  rows: 4a | 6a | 1a 4a 2b | S:6a | 2a 3a | 2a 2a | 3a 3a | 2a 2a | 2a 2a | 4a | 2b 2b
+  cols: S:1a | 3a | 8a 1b | 2a 2a 2a 1b | 4a 1a | 4a 1a | 5a 2a 1b | 8a 1b | 1b 4a | 1b 1a | 
+  no-stamp: needs stamp (17 unknown) looks 44
+  plain clues: looks 36 passes 9 open 22
+    ...####....
+    .?#####?...
+    ..#.######.
+    ?.#?####...
+    .?#?..###..
+    .?#?...##..
+    ?##?...###.
+    .?#?...##..
+    .?#?..##...
+    ...?###?...
+    ..##..##...
+pc-r3c1 11x11 BAD(16) looks 44 passes 13 open 20 search 125.9 first[r1,r2,r3,r5,r6,r7,r8,r9,r10,r11,c1,c3,c4,c5,c6,c7,c8,c9,c10,c11]
+  rows: 4a | 6a | 1a 4a 2b | S:6a | 2a 3a | 2a 2a | 3a 3a | 2a 2a | 2a 2a | 4a | 2b 2b
+  cols: 1a | S:3a | 8a 1b | 2a 2a 2a 1b | 4a 1a | 4a 1a | 5a 2a 1b | 8a 1b | 1b 4a | 1b 1a | 
+  no-stamp: needs stamp (68 unknown) looks 27
+  plain clues: looks 37 passes 9 open 22
+    ???#???....
+    ??####??...
+    ???.######.
+    ??#?####??.
+    ??????##?..
+    ???????#?..
+    ???????##?.
+    ???????#?..
+    ???????#?..
+    ??????????.
+    ..##..##...
+pc-r3c2 11x11 BAD(67) looks 27 passes 6 open 20 search 68.8 first[r1,r2,r3,r5,r6,r7,r8,r9,r10,r11,c1,c2,c4,c5,c6,c7,c8,c9,c10,c11]
+  rows: 4a | 6a | 1a 4a 2b | S:6a | 2a 3a | 2a 2a | 3a 3a | 2a 2a | 2a 2a | 4a | 2b 2b
+  cols: 1a | 3a | S:8a 1b | 2a 2a 2a 1b | 4a 1a | 4a 1a | 5a 2a 1b | 8a 1b | 1b 4a | 1b 1a | 
+  no-stamp: needs stamp (12 unknown) looks 43
+  plain clues: looks 36 passes 9 open 22
+    ...####....
+    ..######...
+    ..#.######.
+    ?.######...
+    .?#?..###..
+    .?#?...##..
+    ?##?...###.
+    .?#?...##..
+    .?#?..##...
+    ...####....
+    ..##..##...
+pc-r3c3 11x11 BAD(11) looks 43 passes 12 open 20 search 89.8 first[r1,r2,r3,r5,r6,r7,r8,r9,r10,r11,c1,c2,c3,c5,c6,c7,c8,c9,c10,c11]
+  rows: 4a | 6a | 1a 4a 2b | S:6a | 2a 3a | 2a 2a | 3a 3a | 2a 2a | 2a 2a | 4a | 2b 2b
+  cols: 1a | 3a | 8a 1b | S:2a 2a 2a 1b | 4a 1a | 4a 1a | 5a 2a 1b | 8a 1b | 1b 4a | 1b 1a | 
+  no-stamp: needs stamp (1 unknown) looks 50
+  plain clues: looks 36 passes 9 open 22
+pc-r3c4 11x11 OK looks 50 passes 13 open 20 search 83.7 first[r1,r2,r3,r5,r6,r7,r8,r9,r10,r11,c1,c2,c3,c4,c6,c7,c8,c9,c10,c11]
+  rows: 4a | 6a | 1a 4a 2b | S:6a | 2a 3a | 2a 2a | 3a 3a | 2a 2a | 2a 2a | 4a | 2b 2b
+  cols: 1a | 3a | 8a 1b | 2a 2a 2a 1b | S:4a 1a | 4a 1a | 5a 2a 1b | 8a 1b | 1b 4a | 1b 1a | 
+  no-stamp: needs stamp (1 unknown) looks 50
+  plain clues: looks 36 passes 9 open 22
+pc-r3c5 11x11 OK looks 50 passes 13 open 20 search 91.9 first[r1,r2,r3,r5,r6,r7,r8,r9,r10,r11,c1,c2,c3,c4,c5,c7,c8,c9,c10,c11]
+  rows: 4a | 6a | 1a 4a 2b | S:6a | 2a 3a | 2a 2a | 3a 3a | 2a 2a | 2a 2a | 4a | 2b 2b
+  cols: 1a | 3a | 8a 1b | 2a 2a 2a 1b | 4a 1a | S:4a 1a | 5a 2a 1b | 8a 1b | 1b 4a | 1b 1a | 
+  no-stamp: needs stamp (9 unknown) looks 47
+  plain clues: looks 36 passes 9 open 22
+    ...####....
+    ..######...
+    ..#.######.
+    ..######??.
+    ..##..?##?.
+    .##....##..
+    ###...?##?.
+    .##...?#?..
+    ..##..##...
+    ...####....
+    ..##..##...
+pc-r3c6 11x11 BAD(8) looks 47 passes 13 open 20 search 104.3 first[r1,r2,r3,r5,r6,r7,r8,r9,r10,r11,c1,c2,c3,c4,c5,c6,c8,c9,c10,c11]
+  rows: 4a | 6a | 1a 4a 2b | S:6a | 2a 3a | 2a 2a | 3a 3a | 2a 2a | 2a 2a | 4a | 2b 2b
+  cols: 1a | 3a | 8a 1b | 2a 2a 2a 1b | 4a 1a | 4a 1a | S:5a 2a 1b | 8a 1b | 1b 4a | 1b 1a | 
+  no-stamp: needs stamp (15 unknown) looks 42
+  plain clues: looks 36 passes 9 open 22
+    ...####....
+    ..######...
+    ..#.######.
+    ?.#?####...
+    .?#?..###..
+    .?#?...##..
+    ?##?...###.
+    .?#?...##..
+    .?#?..##...
+    ...?###?...
+    ..##..##...
+pc-r3c7 11x11 BAD(14) looks 42 passes 12 open 20 search 90.0 first[r1,r2,r3,r5,r6,r7,r8,r9,r10,r11,c1,c2,c3,c4,c5,c6,c7,c9,c10,c11]
+  rows: 4a | 6a | 1a 4a 2b | S:6a | 2a 3a | 2a 2a | 3a 3a | 2a 2a | 2a 2a | 4a | 2b 2b
+  cols: 1a | 3a | 8a 1b | 2a 2a 2a 1b | 4a 1a | 4a 1a | 5a 2a 1b | S:8a 1b | 1b 4a | 1b 1a | 
+  no-stamp: needs stamp (12 unknown) looks 42
+  plain clues: looks 36 passes 9 open 22
+    ...####....
+    ..?#####?..
+    ..#.######.
+    ..######.?.
+    ..##..###..
+    .##....##..
+    ###...?##?.
+    .##...?#?..
+    ..##..?#?..
+    ..?###?....
+    ..##..##...
+pc-r3c8 11x11 BAD(11) looks 42 passes 16 open 20 search 111.7 first[r1,r2,r3,r5,r6,r7,r8,r9,r10,r11,c1,c2,c3,c4,c5,c6,c7,c8,c10,c11]
+  rows: 4a | 6a | 1a 4a 2b | S:6a | 2a 3a | 2a 2a | 3a 3a | 2a 2a | 2a 2a | 4a | 2b 2b
+  cols: 1a | 3a | 8a 1b | 2a 2a 2a 1b | 4a 1a | 4a 1a | 5a 2a 1b | 8a 1b | S:1b 4a | 1b 1a | 
+  no-stamp: needs stamp (1 unknown) looks 50
+  plain clues: looks 36 passes 9 open 22
+pc-r3c9 11x11 OK looks 50 passes 13 open 20 search 93.5 first[r1,r2,r3,r5,r6,r7,r8,r9,r10,r11,c1,c2,c3,c4,c5,c6,c7,c8,c9,c11]
+  rows: 4a | 6a | 1a 4a 2b | S:6a | 2a 3a | 2a 2a | 3a 3a | 2a 2a | 2a 2a | 4a | 2b 2b
+  cols: 1a | 3a | 8a 1b | 2a 2a 2a 1b | 4a 1a | 4a 1a | 5a 2a 1b | 8a 1b | 1b 4a | S:1b 1a | 
+  no-stamp: needs stamp (4 unknown) looks 46
+  plain clues: looks 36 passes 9 open 22
+    ...####....
+    ..######...
+    ..#.####?#?
+    ..######?..
+    ..##..###..
+    .##....##..
+    ###....###.
+    .##....##..
+    ..##..##...
+    ...####....
+    ..##..##...
+pc-r3c10 11x11 BAD(3) looks 46 passes 13 open 20 search 86.7 first[r1,r2,r3,r5,r6,r7,r8,r9,r10,r11,c1,c2,c3,c4,c5,c6,c7,c8,c9,c10]
+  rows: 4a | 6a | 1a 4a 2b | S:6a | 2a 3a | 2a 2a | 3a 3a | 2a 2a | 2a 2a | 4a | 2b 2b
+  cols: 1a | 3a | 8a 1b | 2a 2a 2a 1b | 4a 1a | 4a 1a | 5a 2a 1b | 8a 1b | 1b 4a | 1b 1a | S:
+  no-stamp: needs stamp (1 unknown) looks 38
+  plain clues: looks 36 passes 9 open 22
+pc-r4c0 11x11 OK looks 38 passes 9 open 20 search 55.8 first[r1,r2,r3,r4,r6,r7,r8,r9,r10,r11,c2,c3,c4,c5,c6,c7,c8,c9,c10,c11]
+  rows: 4a | 6a | 1a 4a 2b | 6a | S:2a 3a | 2a 2a | 3a 3a | 2a 2a | 2a 2a | 4a | 2b 2b
+  cols: S:1a | 3a | 8a 1b | 2a 2a 2a 1b | 4a 1a | 4a 1a | 5a 2a 1b | 8a 1b | 1b 4a | 1b 1a | 
+  no-stamp: needs stamp (12 unknown) looks 37
+  plain clues: looks 36 passes 9 open 22
+    ...####....
+    .?#####?...
+    ..#.######.
+    ..######...
+    ?.##..###..
+    .##....##..
+    ?##?...###.
+    .?#?...##..
+    .?#?..##...
+    ...?###?...
+    ..##..##...
+pc-r4c1 11x11 BAD(11) looks 37 passes 12 open 20 search 70.4 first[r1,r2,r3,r4,r6,r7,r8,r9,r10,r11,c1,c3,c4,c5,c6,c7,c8,c9,c10,c11]
+  rows: 4a | 6a | 1a 4a 2b | 6a | S:2a 3a | 2a 2a | 3a 3a | 2a 2a | 2a 2a | 4a | 2b 2b
+  cols: 1a | S:3a | 8a 1b | 2a 2a 2a 1b | 4a 1a | 4a 1a | 5a 2a 1b | 8a 1b | 1b 4a | 1b 1a | 
+  no-stamp: needs stamp (67 unknown) looks 27
+  plain clues: looks 38 passes 9 open 22
+    ???#???....
+    ??####??...
+    ???.######.
+    ..??####??.
+    ??#???##??.
+    ???????#?..
+    ???????##?.
+    ???????#?..
+    ???????#?..
+    ??????????.
+    ..##..##...
+pc-r4c2 11x11 BAD(66) looks 27 passes 6 open 20 search 68.7 first[r1,r2,r3,r4,r6,r7,r8,r9,r10,r11,c1,c2,c4,c5,c6,c7,c8,c9,c10,c11]
+  rows: 4a | 6a | 1a 4a 2b | 6a | S:2a 3a | 2a 2a | 3a 3a | 2a 2a | 2a 2a | 4a | 2b 2b
+  cols: 1a | 3a | S:8a 1b | 2a 2a 2a 1b | 4a 1a | 4a 1a | 5a 2a 1b | 8a 1b | 1b 4a | 1b 1a | 
+  no-stamp: needs stamp (11 unknown) looks 38
+  plain clues: looks 36 passes 9 open 22
+    ...####....
+    ..######...
+    ..#.######.
+    ..######...
+    ??##..###..
+    .?#?...##..
+    ?##?...###.
+    .?#?...##..
+    .?#?..##...
+    ...####....
+    ..##..##...
+pc-r4c3 11x11 BAD(10) looks 38 passes 12 open 20 search 80.9 first[r1,r2,r3,r4,r6,r7,r8,r9,r10,r11,c1,c2,c3,c5,c6,c7,c8,c9,c10,c11]
+  rows: 4a | 6a | 1a 4a 2b | 6a | S:2a 3a | 2a 2a | 3a 3a | 2a 2a | 2a 2a | 4a | 2b 2b
+  cols: 1a | 3a | 8a 1b | S:2a 2a 2a 1b | 4a 1a | 4a 1a | 5a 2a 1b | 8a 1b | 1b 4a | 1b 1a | 
+  no-stamp: needs stamp (1 unknown) looks 41
+  plain clues: looks 36 passes 9 open 22
+pc-r4c4 11x11 OK looks 41 passes 12 open 20 search 64.7 first[r1,r2,r3,r4,r6,r7,r8,r9,r10,r11,c1,c2,c3,c4,c6,c7,c8,c9,c10,c11]
+  rows: 4a | 6a | 1a 4a 2b | 6a | S:2a 3a | 2a 2a | 3a 3a | 2a 2a | 2a 2a | 4a | 2b 2b
+  cols: 1a | 3a | 8a 1b | 2a 2a 2a 1b | S:4a 1a | 4a 1a | 5a 2a 1b | 8a 1b | 1b 4a | 1b 1a | 
+  no-stamp: needs stamp (1 unknown) looks 40
+  plain clues: looks 30 passes 7 open 22
+pc-r4c5 11x11 OK looks 40 passes 9 open 20 search 61.1 first[r1,r2,r3,r4,r6,r7,r8,r9,r10,r11,c1,c2,c3,c4,c5,c7,c8,c9,c10,c11]
+  rows: 4a | 6a | 1a 4a 2b | 6a | S:2a 3a | 2a 2a | 3a 3a | 2a 2a | 2a 2a | 4a | 2b 2b
+  cols: 1a | 3a | 8a 1b | 2a 2a 2a 1b | 4a 1a | S:4a 1a | 5a 2a 1b | 8a 1b | 1b 4a | 1b 1a | 
+  no-stamp: needs stamp (7 unknown) looks 38
+  plain clues: looks 34 passes 9 open 22
+    ...####....
+    ..######...
+    ..#.######.
+    ..######...
+    ..##..##??.
+    .##....##..
+    ###...?##?.
+    .##....##..
+    ..##..?#?..
+    ...####....
+    ..##..##...
+pc-r4c6 11x11 BAD(6) looks 38 passes 10 open 20 search 65.0 first[r1,r2,r3,r4,r6,r7,r8,r9,r10,r11,c1,c2,c3,c4,c5,c6,c8,c9,c10,c11]
+  rows: 4a | 6a | 1a 4a 2b | 6a | S:2a 3a | 2a 2a | 3a 3a | 2a 2a | 2a 2a | 4a | 2b 2b
+  cols: 1a | 3a | 8a 1b | 2a 2a 2a 1b | 4a 1a | 4a 1a | S:5a 2a 1b | 8a 1b | 1b 4a | 1b 1a | 
+  no-stamp: needs stamp (6 unknown) looks 40
+  plain clues: looks 37 passes 9 open 22
+    ...####....
+    ..######...
+    ..#.######.
+    ..######...
+    .?##..###..
+    .##....##..
+    ###....###.
+    .?#?...##..
+    ..##..##...
+    ...?###?...
+    ..##..##...
+pc-r4c7 11x11 BAD(5) looks 40 passes 12 open 20 search 71.1 first[r1,r2,r3,r4,r6,r7,r8,r9,r10,r11,c1,c2,c3,c4,c5,c6,c7,c9,c10,c11]
+  rows: 4a | 6a | 1a 4a 2b | 6a | S:2a 3a | 2a 2a | 3a 3a | 2a 2a | 2a 2a | 4a | 2b 2b
+  cols: 1a | 3a | 8a 1b | 2a 2a 2a 1b | 4a 1a | 4a 1a | 5a 2a 1b | S:8a 1b | 1b 4a | 1b 1a | 
+  no-stamp: needs stamp (12 unknown) looks 41
+  plain clues: looks 30 passes 7 open 22
+    ...####....
+    ..?#####?..
+    ..#.######.
+    ..######...
+    ..##..###?.
+    .##....##..
+    ###...?##?.
+    .##...?#?..
+    ..##..?#?..
+    ..?###?....
+    ..##..##...
+pc-r4c8 11x11 BAD(11) looks 41 passes 12 open 20 search 96.7 first[r1,r2,r3,r4,r6,r7,r8,r9,r10,r11,c1,c2,c3,c4,c5,c6,c7,c8,c10,c11]
+  rows: 4a | 6a | 1a 4a 2b | 6a | S:2a 3a | 2a 2a | 3a 3a | 2a 2a | 2a 2a | 4a | 2b 2b
+  cols: 1a | 3a | 8a 1b | 2a 2a 2a 1b | 4a 1a | 4a 1a | 5a 2a 1b | 8a 1b | S:1b 4a | 1b 1a | 
+  no-stamp: needs stamp (1 unknown) looks 38
+  plain clues: looks 34 passes 9 open 22
+pc-r4c9 11x11 OK looks 38 passes 9 open 20 search 57.8 first[r1,r2,r3,r4,r6,r7,r8,r9,r10,r11,c1,c2,c3,c4,c5,c6,c7,c8,c9,c11]
+  rows: 4a | 6a | 1a 4a 2b | 6a | S:2a 3a | 2a 2a | 3a 3a | 2a 2a | 2a 2a | 4a | 2b 2b
+  cols: 1a | 3a | 8a 1b | 2a 2a 2a 1b | 4a 1a | 4a 1a | 5a 2a 1b | 8a 1b | 1b 4a | S:1b 1a | 
+  no-stamp: needs stamp (1 unknown) looks 42
+  plain clues: looks 36 passes 9 open 22
+pc-r4c10 11x11 OK looks 42 passes 9 open 20 search 71.7 first[r1,r2,r3,r4,r6,r7,r8,r9,r10,r11,c1,c2,c3,c4,c5,c6,c7,c8,c9,c10]
+  rows: 4a | 6a | 1a 4a 2b | 6a | S:2a 3a | 2a 2a | 3a 3a | 2a 2a | 2a 2a | 4a | 2b 2b
+  cols: 1a | 3a | 8a 1b | 2a 2a 2a 1b | 4a 1a | 4a 1a | 5a 2a 1b | 8a 1b | 1b 4a | 1b 1a | S:
+  no-stamp: needs stamp (1 unknown) looks 37
+  plain clues: looks 33 passes 9 open 22
+pc-r5c0 11x11 OK looks 37 passes 11 open 20 search 52.0 first[r1,r2,r3,r4,r5,r7,r8,r9,r10,r11,c2,c3,c4,c5,c6,c7,c8,c9,c10,c11]
+  rows: 4a | 6a | 1a 4a 2b | 6a | 2a 3a | S:2a 2a | 3a 3a | 2a 2a | 2a 2a | 4a | 2b 2b
+  cols: S:1a | 3a | 8a 1b | 2a 2a 2a 1b | 4a 1a | 4a 1a | 5a 2a 1b | 8a 1b | 1b 4a | 1b 1a | 
+  no-stamp: needs stamp (22 unknown) looks 33
+  plain clues: looks 32 passes 7 open 22
+    ..?###?....
+    ??####??...
+    ..#.######.
+    ..######...
+    ..##..###..
+    ?##...?##?.
+    ?##?..?##?.
+    .?#?...##..
+    ????..##...
+    ...?###?...
+    ..##..##...
+pc-r5c1 11x11 BAD(21) looks 33 passes 10 open 20 search 79.3 first[r1,r2,r3,r4,r5,r7,r8,r9,r10,r11,c1,c3,c4,c5,c6,c7,c8,c9,c10,c11]
+  rows: 4a | 6a | 1a 4a 2b | 6a | 2a 3a | S:2a 2a | 3a 3a | 2a 2a | 2a 2a | 4a | 2b 2b
+  cols: 1a | S:3a | 8a 1b | 2a 2a 2a 1b | 4a 1a | 4a 1a | 5a 2a 1b | 8a 1b | 1b 4a | 1b 1a | 
+  no-stamp: needs stamp (67 unknown) looks 27
+  plain clues: looks 38 passes 9 open 22
+    ???#???....
+    ??####??...
+    ???.######.
+    ..??####??.
+    ??????##?..
+    ??#????#??.
+    ???????##?.
+    ???????#?..
+    ???????#?..
+    ??????????.
+    ..##..##...
+pc-r5c2 11x11 BAD(66) looks 27 passes 6 open 20 search 68.7 first[r1,r2,r3,r4,r5,r7,r8,r9,r10,r11,c1,c2,c4,c5,c6,c7,c8,c9,c10,c11]
+  rows: 4a | 6a | 1a 4a 2b | 6a | 2a 3a | S:2a 2a | 3a 3a | 2a 2a | 2a 2a | 4a | 2b 2b
+  cols: 1a | 3a | S:8a 1b | 2a 2a 2a 1b | 4a 1a | 4a 1a | 5a 2a 1b | 8a 1b | 1b 4a | 1b 1a | 
+  no-stamp: needs stamp (16 unknown) looks 31
+  plain clues: looks 33 passes 9 open 22
+    ..?###?....
+    ..######...
+    ..#.######.
+    ..######...
+    .?#?..###..
+    ??#...?##..
+    ?##?...###.
+    .?#?...##..
+    ????..##...
+    ...####....
+    ..##..##...
+pc-r5c3 11x11 BAD(15) looks 31 passes 10 open 20 search 62.0 first[r1,r2,r3,r4,r5,r7,r8,r9,r10,r11,c1,c2,c3,c5,c6,c7,c8,c9,c10,c11]
+  rows: 4a | 6a | 1a 4a 2b | 6a | 2a 3a | S:2a 2a | 3a 3a | 2a 2a | 2a 2a | 4a | 2b 2b
+  cols: 1a | 3a | 8a 1b | S:2a 2a 2a 1b | 4a 1a | 4a 1a | 5a 2a 1b | 8a 1b | 1b 4a | 1b 1a | 
+  no-stamp: needs stamp (6 unknown) looks 38
+  plain clues: looks 33 passes 9 open 22
+    ..?###?....
+    ..######...
+    ..#.######.
+    ..######...
+    ..##..###..
+    .##...?##..
+    ###....###.
+    .##....##..
+    ..?#?.##...
+    ...####....
+    ..##..##...
+pc-r5c4 11x11 BAD(5) looks 38 passes 9 open 20 search 63.8 first[r1,r2,r3,r4,r5,r7,r8,r9,r10,r11,c1,c2,c3,c4,c6,c7,c8,c9,c10,c11]
+  rows: 4a | 6a | 1a 4a 2b | 6a | 2a 3a | S:2a 2a | 3a 3a | 2a 2a | 2a 2a | 4a | 2b 2b
+  cols: 1a | 3a | 8a 1b | 2a 2a 2a 1b | S:4a 1a | 4a 1a | 5a 2a 1b | 8a 1b | 1b 4a | 1b 1a | 
+  no-stamp: needs stamp (1 unknown) looks 37
+  plain clues: looks 33 passes 9 open 22
+pc-r5c5 11x11 OK looks 37 passes 11 open 20 search 50.9 first[r1,r2,r3,r4,r5,r7,r8,r9,r10,r11,c1,c2,c3,c4,c5,c7,c8,c9,c10,c11]
+  rows: 4a | 6a | 1a 4a 2b | 6a | 2a 3a | S:2a 2a | 3a 3a | 2a 2a | 2a 2a | 4a | 2b 2b
+  cols: 1a | 3a | 8a 1b | 2a 2a 2a 1b | 4a 1a | S:4a 1a | 5a 2a 1b | 8a 1b | 1b 4a | 1b 1a | 
+  no-stamp: needs stamp (6 unknown) looks 38
+  plain clues: looks 30 passes 7 open 22
+    ...####....
+    ..######...
+    ..#.######.
+    ..######...
+    ..##..?##?.
+    .##....##?.
+    ###...?##?.
+    .##....##..
+    ..##..##...
+    ...####....
+    ..##..##...
+pc-r5c6 11x11 BAD(5) looks 38 passes 10 open 20 search 59.0 first[r1,r2,r3,r4,r5,r7,r8,r9,r10,r11,c1,c2,c3,c4,c5,c6,c8,c9,c10,c11]
+  rows: 4a | 6a | 1a 4a 2b | 6a | 2a 3a | S:2a 2a | 3a 3a | 2a 2a | 2a 2a | 4a | 2b 2b
+  cols: 1a | 3a | 8a 1b | 2a 2a 2a 1b | 4a 1a | 4a 1a | S:5a 2a 1b | 8a 1b | 1b 4a | 1b 1a | 
+  no-stamp: needs stamp (1 unknown) looks 39
+  plain clues: looks 37 passes 9 open 22
+pc-r5c7 11x11 OK looks 39 passes 13 open 20 search 60.9 first[r1,r2,r3,r4,r5,r7,r8,r9,r10,r11,c1,c2,c3,c4,c5,c6,c7,c9,c10,c11]
+  rows: 4a | 6a | 1a 4a 2b | 6a | 2a 3a | S:2a 2a | 3a 3a | 2a 2a | 2a 2a | 4a | 2b 2b
+  cols: 1a | 3a | 8a 1b | 2a 2a 2a 1b | 4a 1a | 4a 1a | 5a 2a 1b | S:8a 1b | 1b 4a | 1b 1a | 
+  no-stamp: needs stamp (12 unknown) looks 39
+  plain clues: looks 30 passes 7 open 22
+    ...####....
+    ..?#####?..
+    ..#.######.
+    ..######...
+    ..##..###..
+    .##....##?.
+    ###...?##?.
+    .##...?#?..
+    ..##..?#?..
+    ..?###?....
+    ..##..##...
+pc-r5c8 11x11 BAD(11) looks 39 passes 15 open 20 search 85.0 first[r1,r2,r3,r4,r5,r7,r8,r9,r10,r11,c1,c2,c3,c4,c5,c6,c7,c8,c10,c11]
+  rows: 4a | 6a | 1a 4a 2b | 6a | 2a 3a | S:2a 2a | 3a 3a | 2a 2a | 2a 2a | 4a | 2b 2b
+  cols: 1a | 3a | 8a 1b | 2a 2a 2a 1b | 4a 1a | 4a 1a | 5a 2a 1b | 8a 1b | S:1b 4a | 1b 1a | 
+  no-stamp: needs stamp (1 unknown) looks 39
+  plain clues: looks 33 passes 9 open 22
+pc-r5c9 11x11 OK looks 39 passes 11 open 20 search 52.7 first[r1,r2,r3,r4,r5,r7,r8,r9,r10,r11,c1,c2,c3,c4,c5,c6,c7,c8,c9,c11]
+  rows: 4a | 6a | 1a 4a 2b | 6a | 2a 3a | S:2a 2a | 3a 3a | 2a 2a | 2a 2a | 4a | 2b 2b
+  cols: 1a | 3a | 8a 1b | 2a 2a 2a 1b | 4a 1a | 4a 1a | 5a 2a 1b | 8a 1b | 1b 4a | S:1b 1a | 
+  no-stamp: needs stamp (1 unknown) looks 42
+  plain clues: looks 36 passes 9 open 22
+pc-r5c10 11x11 OK looks 42 passes 11 open 20 search 62.0 first[r1,r2,r3,r4,r5,r7,r8,r9,r10,r11,c1,c2,c3,c4,c5,c6,c7,c8,c9,c10]
+  rows: 4a | 6a | 1a 4a 2b | 6a | 2a 3a | S:2a 2a | 3a 3a | 2a 2a | 2a 2a | 4a | 2b 2b
+  cols: 1a | 3a | 8a 1b | 2a 2a 2a 1b | 4a 1a | 4a 1a | 5a 2a 1b | 8a 1b | 1b 4a | 1b 1a | S:
+  no-stamp: needs stamp (1 unknown) looks 36
+  plain clues: looks 35 passes 8 open 22
+pc-r6c0 11x11 OK looks 36 passes 9 open 20 search 44.8 first[r1,r2,r3,r4,r5,r6,r8,r9,r10,r11,c2,c3,c4,c5,c6,c7,c8,c9,c10,c11]
+  rows: 4a | 6a | 1a 4a 2b | 6a | 2a 3a | 2a 2a | S:3a 3a | 2a 2a | 2a 2a | 4a | 2b 2b
+  cols: S:1a | 3a | 8a 1b | 2a 2a 2a 1b | 4a 1a | 4a 1a | 5a 2a 1b | 8a 1b | 1b 4a | 1b 1a | 
+  no-stamp: needs stamp (10 unknown) looks 38
+  plain clues: looks 22 passes 7 open 22
+    ...####....
+    .?#####?...
+    ..#.######.
+    ..######...
+    ..##..###..
+    .##....##..
+    ###?...###.
+    .?#?...##..
+    .?#?..##...
+    ...?###?...
+    ..##..##...
+pc-r6c1 11x11 BAD(9) looks 38 passes 13 open 20 search 72.6 first[r1,r2,r3,r4,r5,r6,r8,r9,r10,r11,c1,c3,c4,c5,c6,c7,c8,c9,c10,c11]
+  rows: 4a | 6a | 1a 4a 2b | 6a | 2a 3a | 2a 2a | S:3a 3a | 2a 2a | 2a 2a | 4a | 2b 2b
+  cols: 1a | S:3a | 8a 1b | 2a 2a 2a 1b | 4a 1a | 4a 1a | 5a 2a 1b | 8a 1b | 1b 4a | 1b 1a | 
+  no-stamp: needs stamp (66 unknown) looks 27
+  plain clues: looks 38 passes 9 open 22
+    ???#???....
+    ??####??...
+    ???.######.
+    ..??####??.
+    ??????##?..
+    ???????#?..
+    ??#????##?.
+    ???????#?..
+    ???????#?..
+    ??????????.
+    ..##..##...
+pc-r6c2 11x11 BAD(65) looks 27 passes 6 open 20 search 71.8 first[r1,r2,r3,r4,r5,r6,r8,r9,r10,r11,c1,c2,c4,c5,c6,c7,c8,c9,c10,c11]
+  rows: 4a | 6a | 1a 4a 2b | 6a | 2a 3a | 2a 2a | S:3a 3a | 2a 2a | 2a 2a | 4a | 2b 2b
+  cols: 1a | 3a | S:8a 1b | 2a 2a 2a 1b | 4a 1a | 4a 1a | 5a 2a 1b | 8a 1b | 1b 4a | 1b 1a | 
+  no-stamp: needs stamp (9 unknown) looks 37
+  plain clues: looks 35 passes 9 open 22
+    ...####....
+    ..######...
+    ..#.######.
+    ..######...
+    .?#?..###..
+    .?#?...##..
+    ###....###.
+    .?#?...##..
+    .?#?..##...
+    ...####....
+    ..##..##...
+pc-r6c3 11x11 BAD(8) looks 37 passes 13 open 20 search 62.4 first[r1,r2,r3,r4,r5,r6,r8,r9,r10,r11,c1,c2,c3,c5,c6,c7,c8,c9,c10,c11]
+  rows: 4a | 6a | 1a 4a 2b | 6a | 2a 3a | 2a 2a | S:3a 3a | 2a 2a | 2a 2a | 4a | 2b 2b
+  cols: 1a | 3a | 8a 1b | S:2a 2a 2a 1b | 4a 1a | 4a 1a | 5a 2a 1b | 8a 1b | 1b 4a | 1b 1a | 
+  no-stamp: needs stamp (1 unknown) looks 39
+  plain clues: looks 37 passes 8 open 22
+pc-r6c4 11x11 OK looks 39 passes 12 open 20 search 49.3 first[r1,r2,r3,r4,r5,r6,r8,r9,r10,r11,c1,c2,c3,c4,c6,c7,c8,c9,c10,c11]
+  rows: 4a | 6a | 1a 4a 2b | 6a | 2a 3a | 2a 2a | S:3a 3a | 2a 2a | 2a 2a | 4a | 2b 2b
+  cols: 1a | 3a | 8a 1b | 2a 2a 2a 1b | S:4a 1a | 4a 1a | 5a 2a 1b | 8a 1b | 1b 4a | 1b 1a | 
+  no-stamp: needs stamp (1 unknown) looks 36
+  plain clues: looks 36 passes 9 open 22
+pc-r6c5 11x11 OK looks 36 passes 9 open 20 search 49.6 first[r1,r2,r3,r4,r5,r6,r8,r9,r10,r11,c1,c2,c3,c4,c5,c7,c8,c9,c10,c11]
+  rows: 4a | 6a | 1a 4a 2b | 6a | 2a 3a | 2a 2a | S:3a 3a | 2a 2a | 2a 2a | 4a | 2b 2b
+  cols: 1a | 3a | 8a 1b | 2a 2a 2a 1b | 4a 1a | S:4a 1a | 5a 2a 1b | 8a 1b | 1b 4a | 1b 1a | 
+  no-stamp: needs stamp (4 unknown) looks 36
+  plain clues: looks 36 passes 7 open 22
+    ...####....
+    ..######...
+    ..#.######.
+    ..######...
+    ..##..?##?.
+    .##....##..
+    ###....##?.
+    .##....##..
+    ..##..##...
+    ...####....
+    ..##..##...
+pc-r6c6 11x11 BAD(3) looks 36 passes 10 open 20 search 47.7 first[r1,r2,r3,r4,r5,r6,r8,r9,r10,r11,c1,c2,c3,c4,c5,c6,c8,c9,c10,c11]
+  rows: 4a | 6a | 1a 4a 2b | 6a | 2a 3a | 2a 2a | S:3a 3a | 2a 2a | 2a 2a | 4a | 2b 2b
+  cols: 1a | 3a | 8a 1b | 2a 2a 2a 1b | 4a 1a | 4a 1a | S:5a 2a 1b | 8a 1b | 1b 4a | 1b 1a | 
+  no-stamp: needs stamp (6 unknown) looks 34
+  plain clues: looks 37 passes 9 open 22
+    ...####....
+    ..######...
+    ..#.######.
+    ..######...
+    ..##..###..
+    .##....?#?.
+    ###....##?.
+    .##....?#?.
+    ..##..##...
+    ...####....
+    ..##..##...
+pc-r6c7 11x11 BAD(5) looks 34 passes 10 open 20 search 52.3 first[r1,r2,r3,r4,r5,r6,r8,r9,r10,r11,c1,c2,c3,c4,c5,c6,c7,c9,c10,c11]
+  rows: 4a | 6a | 1a 4a 2b | 6a | 2a 3a | 2a 2a | S:3a 3a | 2a 2a | 2a 2a | 4a | 2b 2b
+  cols: 1a | 3a | 8a 1b | 2a 2a 2a 1b | 4a 1a | 4a 1a | 5a 2a 1b | S:8a 1b | 1b 4a | 1b 1a | 
+  no-stamp: needs stamp (10 unknown) looks 36
+  plain clues: looks 34 passes 9 open 22
+    ...####....
+    ..?#####?..
+    ..#.######.
+    ..######...
+    ..##..###..
+    .##....##..
+    ###...?###.
+    .##...?#?..
+    ..##..?#?..
+    ..?###?....
+    ..##..##...
+pc-r6c8 11x11 BAD(9) looks 36 passes 12 open 20 search 72.6 first[r1,r2,r3,r4,r5,r6,r8,r9,r10,r11,c1,c2,c3,c4,c5,c6,c7,c8,c10,c11]
+  rows: 4a | 6a | 1a 4a 2b | 6a | 2a 3a | 2a 2a | S:3a 3a | 2a 2a | 2a 2a | 4a | 2b 2b
+  cols: 1a | 3a | 8a 1b | 2a 2a 2a 1b | 4a 1a | 4a 1a | 5a 2a 1b | 8a 1b | S:1b 4a | 1b 1a | 
+  no-stamp: needs stamp (1 unknown) looks 36
+  plain clues: looks 31 passes 8 open 22
+pc-r6c9 11x11 OK looks 36 passes 9 open 20 search 44.8 first[r1,r2,r3,r4,r5,r6,r8,r9,r10,r11,c1,c2,c3,c4,c5,c6,c7,c8,c9,c11]
+  rows: 4a | 6a | 1a 4a 2b | 6a | 2a 3a | 2a 2a | S:3a 3a | 2a 2a | 2a 2a | 4a | 2b 2b
+  cols: 1a | 3a | 8a 1b | 2a 2a 2a 1b | 4a 1a | 4a 1a | 5a 2a 1b | 8a 1b | 1b 4a | S:1b 1a | 
+  no-stamp: needs stamp (1 unknown) looks 38
+  plain clues: looks 36 passes 9 open 22
+pc-r6c10 11x11 OK looks 38 passes 9 open 20 search 50.3 first[r1,r2,r3,r4,r5,r6,r8,r9,r10,r11,c1,c2,c3,c4,c5,c6,c7,c8,c9,c10]
+  rows: 4a | 6a | 1a 4a 2b | 6a | 2a 3a | 2a 2a | S:3a 3a | 2a 2a | 2a 2a | 4a | 2b 2b
+  cols: 1a | 3a | 8a 1b | 2a 2a 2a 1b | 4a 1a | 4a 1a | 5a 2a 1b | 8a 1b | 1b 4a | 1b 1a | S:
+  no-stamp: needs stamp (1 unknown) looks 36
+  plain clues: looks 36 passes 9 open 22
+pc-r7c0 11x11 OK looks 36 passes 9 open 20 search 45.1 first[r1,r2,r3,r4,r5,r6,r7,r9,r10,r11,c2,c3,c4,c5,c6,c7,c8,c9,c10,c11]
+  rows: 4a | 6a | 1a 4a 2b | 6a | 2a 3a | 2a 2a | 3a 3a | S:2a 2a | 2a 2a | 4a | 2b 2b
+  cols: S:1a | 3a | 8a 1b | 2a 2a 2a 1b | 4a 1a | 4a 1a | 5a 2a 1b | 8a 1b | 1b 4a | 1b 1a | 
+  no-stamp: needs stamp (11 unknown) looks 39
+  plain clues: looks 29 passes 8 open 22
+    ...####....
+    .?#####?...
+    ..#.######.
+    ..######...
+    ..##..###..
+    .##....##..
+    ?##?...###.
+    ?##?...##..
+    .?#?..##...
+    ...?###?...
+    ..##..##...
+pc-r7c1 11x11 BAD(10) looks 39 passes 13 open 20 search 82.8 first[r1,r2,r3,r4,r5,r6,r7,r9,r10,r11,c1,c3,c4,c5,c6,c7,c8,c9,c10,c11]
+  rows: 4a | 6a | 1a 4a 2b | 6a | 2a 3a | 2a 2a | 3a 3a | S:2a 2a | 2a 2a | 4a | 2b 2b
+  cols: 1a | S:3a | 8a 1b | 2a 2a 2a 1b | 4a 1a | 4a 1a | 5a 2a 1b | 8a 1b | 1b 4a | 1b 1a | 
+  no-stamp: needs stamp (67 unknown) looks 27
+  plain clues: looks 38 passes 9 open 22
+    ???#???....
+    ??####??...
+    ???.######.
+    ..??####??.
+    ??????##?..
+    ???????#?..
+    ???????##?.
+    ??#????#??.
+    ???????#?..
+    ??????????.
+    ..##..##...
+pc-r7c2 11x11 BAD(66) looks 27 passes 6 open 20 search 68.7 first[r1,r2,r3,r4,r5,r6,r7,r9,r10,r11,c1,c2,c4,c5,c6,c7,c8,c9,c10,c11]
+  rows: 4a | 6a | 1a 4a 2b | 6a | 2a 3a | 2a 2a | 3a 3a | S:2a 2a | 2a 2a | 4a | 2b 2b
+  cols: 1a | 3a | S:8a 1b | 2a 2a 2a 1b | 4a 1a | 4a 1a | 5a 2a 1b | 8a 1b | 1b 4a | 1b 1a | 
+  no-stamp: needs stamp (11 unknown) looks 36
+  plain clues: looks 29 passes 7 open 22
+    ...####....
+    ..######...
+    ..#.######.
+    ..######...
+    .?#?..###..
+    .?#?...##..
+    ?##?...###.
+    ??#....##..
+    .?#?..##...
+    ...####....
+    ..##..##...
+pc-r7c3 11x11 BAD(10) looks 36 passes 12 open 20 search 63.2 first[r1,r2,r3,r4,r5,r6,r7,r9,r10,r11,c1,c2,c3,c5,c6,c7,c8,c9,c10,c11]
+  rows: 4a | 6a | 1a 4a 2b | 6a | 2a 3a | 2a 2a | 3a 3a | S:2a 2a | 2a 2a | 4a | 2b 2b
+  cols: 1a | 3a | 8a 1b | S:2a 2a 2a 1b | 4a 1a | 4a 1a | 5a 2a 1b | 8a 1b | 1b 4a | 1b 1a | 
+  no-stamp: needs stamp (1 unknown) looks 39
+  plain clues: looks 36 passes 9 open 22
+pc-r7c4 11x11 OK looks 39 passes 12 open 20 search 50.4 first[r1,r2,r3,r4,r5,r6,r7,r9,r10,r11,c1,c2,c3,c4,c6,c7,c8,c9,c10,c11]
+  rows: 4a | 6a | 1a 4a 2b | 6a | 2a 3a | 2a 2a | 3a 3a | S:2a 2a | 2a 2a | 4a | 2b 2b
+  cols: 1a | 3a | 8a 1b | 2a 2a 2a 1b | S:4a 1a | 4a 1a | 5a 2a 1b | 8a 1b | 1b 4a | 1b 1a | 
+  no-stamp: needs stamp (1 unknown) looks 42
+  plain clues: looks 36 passes 9 open 22
+pc-r7c5 11x11 OK looks 42 passes 9 open 20 search 60.3 first[r1,r2,r3,r4,r5,r6,r7,r9,r10,r11,c1,c2,c3,c4,c5,c7,c8,c9,c10,c11]
+  rows: 4a | 6a | 1a 4a 2b | 6a | 2a 3a | 2a 2a | 3a 3a | S:2a 2a | 2a 2a | 4a | 2b 2b
+  cols: 1a | 3a | 8a 1b | 2a 2a 2a 1b | 4a 1a | S:4a 1a | 5a 2a 1b | 8a 1b | 1b 4a | 1b 1a | 
+  no-stamp: needs stamp (6 unknown) looks 36
+  plain clues: looks 32 passes 9 open 22
+    ...####....
+    ..######...
+    ..#.######.
+    ..######...
+    ..##..?##?.
+    .##....##..
+    ###...?##?.
+    .##....##?.
+    ..##..##...
+    ...####....
+    ..##..##...
+pc-r7c6 11x11 BAD(5) looks 36 passes 10 open 20 search 52.6 first[r1,r2,r3,r4,r5,r6,r7,r9,r10,r11,c1,c2,c3,c4,c5,c6,c8,c9,c10,c11]
+  rows: 4a | 6a | 1a 4a 2b | 6a | 2a 3a | 2a 2a | 3a 3a | S:2a 2a | 2a 2a | 4a | 2b 2b
+  cols: 1a | 3a | 8a 1b | 2a 2a 2a 1b | 4a 1a | 4a 1a | S:5a 2a 1b | 8a 1b | 1b 4a | 1b 1a | 
+  no-stamp: needs stamp (4 unknown) looks 39
+  plain clues: looks 37 passes 9 open 22
+    ...####....
+    ..######...
+    ..#.######.
+    ..######...
+    ..##..###..
+    .##....##..
+    ###....###.
+    .##?...##..
+    ..##..##...
+    ...?###?...
+    ..##..##...
+pc-r7c7 11x11 BAD(3) looks 39 passes 11 open 20 search 54.9 first[r1,r2,r3,r4,r5,r6,r7,r9,r10,r11,c1,c2,c3,c4,c5,c6,c7,c9,c10,c11]
+  rows: 4a | 6a | 1a 4a 2b | 6a | 2a 3a | 2a 2a | 3a 3a | S:2a 2a | 2a 2a | 4a | 2b 2b
+  cols: 1a | 3a | 8a 1b | 2a 2a 2a 1b | 4a 1a | 4a 1a | 5a 2a 1b | S:8a 1b | 1b 4a | 1b 1a | 
+  no-stamp: needs stamp (11 unknown) looks 38
+  plain clues: looks 32 passes 9 open 22
+    ...####....
+    ..?#####?..
+    ..#.######.
+    ..######...
+    ..##..###..
+    .##....##..
+    ###...?##?.
+    .##...?##?.
+    ..##..?#?..
+    ..?###?....
+    ..##..##...
+pc-r7c8 11x11 BAD(10) looks 38 passes 12 open 20 search 79.8 first[r1,r2,r3,r4,r5,r6,r7,r9,r10,r11,c1,c2,c3,c4,c5,c6,c7,c8,c10,c11]
+  rows: 4a | 6a | 1a 4a 2b | 6a | 2a 3a | 2a 2a | 3a 3a | S:2a 2a | 2a 2a | 4a | 2b 2b
+  cols: 1a | 3a | 8a 1b | 2a 2a 2a 1b | 4a 1a | 4a 1a | 5a 2a 1b | 8a 1b | S:1b 4a | 1b 1a | 
+  no-stamp: needs stamp (1 unknown) looks 37
+  plain clues: looks 36 passes 9 open 22
+pc-r7c9 11x11 OK looks 37 passes 9 open 20 search 45.8 first[r1,r2,r3,r4,r5,r6,r7,r9,r10,r11,c1,c2,c3,c4,c5,c6,c7,c8,c9,c11]
+  rows: 4a | 6a | 1a 4a 2b | 6a | 2a 3a | 2a 2a | 3a 3a | S:2a 2a | 2a 2a | 4a | 2b 2b
+  cols: 1a | 3a | 8a 1b | 2a 2a 2a 1b | 4a 1a | 4a 1a | 5a 2a 1b | 8a 1b | 1b 4a | S:1b 1a | 
+  no-stamp: needs stamp (1 unknown) looks 39
+  plain clues: looks 36 passes 9 open 22
+pc-r7c10 11x11 OK looks 39 passes 9 open 20 search 52.6 first[r1,r2,r3,r4,r5,r6,r7,r9,r10,r11,c1,c2,c3,c4,c5,c6,c7,c8,c9,c10]
+  rows: 4a | 6a | 1a 4a 2b | 6a | 2a 3a | 2a 2a | 3a 3a | S:2a 2a | 2a 2a | 4a | 2b 2b
+  cols: 1a | 3a | 8a 1b | 2a 2a 2a 1b | 4a 1a | 4a 1a | 5a 2a 1b | 8a 1b | 1b 4a | 1b 1a | S:
+  no-stamp: needs stamp (1 unknown) looks 34
+  plain clues: looks 36 passes 9 open 22
+pc-r8c0 11x11 OK looks 34 passes 11 open 20 search 42.4 first[r1,r2,r3,r4,r5,r6,r7,r8,r10,r11,c2,c3,c4,c5,c6,c7,c8,c9,c10,c11]
+  rows: 4a | 6a | 1a 4a 2b | 6a | 2a 3a | 2a 2a | 3a 3a | 2a 2a | S:2a 2a | 4a | 2b 2b
+  cols: S:1a | 3a | 8a 1b | 2a 2a 2a 1b | 4a 1a | 4a 1a | 5a 2a 1b | 8a 1b | 1b 4a | 1b 1a | 
+  no-stamp: needs stamp (36 unknown) looks 30
+  plain clues: looks 33 passes 9 open 22
+    .??##??....
+    ??####??...
+    ..#.######.
+    ..######...
+    ..##.?##?..
+    .##...?#?..
+    ??#??.?##?.
+    .?#?...##..
+    ?.????##??.
+    ...???#???.
+    .?#?..##...
+pc-r8c1 11x11 BAD(35) looks 30 passes 5 open 20 search 79.9 first[r1,r2,r3,r4,r5,r6,r7,r8,r10,r11,c1,c3,c4,c5,c6,c7,c8,c9,c10,c11]
+  rows: 4a | 6a | 1a 4a 2b | 6a | 2a 3a | 2a 2a | 3a 3a | 2a 2a | S:2a 2a | 4a | 2b 2b
+  cols: 1a | S:3a | 8a 1b | 2a 2a 2a 1b | 4a 1a | 4a 1a | 5a 2a 1b | 8a 1b | 1b 4a | 1b 1a | 
+  no-stamp: needs stamp (67 unknown) looks 29
+  plain clues: looks 31 passes 7 open 22
+    ???#???....
+    ??####??...
+    ???.######.
+    ..??####??.
+    ??????##?..
+    ???????#?..
+    ???????##?.
+    ???????#?..
+    ??#????#??.
+    ??????????.
+    ..##..##...
+pc-r8c2 11x11 BAD(66) looks 29 passes 5 open 20 search 83.7 first[r1,r2,r3,r4,r5,r6,r7,r8,r10,r11,c1,c2,c4,c5,c6,c7,c8,c9,c10,c11]
+  rows: 4a | 6a | 1a 4a 2b | 6a | 2a 3a | 2a 2a | 3a 3a | 2a 2a | S:2a 2a | 4a | 2b 2b
+  cols: 1a | 3a | S:8a 1b | 2a 2a 2a 1b | 4a 1a | 4a 1a | 5a 2a 1b | 8a 1b | 1b 4a | 1b 1a | 
+  no-stamp: needs stamp (14 unknown) looks 35
+  plain clues: looks 35 passes 9 open 22
+    ...?###?...
+    ..######...
+    ..#.######.
+    ..######...
+    .?#?..###..
+    .?#?...##..
+    ?##?...###.
+    .?#?...##..
+    ??##..#?...
+    ...####....
+    ..##..##...
+pc-r8c3 11x11 BAD(13) looks 35 passes 11 open 20 search 65.3 first[r1,r2,r3,r4,r5,r6,r7,r8,r10,r11,c1,c2,c3,c5,c6,c7,c8,c9,c10,c11]
+  rows: 4a | 6a | 1a 4a 2b | 6a | 2a 3a | 2a 2a | 3a 3a | 2a 2a | S:2a 2a | 4a | 2b 2b
+  cols: 1a | 3a | 8a 1b | S:2a 2a 2a 1b | 4a 1a | 4a 1a | 5a 2a 1b | 8a 1b | 1b 4a | 1b 1a | 
+  no-stamp: needs stamp (1 unknown) looks 36
+  plain clues: looks 36 passes 8 open 22
+pc-r8c4 11x11 OK looks 36 passes 12 open 20 search 45.9 first[r1,r2,r3,r4,r5,r6,r7,r8,r10,r11,c1,c2,c3,c4,c6,c7,c8,c9,c10,c11]
+  rows: 4a | 6a | 1a 4a 2b | 6a | 2a 3a | 2a 2a | 3a 3a | 2a 2a | S:2a 2a | 4a | 2b 2b
+  cols: 1a | 3a | 8a 1b | 2a 2a 2a 1b | S:4a 1a | 4a 1a | 5a 2a 1b | 8a 1b | 1b 4a | 1b 1a | 
+  no-stamp: needs stamp (4 unknown) looks 36
+  plain clues: looks 36 passes 9 open 22
+    ...####....
+    ..######...
+    ..#.######.
+    ..######...
+    ..##.?##?..
+    .##....##..
+    ###....###.
+    .##....##..
+    ..##..##?..
+    ...####....
+    ..##..##...
+pc-r8c5 11x11 BAD(3) looks 36 passes 11 open 20 search 59.1 first[r1,r2,r3,r4,r5,r6,r7,r8,r10,r11,c1,c2,c3,c4,c5,c7,c8,c9,c10,c11]
+  rows: 4a | 6a | 1a 4a 2b | 6a | 2a 3a | 2a 2a | 3a 3a | 2a 2a | S:2a 2a | 4a | 2b 2b
+  cols: 1a | 3a | 8a 1b | 2a 2a 2a 1b | 4a 1a | S:4a 1a | 5a 2a 1b | 8a 1b | 1b 4a | 1b 1a | 
+  no-stamp: needs stamp (9 unknown) looks 35
+  plain clues: looks 36 passes 9 open 22
+    ..?###?....
+    ..######...
+    ..#.######.
+    ..######...
+    ..##..?##?.
+    .##....##..
+    ###...?##?.
+    .##....##..
+    ..?#..##.?.
+    ...####....
+    ..##..##...
+pc-r8c6 11x11 BAD(8) looks 35 passes 9 open 20 search 54.4 first[r1,r2,r3,r4,r5,r6,r7,r8,r10,r11,c1,c2,c3,c4,c5,c6,c8,c9,c10,c11]
+  rows: 4a | 6a | 1a 4a 2b | 6a | 2a 3a | 2a 2a | 3a 3a | 2a 2a | S:2a 2a | 4a | 2b 2b
+  cols: 1a | 3a | 8a 1b | 2a 2a 2a 1b | 4a 1a | 4a 1a | S:5a 2a 1b | 8a 1b | 1b 4a | 1b 1a | 
+  no-stamp: needs stamp (1 unknown) looks 37
+  plain clues: looks 36 passes 9 open 22
+pc-r8c7 11x11 OK looks 37 passes 11 open 20 search 53.1 first[r1,r2,r3,r4,r5,r6,r7,r8,r10,r11,c1,c2,c3,c4,c5,c6,c7,c9,c10,c11]
+  rows: 4a | 6a | 1a 4a 2b | 6a | 2a 3a | 2a 2a | 3a 3a | 2a 2a | S:2a 2a | 4a | 2b 2b
+  cols: 1a | 3a | 8a 1b | 2a 2a 2a 1b | 4a 1a | 4a 1a | 5a 2a 1b | S:8a 1b | 1b 4a | 1b 1a | 
+  no-stamp: needs stamp (18 unknown) looks 33
+  plain clues: looks 30 passes 7 open 22
+    ..?###?....
+    ..?#####?..
+    ..#.######.
+    ..######...
+    ..##..###..
+    .##...?#?..
+    ###...?##?.
+    .##...?#?..
+    ..?#..?#.?.
+    ..?###?....
+    ..##..?#?..
+pc-r8c8 11x11 BAD(17) looks 33 passes 9 open 20 search 71.2 first[r1,r2,r3,r4,r5,r6,r7,r8,r10,r11,c1,c2,c3,c4,c5,c6,c7,c8,c10,c11]
+  rows: 4a | 6a | 1a 4a 2b | 6a | 2a 3a | 2a 2a | 3a 3a | 2a 2a | S:2a 2a | 4a | 2b 2b
+  cols: 1a | 3a | 8a 1b | 2a 2a 2a 1b | 4a 1a | 4a 1a | 5a 2a 1b | 8a 1b | S:1b 4a | 1b 1a | 
+  no-stamp: needs stamp (1 unknown) looks 35
+  plain clues: looks 36 passes 9 open 22
+pc-r8c9 11x11 OK looks 35 passes 11 open 20 search 43.4 first[r1,r2,r3,r4,r5,r6,r7,r8,r10,r11,c1,c2,c3,c4,c5,c6,c7,c8,c9,c11]
+  rows: 4a | 6a | 1a 4a 2b | 6a | 2a 3a | 2a 2a | 3a 3a | 2a 2a | S:2a 2a | 4a | 2b 2b
+  cols: 1a | 3a | 8a 1b | 2a 2a 2a 1b | 4a 1a | 4a 1a | 5a 2a 1b | 8a 1b | 1b 4a | S:1b 1a | 
+  no-stamp: needs stamp (1 unknown) looks 37
+  plain clues: looks 36 passes 9 open 22
+pc-r8c10 11x11 OK looks 37 passes 11 open 20 search 50.3 first[r1,r2,r3,r4,r5,r6,r7,r8,r10,r11,c1,c2,c3,c4,c5,c6,c7,c8,c9,c10]
+  rows: 4a | 6a | 1a 4a 2b | 6a | 2a 3a | 2a 2a | 3a 3a | 2a 2a | S:2a 2a | 4a | 2b 2b
+  cols: 1a | 3a | 8a 1b | 2a 2a 2a 1b | 4a 1a | 4a 1a | 5a 2a 1b | 8a 1b | 1b 4a | 1b 1a | S:
+  no-stamp: needs stamp (1 unknown) looks 41
+  plain clues: looks 36 passes 9 open 22
+pc-r9c0 11x11 OK looks 41 passes 13 open 20 search 54.3 first[r1,r2,r3,r4,r5,r6,r7,r8,r9,r11,c2,c3,c4,c5,c6,c7,c8,c9,c10,c11]
+  rows: 4a | 6a | 1a 4a 2b | 6a | 2a 3a | 2a 2a | 3a 3a | 2a 2a | 2a 2a | S:4a | 2b 2b
+  cols: S:1a | 3a | 8a 1b | 2a 2a 2a 1b | 4a 1a | 4a 1a | 5a 2a 1b | 8a 1b | 1b 4a | 1b 1a | 
+  no-stamp: needs stamp (17 unknown) looks 38
+  plain clues: looks 33 passes 9 open 22
+    ...####....
+    .?#####?...
+    ..#.######.
+    ..######...
+    ..##..###..
+    .##....##..
+    ??#??..###.
+    .?#?...##..
+    .?#?..##...
+    ?..??##?...
+    .?#?..##...
+pc-r9c1 11x11 BAD(16) looks 38 passes 12 open 20 search 95.3 first[r1,r2,r3,r4,r5,r6,r7,r8,r9,r11,c1,c3,c4,c5,c6,c7,c8,c9,c10,c11]
+  rows: 4a | 6a | 1a 4a 2b | 6a | 2a 3a | 2a 2a | 3a 3a | 2a 2a | 2a 2a | S:4a | 2b 2b
+  cols: 1a | S:3a | 8a 1b | 2a 2a 2a 1b | 4a 1a | 4a 1a | 5a 2a 1b | 8a 1b | 1b 4a | 1b 1a | 
+  no-stamp: needs stamp (66 unknown) looks 30
+  plain clues: looks 31 passes 9 open 22
+    ???#???....
+    ??####??...
+    ???.######.
+    ..??####??.
+    ??????##?..
+    ???????#?..
+    ???????##?.
+    ???????#?..
+    ???????#?..
+    ??.???????.
+    ..##..##...
+pc-r9c2 11x11 BAD(65) looks 30 passes 6 open 20 search 91.3 first[r1,r2,r3,r4,r5,r6,r7,r8,r9,r11,c1,c2,c4,c5,c6,c7,c8,c9,c10,c11]
+  rows: 4a | 6a | 1a 4a 2b | 6a | 2a 3a | 2a 2a | 3a 3a | 2a 2a | 2a 2a | S:4a | 2b 2b
+  cols: 1a | 3a | S:8a 1b | 2a 2a 2a 1b | 4a 1a | 4a 1a | 5a 2a 1b | 8a 1b | 1b 4a | 1b 1a | 
+  no-stamp: needs stamp (21 unknown) looks 35
+  plain clues: looks 29 passes 6 open 22
+    ...?###?...
+    ..######...
+    ..#.######.
+    ..######...
+    .?#?..###..
+    .?#?...##..
+    ??#??..###.
+    .?#?...##..
+    .?#?.?#?...
+    ??.#??#....
+    ..##..##...
+pc-r9c3 11x11 BAD(20) looks 35 passes 12 open 20 search 74.8 first[r1,r2,r3,r4,r5,r6,r7,r8,r9,r11,c1,c2,c3,c5,c6,c7,c8,c9,c10,c11]
+  rows: 4a | 6a | 1a 4a 2b | 6a | 2a 3a | 2a 2a | 3a 3a | 2a 2a | 2a 2a | S:4a | 2b 2b
+  cols: 1a | 3a | 8a 1b | S:2a 2a 2a 1b | 4a 1a | 4a 1a | 5a 2a 1b | 8a 1b | 1b 4a | 1b 1a | 
+  no-stamp: needs stamp (4 unknown) looks 39
+  plain clues: looks 31 passes 7 open 22
+    ...####....
+    ..######...
+    ..#.######.
+    ..######...
+    ..##..###..
+    .##....##..
+    ###....###.
+    .##....##..
+    ..##..##...
+    ..?####....
+    ..?#?.##...
+pc-r9c4 11x11 BAD(3) looks 39 passes 12 open 20 search 55.2 first[r1,r2,r3,r4,r5,r6,r7,r8,r9,r11,c1,c2,c3,c4,c6,c7,c8,c9,c10,c11]
+  rows: 4a | 6a | 1a 4a 2b | 6a | 2a 3a | 2a 2a | 3a 3a | 2a 2a | 2a 2a | S:4a | 2b 2b
+  cols: 1a | 3a | 8a 1b | 2a 2a 2a 1b | S:4a 1a | 4a 1a | 5a 2a 1b | 8a 1b | 1b 4a | 1b 1a | 
+  no-stamp: needs stamp (4 unknown) looks 41
+  plain clues: looks 36 passes 9 open 22
+    ...####....
+    ..######...
+    ..#.######.
+    ..######...
+    ..##..###..
+    .##....##..
+    ###....###.
+    .##....##..
+    ..##..##...
+    ...####?...
+    ..##.?#?...
+pc-r9c5 11x11 BAD(3) looks 41 passes 13 open 20 search 65.0 first[r1,r2,r3,r4,r5,r6,r7,r8,r9,r11,c1,c2,c3,c4,c5,c7,c8,c9,c10,c11]
+  rows: 4a | 6a | 1a 4a 2b | 6a | 2a 3a | 2a 2a | 3a 3a | 2a 2a | 2a 2a | S:4a | 2b 2b
+  cols: 1a | 3a | 8a 1b | 2a 2a 2a 1b | 4a 1a | S:4a 1a | 5a 2a 1b | 8a 1b | 1b 4a | 1b 1a | 
+  no-stamp: needs stamp (11 unknown) looks 37
+  plain clues: looks 32 passes 9 open 22
+    ..?###?....
+    ..######...
+    ..#.######.
+    ..######...
+    ..##..?##?.
+    .##....##..
+    ###...?##?.
+    .##....##..
+    ..?#?.##...
+    ...#?##..?.
+    ..##..##...
+pc-r9c6 11x11 BAD(10) looks 37 passes 9 open 20 search 63.9 first[r1,r2,r3,r4,r5,r6,r7,r8,r9,r11,c1,c2,c3,c4,c5,c6,c8,c9,c10,c11]
+  rows: 4a | 6a | 1a 4a 2b | 6a | 2a 3a | 2a 2a | 3a 3a | 2a 2a | 2a 2a | S:4a | 2b 2b
+  cols: 1a | 3a | 8a 1b | 2a 2a 2a 1b | 4a 1a | 4a 1a | S:5a 2a 1b | 8a 1b | 1b 4a | 1b 1a | 
+  no-stamp: needs stamp (4 unknown) looks 40
+  plain clues: looks 32 passes 6 open 22
+    ...####....
+    ..######...
+    ..#.######.
+    ..######...
+    ..##..###..
+    .##....##..
+    ###....###.
+    .##....##..
+    ..##.?#?...
+    ...##?#....
+    ..##..##...
+pc-r9c7 11x11 BAD(3) looks 40 passes 13 open 20 search 78.4 first[r1,r2,r3,r4,r5,r6,r7,r8,r9,r11,c1,c2,c3,c4,c5,c6,c7,c9,c10,c11]
+  rows: 4a | 6a | 1a 4a 2b | 6a | 2a 3a | 2a 2a | 3a 3a | 2a 2a | 2a 2a | S:4a | 2b 2b
+  cols: 1a | 3a | 8a 1b | 2a 2a 2a 1b | 4a 1a | 4a 1a | 5a 2a 1b | S:8a 1b | 1b 4a | 1b 1a | 
+  no-stamp: needs stamp (24 unknown) looks 34
+  plain clues: looks 30 passes 7 open 22
+    ..?###?....
+    ..?#####?..
+    ..#.######.
+    ..######...
+    ..##..###..
+    .##...?#?..
+    ###..??#??.
+    .##...?#?..
+    ..?#?.?#?..
+    ..?#???..?.
+    ..##..?#?..
+pc-r9c8 11x11 BAD(23) looks 34 passes 9 open 20 search 86.7 first[r1,r2,r3,r4,r5,r6,r7,r8,r9,r11,c1,c2,c3,c4,c5,c6,c7,c8,c10,c11]
+  rows: 4a | 6a | 1a 4a 2b | 6a | 2a 3a | 2a 2a | 3a 3a | 2a 2a | 2a 2a | S:4a | 2b 2b
+  cols: 1a | 3a | 8a 1b | 2a 2a 2a 1b | 4a 1a | 4a 1a | 5a 2a 1b | 8a 1b | S:1b 4a | 1b 1a | 
+  no-stamp: needs stamp (1 unknown) looks 42
+  plain clues: looks 36 passes 9 open 22
+pc-r9c9 11x11 OK looks 42 passes 13 open 20 search 55.3 first[r1,r2,r3,r4,r5,r6,r7,r8,r9,r11,c1,c2,c3,c4,c5,c6,c7,c8,c9,c11]
+  rows: 4a | 6a | 1a 4a 2b | 6a | 2a 3a | 2a 2a | 3a 3a | 2a 2a | 2a 2a | S:4a | 2b 2b
+  cols: 1a | 3a | 8a 1b | 2a 2a 2a 1b | 4a 1a | 4a 1a | 5a 2a 1b | 8a 1b | 1b 4a | S:1b 1a | 
+  no-stamp: needs stamp (1 unknown) looks 41
+  plain clues: looks 36 passes 9 open 22
+pc-r9c10 11x11 OK looks 41 passes 13 open 20 search 58.0 first[r1,r2,r3,r4,r5,r6,r7,r8,r9,r11,c1,c2,c3,c4,c5,c6,c7,c8,c9,c10]
+  rows: 4a | 6a | 1a 4a 2b | 6a | 2a 3a | 2a 2a | 3a 3a | 2a 2a | 2a 2a | S:4a | 2b 2b
+  cols: 1a | 3a | 8a 1b | 2a 2a 2a 1b | 4a 1a | 4a 1a | 5a 2a 1b | 8a 1b | 1b 4a | 1b 1a | S:
+  no-stamp: needs stamp (1 unknown) looks 34
+  plain clues: looks 35 passes 9 open 22
+pc-r10c0 11x11 OK looks 34 passes 9 open 20 search 44.3 first[r1,r2,r3,r4,r5,r6,r7,r8,r9,r10,c2,c3,c4,c5,c6,c7,c8,c9,c10,c11]
+  rows: 4a | 6a | 1a 4a 2b | 6a | 2a 3a | 2a 2a | 3a 3a | 2a 2a | 2a 2a | 4a | S:2b 2b
+  cols: S:1a | 3a | 8a 1b | 2a 2a 2a 1b | 4a 1a | 4a 1a | 5a 2a 1b | 8a 1b | 1b 4a | 1b 1a | 
+  no-stamp: needs stamp (12 unknown) looks 35
+  plain clues: looks 36 passes 9 open 22
+    ...####....
+    .?#####?...
+    ..#.######.
+    ..######...
+    ..##..###..
+    .##....##..
+    ?##?...###.
+    .?#?...##..
+    .?#?..##...
+    ...?###?...
+    ?.##..##...
+pc-r10c1 11x11 BAD(11) looks 35 passes 12 open 20 search 66.5 first[r1,r2,r3,r4,r5,r6,r7,r8,r9,r10,c1,c3,c4,c5,c6,c7,c8,c9,c10,c11]
+  rows: 4a | 6a | 1a 4a 2b | 6a | 2a 3a | 2a 2a | 3a 3a | 2a 2a | 2a 2a | 4a | S:2b 2b
+  cols: 1a | S:3a | 8a 1b | 2a 2a 2a 1b | 4a 1a | 4a 1a | 5a 2a 1b | 8a 1b | 1b 4a | 1b 1a | 
+  no-stamp: needs stamp (74 unknown) looks 26
+  plain clues: looks 35 passes 9 open 22
+    ???#???....
+    ??####??...
+    ???.######.
+    ..??####??.
+    ??????##?..
+    ???????#?..
+    ???????#??.
+    ???????#?..
+    ???????#?..
+    ??????????.
+    ??##??##??.
+pc-r10c2 11x11 BAD(73) looks 26 passes 6 open 20 search 81.6 first[r1,r2,r3,r4,r5,r6,r7,r8,r9,r10,c1,c2,c4,c5,c6,c7,c8,c9,c10,c11]
+  rows: 4a | 6a | 1a 4a 2b | 6a | 2a 3a | 2a 2a | 3a 3a | 2a 2a | 2a 2a | 4a | S:2b 2b
+  cols: 1a | 3a | S:8a 1b | 2a 2a 2a 1b | 4a 1a | 4a 1a | 5a 2a 1b | 8a 1b | 1b 4a | 1b 1a | 
+  no-stamp: needs stamp (12 unknown) looks 33
+  plain clues: looks 36 passes 9 open 22
+    ...####....
+    ..######...
+    ..#.######.
+    ..######...
+    .?#?..###..
+    .?#?...##..
+    ?##?...###.
+    .?#?...##..
+    .?#?..##...
+    ...####....
+    ?.##..##...
+pc-r10c3 11x11 BAD(11) looks 33 passes 12 open 20 search 70.5 first[r1,r2,r3,r4,r5,r6,r7,r8,r9,r10,c1,c2,c3,c5,c6,c7,c8,c9,c10,c11]
+  rows: 4a | 6a | 1a 4a 2b | 6a | 2a 3a | 2a 2a | 3a 3a | 2a 2a | 2a 2a | 4a | S:2b 2b
+  cols: 1a | 3a | 8a 1b | S:2a 2a 2a 1b | 4a 1a | 4a 1a | 5a 2a 1b | 8a 1b | 1b 4a | 1b 1a | 
+  no-stamp: needs stamp (1 unknown) looks 36
+  plain clues: looks 36 passes 9 open 22
+pc-r10c4 11x11 OK looks 36 passes 12 open 20 search 54.7 first[r1,r2,r3,r4,r5,r6,r7,r8,r9,r10,c1,c2,c3,c4,c6,c7,c8,c9,c10,c11]
+  rows: 4a | 6a | 1a 4a 2b | 6a | 2a 3a | 2a 2a | 3a 3a | 2a 2a | 2a 2a | 4a | S:2b 2b
+  cols: 1a | 3a | 8a 1b | 2a 2a 2a 1b | S:4a 1a | 4a 1a | 5a 2a 1b | 8a 1b | 1b 4a | 1b 1a | 
+  no-stamp: needs stamp (1 unknown) looks 35
+  plain clues: looks 36 passes 9 open 22
+pc-r10c5 11x11 OK looks 35 passes 9 open 20 search 45.7 first[r1,r2,r3,r4,r5,r6,r7,r8,r9,r10,c1,c2,c3,c4,c5,c7,c8,c9,c10,c11]
+  rows: 4a | 6a | 1a 4a 2b | 6a | 2a 3a | 2a 2a | 3a 3a | 2a 2a | 2a 2a | 4a | S:2b 2b
+  cols: 1a | 3a | 8a 1b | 2a 2a 2a 1b | 4a 1a | S:4a 1a | 5a 2a 1b | 8a 1b | 1b 4a | 1b 1a | 
+  no-stamp: needs stamp (6 unknown) looks 36
+  plain clues: looks 36 passes 9 open 22
+    ...####....
+    ..######...
+    ..#.######.
+    ..######...
+    ..##..?##?.
+    .##....##..
+    ###...?##?.
+    .##....##..
+    ..##..##...
+    ...####....
+    ..##..##.?.
+pc-r10c6 11x11 BAD(5) looks 36 passes 10 open 20 search 55.8 first[r1,r2,r3,r4,r5,r6,r7,r8,r9,r10,c1,c2,c3,c4,c5,c6,c8,c9,c10,c11]
+  rows: 4a | 6a | 1a 4a 2b | 6a | 2a 3a | 2a 2a | 3a 3a | 2a 2a | 2a 2a | 4a | S:2b 2b
+  cols: 1a | 3a | 8a 1b | 2a 2a 2a 1b | 4a 1a | 4a 1a | S:5a 2a 1b | 8a 1b | 1b 4a | 1b 1a | 
+  no-stamp: needs stamp (1 unknown) looks 38
+  plain clues: looks 36 passes 9 open 22
+pc-r10c7 11x11 OK looks 38 passes 10 open 20 search 57.4 first[r1,r2,r3,r4,r5,r6,r7,r8,r9,r10,c1,c2,c3,c4,c5,c6,c7,c9,c10,c11]
+  rows: 4a | 6a | 1a 4a 2b | 6a | 2a 3a | 2a 2a | 3a 3a | 2a 2a | 2a 2a | 4a | S:2b 2b
+  cols: 1a | 3a | 8a 1b | 2a 2a 2a 1b | 4a 1a | 4a 1a | 5a 2a 1b | S:8a 1b | 1b 4a | 1b 1a | 
+  no-stamp: needs stamp (12 unknown) looks 33
+  plain clues: looks 34 passes 9 open 22
+    ...####....
+    ..?#####?..
+    ..#.######.
+    ..######...
+    ..##..###..
+    .##....##..
+    ###...?##?.
+    .##...?#?..
+    ..##..?#?..
+    ..?###?....
+    ..##..##.?.
+pc-r10c8 11x11 BAD(11) looks 33 passes 12 open 20 search 71.8 first[r1,r2,r3,r4,r5,r6,r7,r8,r9,r10,c1,c2,c3,c4,c5,c6,c7,c8,c10,c11]
+  rows: 4a | 6a | 1a 4a 2b | 6a | 2a 3a | 2a 2a | 3a 3a | 2a 2a | 2a 2a | 4a | S:2b 2b
+  cols: 1a | 3a | 8a 1b | 2a 2a 2a 1b | 4a 1a | 4a 1a | 5a 2a 1b | 8a 1b | S:1b 4a | 1b 1a | 
+  no-stamp: needs stamp (1 unknown) looks 35
+  plain clues: looks 36 passes 9 open 22
+pc-r10c9 11x11 OK looks 35 passes 9 open 20 search 45.1 first[r1,r2,r3,r4,r5,r6,r7,r8,r9,r10,c1,c2,c3,c4,c5,c6,c7,c8,c9,c11]
+  rows: 4a | 6a | 1a 4a 2b | 6a | 2a 3a | 2a 2a | 3a 3a | 2a 2a | 2a 2a | 4a | S:2b 2b
+  cols: 1a | 3a | 8a 1b | 2a 2a 2a 1b | 4a 1a | 4a 1a | 5a 2a 1b | 8a 1b | 1b 4a | S:1b 1a | 
+  no-stamp: needs stamp (1 unknown) looks 37
+  plain clues: looks 36 passes 9 open 22
+pc-r10c10 11x11 OK looks 37 passes 9 open 20 search 49.4 first[r1,r2,r3,r4,r5,r6,r7,r8,r9,r10,c1,c2,c3,c4,c5,c6,c7,c8,c9,c10]
+  rows: 4a | 6a | 1a 4a 2b | 6a | 2a 3a | 2a 2a | 3a 3a | 2a 2a | 2a 2a | 4a | S:2b 2b
+  cols: 1a | 3a | 8a 1b | 2a 2a 2a 1b | 4a 1a | 4a 1a | 5a 2a 1b | 8a 1b | 1b 4a | 1b 1a | S:

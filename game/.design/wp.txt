@@ -1,0 +1,10 @@
+== kiln-willow-plate #C9B8A0,#2B3A67 crack=r4.1
+..bbbbbb..
+.bbaaabbb.
+baaaabbbbb
+baaaaabbab
+baaaaaabab
+bbbaaaabab
+babbbaaaab
+.bbaaaaab.
+..bbbbbb..

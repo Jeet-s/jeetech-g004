@@ -1,0 +1,14 @@
+= 3
+....a......
+..aaaaaaa..
+.aaaaaaaaaa
+.ccccccccc.
+ccbbbbbbbcc
+cbbCbbbCbbc
+cbbbbbbbbbc
+cbbbbbbbbbc
+ccbbcccbbcc
+cccbbbbbccc
+.ccc.b.ccc.
+....bbb....
+.aaaaaaaaa.

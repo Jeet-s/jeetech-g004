@@ -1,0 +1,278 @@
+ID: exhibit-fruit-bowl
+T: Still Life with Fruit Bowl
+P: CORAL GOLD PLUM UMBER SAGE
+R: teach
+M: color void
+~~~....ee....~~
+~~....eebb....~
+~.aaa.e.bbb...~
+.aaaaa..bbbb...
+aaaaaaa.bbbbb..
+aaaaaaabbbbbbcc
+aaaaaaabbbbbccc
+.aaaaacbbbbcccc
+..aaaccc.bccccc
+ddddddddddddddd
+.ddddddddddddd.
+..dddd.d.dddd..
+...ddddddddd...
+~.....ddd.....~
+~~..ddddddd..~~
+
+ID: exhibit-balloons
+T: Hot-Air Balloons
+P: CORAL GOLD SKY UMBER SAGE
+R: teach
+M: color stamp
+...aaaaa.......
+..aabbbaa......
+.aabbbbbaa.....
+.abbaaabba.....
+aabaaaaabaa....
+aabaaaaabaa.cc.
+.abbaaabba.cbbc
+.aabbbbbaa.cbbc
+..aabbbaa..cbbc
+...aaaaa....cc.
+...d...d....d.d
+....d.d.....ddd
+...ddddd.......
+....ddd........
+eeee.....eeeeee
+
+ID: exhibit-flower-vase
+T: Flower Vase
+P: PLUM GOLD SAGE SKY NIGHT
+R: practise
+M: color-cross smudged
+..aaa.....aaa..
+.aabaa...aabaa.
+.aaaaa.a.aaaaa.
+..aaa.aba.aaa..
+...c..aaa..c...
+cc..c..c..c..cc
+.ccc.cc.cc.ccc.
+......ccc......
+....ddddddd....
+...ddddddddd...
+..ddeddeddedd..
+..ddddddddddd..
+...ddddddddd...
+....ddddddd....
+...eeeeeeeee...
+
+ID: exhibit-carousel-horse
+T: Carousel Horse
+P: CREAM GOLD CORAL PLUM
+R: practise
+M: color cracked overlap
+.......bb.......
+.......bb.......
+...dd..bb.......
+..daaa.bb.......
+.daaaaabb.......
+daaa.aabb.......
+aaa..aabb.......
+aa...aabbaa.....
+.....aaccaaaa..d
+....aaacccaaaadd
+....aaaaaaaaaa.d
+....aa.bb..aa...
+...aa..bb...aa..
+..aa...bb....aa.
+.......bb.......
+bbbbbbbbbbbbbbbb
+
+ID: exhibit-sunset-ship
+T: Ship at Sunset
+P: GOLD CORAL CREAM UMBER NIGHT PEACH
+R: twist
+M: void smudged color
+~~~~~~.db..~~~~~
+~~~....d..aaa.~~
+~ff....d.aaaaa.~
+ffff...d.aaaaa..
+.....cd..aaaaa..
+.....ccdc.aaa...
+....cccdcc...ff.
+...ccccdccc.fff.
+..cccccdcccc....
+.ccccccdccccc...
+.......d........
+bddddddddddddbbb
+.bddddddddddbb..
+eeebbbbbbbbeeeee
+.eee..eeee..eee.
+~~.eeeee.eeeee~~
+
+ID: exhibit-peacock
+T: Peacock
+P: TEAL NIGHT GOLD SAGE UMBER
+R: boss
+M: color-cross smudged cracked
+.....c..a.a.c.....
+....cbc.aaa.bc....
+....dcd.aaaecd....
+..cdddd.aa..dddc..
+.cbcdd..aa..ddcbc.
+..cddd.aaaa.dddc..
+.dddc.aaaaa..cddd.
+.ddcb.aaaaaa.bcdd.
+dcddc.aaaaaa.cddcd
+cbcdd.aaaaaa.ddcbc
+dcddd.aaaaa.cdddcd
+dddcdd.aaaa.ddcddd
+ddcbcdd.aa.ddcbcdd
+dddcddde..edddcddd
+ddddddde..eddddddd
+eeeeeeeeeeeeeeeeee
+..ee..........ee..
+
+ID: exhibit-mina-portrait
+T: Mina the Curator
+P: CREAM TEAL NIGHT ROSE
+R: breather
+M: color stamp
+.a...........a.
+.aa.........aa.
+.aaa.......aaa.
+.aaaaaaaaaaaaa.
+aaaaaaaaaaaaaaa
+aaacccaaacccaaa
+aacaaacccaaacaa
+aacacacacacacaa
+aaacccaaacccaaa
+aaaaaaadaaaaaaa
+.aaaaaacaaaaaa.
+..aaaaaaaaaaa..
+..bbbbbbbbbbb..
+.bbbbbbbbbbbbb.
+....aabbaaa....
+
+ID: exhibit-old-painter
+T: Ostrava the Painter
+P: PEACH SKY NIGHT PLUM CREAM UMBER
+R: practise
+M: color-cross cracked
+........d.........
+.....ddddddd......
+...dddddddddd.....
+..dddddddddddd....
+....aaaaaaaa......
+...aacaaaacaa.....
+....aaaaaaaa......
+....eaaaaaae......
+....eeeeeeee......
+....eeeeeeee......
+.....eeeeee.......
+......eeee...fff..
+..bbbbbeebbbffffff
+.bbbbbbbbbbffdfaff
+.bbbbbbbbbbfcffff.
+.bbbbbbbbbbbffff..
+bbbbbbbbbbbbb.....
+bbbbbbbbbbbbb.....
+
+ID: exhibit-monarch
+T: Monarch Butterfly
+P: CORAL NIGHT CREAM
+R: combine
+M: color void smudged
+~~~~~.b....b.~~~~~
+~~cbbbbb..bbbbbc~~
+~caaaaabbbbaaaaac~
+baabaaaabbaaaabaab
+caaabaaabbaaabaaac
+baaaabaabbaabaaaab
+cabaaababbabaaabac
+.babaaabbbbaaabab.
+..babab.bb.babab..
+...baaabbbbaaab...
+..babaaabbaaabab..
+~.baabaabbaabaab.~
+~~bbaababbabaabb~~
+~~~baaabbbbaaab~~~
+~~~~bbb.bb.bbb~~~~
+
+ID: exhibit-alpine-lake
+T: Alpine Lake
+P: NIGHT CREAM TEAL SKY GOLD SAGE
+R: twist
+M: smudged cracked color-cross
+.......b.......ee...
+......bbb.....eeee..
+.....bbabb....eeee..
+....bbaaabb....ee...
+...baaaaaaab........
+..aaaaaaaaaaa..b....
+.aaaaaaaaaaaa.bbb...
+aaaaaaaaaaaaaabbabb.
+aaaaaaaaaaaaaaaaaaa.
+acaaaacaaaaaaaaacaaa
+cccaacccaaaaaaacccaa
+cccccccccaaaaaccccca
+ffffffffffffffffffff
+dddddddddddddddeeddd
+ddddaaaaaaaddddeeddd
+d..ddaaaaaddd..dd..d
+ddddddaaaddddddeeddd
+dddd..ddadddd..ddddd
+..dddd....dddd..dd..
+dd....dddd....dd..dd
+
+ID: exhibit-gallery-hall
+T: Gallery Hall
+P: GOLD UMBER TEAL CORAL NIGHT CREAM
+R: combine
+M: void stamp cracked
+~~~~eeeeeeeeeeee~~~~
+~~eee..........eee~~
+~ee....aaaaaa....ee~
+e.aaaa.a....a.aaaa.e
+e.a.ca.a.dd.a.adda.e
+e.acca.a.dd.a.adda.e
+e.aaaa.a....a.aaaa.e
+e......a.cc.a......e
+e......acccca......e
+e......aaaaaa......e
+e..................e
+e.e..............e.e
+e.edddddddddddddde.e
+e.e....dddddd....e.e
+e.e...bbbbbbbb...e.e
+eeee..b......b..eeee
+bfbfbfbfbfbfbfbfbfbf
+fbfbfbfbfbfbfbfbfbfb
+bfbfbfbfbfbfbfbfbfbf
+ffffffffffffffffffff
+
+ID: exhibit-grand-masterwork
+T: Masterwork: Grand Exhibit
+P: GOLD UMBER SAGE CORAL NIGHT SKY
+R: finale
+M: color-cross smudged cracked stamp
+............e............
+.......d....e....d.......
+.......a...aaa...a.......
+.......aaaaaaaaaaa.......
+..........aaaaa..........
+........aa.aa.aaa........
+aa.aaaa.a.dd....a.aa.aaaa
+af...fa...dd.e.e..a.ddd.a
+.fffff..a.....e.a...dad..
+afefefa.a.......a.a..c..a
+affdffa....c......ac.c.ca
+..fff...a.ccc..ca...eee..
+a.ccc.a.accccccca.a.eee.a
+aa.aaaa.aceccccea.aa.aaaa
+........aa.aa.aaa...e....
+..f...f...........eeeee..
+..fffff...........fffff..
+..fffff...........fffff..
+..ccccc............fff...
+.fffffff.........ddd.ddd.
+.fffffff.bbbbbbb.ddd.ddda
+.ffffffffb.....b.ddd.ddda
+.ffffffffb.....b.ddd.ddd.
+.fffffff.b.....b.dd...dd.
+bb.bbb.bb.bbbbb.bb.bbb.bb

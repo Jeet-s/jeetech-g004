@@ -1,0 +1,10 @@
+..aabbaa..
+.aabbaabb.
+aabb.aa.bb
+a..b..a..b
+.b......b.
+.b.a.a..b.
+.baaaaa.b.
+.bbbbbbbb.
+.b.b..b.b.
+.b......b.

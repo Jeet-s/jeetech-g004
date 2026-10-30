@@ -1,0 +1,11 @@
+== kiln-honey-jar #E3A83B,#8A5A3C,#D9694F crack=r1.0
+..bbbbb...
+.cccccccc.
+cccccccccc
+c.cbbbbc.c
+.aaaaaaaa.
+aabbbb.baa
+aab.bb.baa
+aabbbbbbaa
+.aaaaaaaa.
+..aaaaaa..

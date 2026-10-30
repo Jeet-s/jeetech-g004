@@ -1,0 +1,7 @@
+exhibit-carousel-horse: 49 unique of 51
+search 68.3 steps 45 passes 8 open0 32  S:   C: c6.0
+search 67.4 steps 45 passes 9 open0 32  S:   C: r8.2
+search 65.1 steps 42 passes 5 open0 32  S:   C: c0.1
+search 59.8 steps 43 passes 9 open0 32  S:   C: r9.0
+search 59.7 steps 47 passes 5 open0 32  S:   C: r1.0
+max 68.3

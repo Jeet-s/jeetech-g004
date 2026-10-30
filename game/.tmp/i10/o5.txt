@@ -1,0 +1,7 @@
+exhibit-sunset-ship: 39 unique of 187
+search 75.7 steps 53 passes 5 open0 30  S: c3 c15  C: c7.1
+search 69.4 steps 51 passes 5 open0 30  S: c14 c8  C: r11.2
+search 57.9 steps 45 passes 5 open0 30  S: r10 r2  C: c13.3
+search 55.2 steps 42 passes 4 open0 30  S: r2 r14  C: r11.2
+search 55.1 steps 45 passes 5 open0 30  S: r10 r1  C: c2.3
+max 75.7

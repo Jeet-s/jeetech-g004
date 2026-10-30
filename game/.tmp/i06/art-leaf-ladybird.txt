@@ -1,0 +1,13 @@
+~~~~ccccc~~~~
+~~cccb.bccc~~
+~ccc.bbb.ccc~
+ccc.bbbbb.ccc
+cc.aaabaaa.cc
+c.abaabaaba.c
+c.aaaabaaaa.c
+c.abbababba.c
+c.aaaabaaaa.c
+cc.abababa.cc
+~cc.aabaa.cc~
+~~ccc...ccc~~
+~~~~ccccc~~~~

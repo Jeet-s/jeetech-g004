@@ -1,0 +1,24 @@
+== astronaut-helmet #2B3A67,#6FA8DC
+......aaa....
+....aaaaaa...
+...aabbbbaa..
+..aa.bbbbbba.
+..abbaabbbba.
+..abaabbbbba.
+..abbbbbbbba.
+..aabbbbbbaa.
+...aabbbbaa..
+.a..aaaaaa...
+.aaaa.aa..aa.
+aa.aaaaaaa.aa
+.a.a.aaa.a..a
+== grand-paint-palette #8A5A3C,#D9694F,#6FA8DC
+~~~aaaaaa~~
+~aa.bbb.ca~
+..bbbb.ccca
+a.aaa..cc.a
+aaa~aa.bbba
+a.aaa.cbbba
+a.cc..cc.a~
+~acccaaaa~~
+~~aaaaaa~~~

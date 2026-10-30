@@ -1,0 +1,23 @@
+== firefly-jar #2B3A67,#E3A83B smudge=c2
+b.bbbbbb.b
+...bbbb...
+..aa.aaa..
+.aabaaaaa.
+.aaaaaaaaa
+aaBaaaaaaa
+aaaaabaaaa
+ab.aaaaaba
+.aaaaaaaa.
+.aaaabaaa.
+..aaaaaa..
+
+== kiln-willow-plate #C9B8A0,#2B3A67 crack=r4.1
+..bbbbbb..
+.bbaaabbb.
+b.aaa.bbbb
+baaaaabbab
+baaaaaabab
+bbbaaaabab
+babbbaaaab
+.bbaaaaab.
+.bbbbbbb..

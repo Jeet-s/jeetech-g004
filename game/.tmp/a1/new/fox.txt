@@ -1,0 +1,14 @@
+{
+    id: "sleeping-fox", title: "Fox Face", palette: [INK], role: "teach", mechanics: ["reach", "exact-fit"],
+    aha: "Reach: once rows 3-5 ink the cheek cells of column 1, its 5 must cover them — it can't reach rows 8-9, so those are paper. A run can only live where it can reach a known cell.",
+    art: `
+#.......#
+##.....##
+#.#####.#
+#########
+##.###.##
+.#######.
+..#####..
+...###...
+....#....`,
+  }

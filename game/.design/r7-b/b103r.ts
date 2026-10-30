@@ -1,0 +1,44 @@
+const NIGHT = "#2B3A67", GOLD = "#E3A83B", SKY = "#6FA8DC";
+const m = (art: string, tally: string[] = []) => ({ id: "moon-rover", title: "Moon Rover", palette: [NIGHT, SKY, GOLD], role: "breather", mechanics: ["color-tally"], tally, aha: "", art });
+export const A = [
+m(`
+.bbb..c..
+.bbb...cc
+..a...ba.
+.aaaaaaa.
+aabbaabba
+aaaaaaaaa
+ccc...ccc
+c.c...c.c
+ccc...ccc`),
+m(`
+bbb...c..
+bbb....cc
+.a....ba.
+.aaaaaaaa
+aabbaabba
+aaaaaaaaa
+ccc...ccc
+c.c...c.c
+ccc...ccc`),
+m(`
+.bbb.c...
+.bbb...cc
+..a...ba.
+.aaaaaaa.
+.abbaabba
+aaaaaaaaa
+ccc...ccc
+c.c...c.c
+ccc...ccc`),
+m(`
+bbb..c...
+bbb....cc
+.a....ba.
+aaaaaaaa.
+aabbaabba
+aaaaaaaaa
+ccc...ccc
+c.c...c.c
+ccc...ccc`),
+];

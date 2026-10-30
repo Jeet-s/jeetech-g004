@@ -1,0 +1,15 @@
+start 27.8
+step 1: (11,11) .->c search 42.5
+step 2: (8,6) c->. search 45.0
+...a.aa.a...
+..aaaaaaaa..
+.aaabbbbaaa.
+aaabbbbbbaaa
+.aabbbbbbaa.
+aaabbbbbbaaa
+.aaabbbbaaa.
+..aaaaaaaa..
+...a.c..a...
+.cc..cc.....
+..ccccc..cc.
+.....ccccccc

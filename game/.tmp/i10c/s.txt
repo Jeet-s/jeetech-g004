@@ -1,0 +1,17 @@
+= 3
+~~~~~c....c~~~~~
+~~~..a....a..~~~
+~~.ccacc.cac..~~
+~..ccacc.cac...~
+~....a....a....~
+.ccccacc.cac....
+.ccccacc.cac.bb.
+.ccccacc..a.bbbb
+.....a....a.bbbb
+aaaaaaaaaaaaaa..
+..aaaaaaaaaaa...
+~...aaaaaaa....~
+~.aa...aa...aa.~
+~~..aa...aa...~~
+~~~.aa...aa.~~~~
+~~~~~..aa..~~~~~

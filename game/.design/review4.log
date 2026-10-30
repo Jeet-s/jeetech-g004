@@ -1,0 +1,70 @@
+PASS level_intents: all 120 levels have a specific intent
+PASS no_filler_levels: no trivial filler levels after the tutorial
+FAIL level_design: level-design review 7.6/10 (bar 8), 0 level(s) below 6/10: This is a strong, well-engineered set. All 120 boards are line-logic unique with a trap rate of 0. Each level states one idea, and the stated intent matches the board on every level I spot-checked. The ten chapters are organised the same way: teach, practise, boss at 6, breather at 7, finale at 12. The last-third casual win rate averages about 64%, which is on target. The weaknesses are these. The opening is too big and too slow (8x6 and 8x7 as levels 1-2, where the genre standard starts at 5x5). A few levels repeat an earlier insight (L19 and L14, L43 and L37, L51 and L50, L91 and L86). Several chapters have a "mechanic" that adds no new rule: Observatory's "deep-chain" is only a longer solve. The shape set is also fairly formulaic: symmetric vases, urns and bowls recur. Nothing in the set is broken, unfair or an isolated spike. The set is solid and polished, but it is more consistent than memorable. Curve: Structure is clear. Each chapter is 12 levels with teach (1-2), practise (3-4), a twist (5), a boss (6), a breather (7), practise or twist (8-10), a combine level (11) and a finale (12). That is easy to read, but after ten chapters it is predictable.
+
+Opening: L1 (8x6, 13 optimal moves, 14 choices) and L2 (8x7) are too big for a first-ever nonogram. Start at 5x5. L3 is the first true overlap lesson, and L5 is a "twist" before the player has settled in. Move the twist to 8, where it already sits in the Regatta level.
+
+Mechanic introduction: it is good at the chapter level.
+- Colour arrives at L25.
+- Voids arrive at L37.
+- Stamps arrive at L49.
+- Colour-cross arrives at L61.
+- Smudged lines arrive at L73.
+- Cracked clues arrive at L85.
+- Combinations fill the last chapter.
+
+The chapter openers are cleanly isolated.
+
+Weak chapter: Observatory (L97-108). "Deep-chain" is not a new rule, only longer inference. It needs a distinct hook, such as a chapter-wide palette or a twist rule, so it does not feel like more of the same.
+
+Difficulty: the last third averages about 64% casual and skilled stays at 80-97%, which is on target. The chapter openers (L97 87%, L109 87%) work as relief. L111 (56%) follows L110 (83%) and L109 (87%), so it is a small step-up spike. Easy runs never exceed two levels in a row.
+
+Chapter 2, L19: the moth repeats L14's "4 4 fills nine with a notch" idea, and L43 repeats the L37 amphora urn. Replace them to keep the breather slots fresh.
+REDESIGN THESE LEVELS (keep the ones not listed):
+L19 (6/10): Repeats L14's '4 4 fills nine with notch at column 5' hook. It is not a new shape idea and the moth is near symmetric. → Replace with a calm bird or leaf where the exact row is 3 1 3 or 2 5 2, and keep three easy passes.
+L43 (6/10): Near copy of L37's amphora logic: symmetric vessel, 2 4 2 handle rows, voided corners. It is a disguised repeat. → Make it a non-vessel shape (a pagoda or kite) with a tapered exact row and asymmetric voids.
+L51 (6/10): Same 'lone 1 stamped, X the rest of the column' beat as L50. The seahorse is weak and the board feels sparse. → Use a stamp that pins an overlap run's position (as L49) instead, and fill the empty right side of the board.
+L1 (7/10): 8x6 with 14 choices and 13 moves is a heavy first level compared with the genre's 5x5 onboarding. → Replace with a 5x5 teacup where one full 5 row and one full column give the first moves. Keep this teacup as L3 or L4.
+L7 (7/10): Same structure as L1 (full row plus full column), so it feels like a re-skin of the opening. → Swap the bucket for a shape whose entry is a 3 1 3 row, or add one overlap-only column so it is a calm but new read.
+L14 (7/10): The row 5 '4 4 fills nine' hook is the same insight as L19 and close to L8. The fox is also mostly mirrored. → Use a different exact line (e.g. 2 1 2 3) and make the tail an unmistakable asymmetric anchor.
+L16 (7/10): Hedgehog is mostly a spiky comb. The 'reach' limit is hard to see as one idea and the shape is forgettable. → Make the legs distinctly different lengths and add the body quill gaps, so the leg-column reach logic is the only key.
+L29 (7/10): One exact row does it all, with little aha beyond L25/L26. The pear is a plain blob. → Move the twist to a partial row where the gap decision depends on a column, and add a leaf asymmetry.
+L62 (7/10): Second teach repeats the L61 'rows hold only X' logic, and the cactus sprawls with an empty right half. → Make the second teach a cross-check where a cell is allowed in one colour by the row and blocked by the column.
+L64 (7/10): The watering can reads as odd stripes and rows 4-6 are a large uniform block, which is mechanical. → Break up the body with a gap or handle so each colour cell needs a cross-check.
+L67 (7/10): Only two passes and 91% casual. It is easy to the point of being forgettable. → Add one small cross-check so it takes three passes.
+L70 (7/10): The stamp barely matters: column 8 fills outright, so the stamp is decorative and the leaf is near mirror. → Remove the stamp, or put it where a cross-check would be ambiguous.
+L75 (7/10): The hidden row is a repeating stud pattern, so little real inference. → Break the stud rhythm so each column's cell is a distinct deduction.
+L76 (7/10): The koi is lopsided and wide, with an empty top and bottom. → Tighten to 11x8 and give it a clearer silhouette.
+L81 (7/10): Casual 56% with this much clutter is a drop from L79-80 (89%, 76%). The stamp in a smudged column is easily missed. → Add a callout on the stamp, or give the player one more line that opens in the first pass.
+L82 (7/10): Casual 56%. The edge-versus-interior decision on row 7 is easy to guess wrongly. → Make the lantern strings (columns 1 and 13) read from the first pass so the edge cases are forced.
+L86 (7/10): Similar 'bound the ? by columns' beat to L85, and the mug is generic. → Make the ? span ambiguous at one end and bounded at the other.
+L87 (7/10): The vase silhouette is plain. Casual 66% early in the chapter is a step up. → Add asymmetry to the chip and one more bounding line.
+L88 (7/10): Casual 54% / skilled 87% and the tree/plate nest is cluttered, so it is the chapter's first spike. → Remove one bounding ambiguity and simplify the bridge.
+L91 (7/10): Same 'full rim rows pin the ?' logic as L86; it feels like a repeat with a different vessel. → Use a different silhouette (a leaf or boat) and a ? in a column.
+L97 (7/10): The chain is not a rule, so the teaching purpose is fuzzy, and the telescope is small. → Give it one clear 'pivot' column that visibly unlocks several rows.
+L103 (7/10): The 89% breather sits among ~55% neighbours, so it is a good relief, but it has a flat 'three exact lines' route with little aha. → Add one overlap-only column to keep it interesting.
+L111 (7/10): Casual drops from 83% to 56% in one step, and the single cracked column carries the whole level. → Add a second line that helps bound the ? or move it earlier.
+L112 (7/10): The horse's right half is empty/sparse and casual 54%. The ? is the only real idea. → Fill the horse's body and rebalance so the ? is bounded in two passes.
+L115 (7/10): Fine and clean, but a near-symmetric face with one notch. → Offset the beret or add a distinguishing detail to make it memorable.
+
+level-design score 7.6/10 — This is a strong, well-engineered set. All 120 boards are line-logic unique with a trap rate of 0. Each level states one idea, and the stated intent matches the board on every level I spot-checked. The ten chapters are organised the same way: teach, practise, boss at 6, breather at 7, finale at 12. The last-third casual win rate averages about 64%, which is on target. The weaknesses are these. The opening is too big and too slow (8x6 and 8x7 as levels 1-2, where the genre standard starts at 5x5). A few levels repeat an earlier insight (L19 and L14, L43 and L37, L51 and L50, L91 and L86). Several chapters have a "mechanic" that adds no new rule: Observatory's "deep-chain" is only a longer solve. The shape set is also fairly formulaic: symmetric vases, urns and bowls recur. Nothing in the set is broken, unfair or an isolated spike. The set is solid and polished, but it is more consistent than memorable.
+curve: Structure is clear. Each chapter is 12 levels with teach (1-2), practise (3-4), a twist (5), a boss (6), a breather (7), practise or twist (8-10), a combine level (11) and a finale (12). That is easy to read, but after ten chapters it is predictable.
+
+Opening: L1 (8x6, 13 optimal moves, 14 choices) and L2 (8x7) are too big for a first-ever nonogram. Start at 5x5. L3 is the first true overlap lesson, and L5 is a "twist" before the player has settled in. Move the twist to 8, where it already sits in the Regatta level.
+
+Mechanic introduction: it is good at the chapter level.
+- Colour arrives at L25.
+- Voids arrive at L37.
+- Stamps arrive at L49.
+- Colour-cross arrives at L61.
+- Smudged lines arrive at L73.
+- Cracked clues arrive at L85.
+- Combinations fill the last chapter.
+
+The chapter openers are cleanly isolated.
+
+Weak chapter: Observatory (L97-108). "Deep-chain" is not a new rule, only longer inference. It needs a distinct hook, such as a chapter-wide palette or a twist rule, so it does not feel like more of the same.
+
+Difficulty: the last third averages about 64% casual and skilled stays at 80-97%, which is on target. The chapter openers (L97 87%, L109 87%) work as relief. L111 (56%) follows L110 (83%) and L109 (87%), so it is a small step-up spike. Easy runs never exceed two levels in a row.
+
+Chapter 2, L19: the moth repeats L14's "4 4 fills nine with a notch" idea, and L43 repeats the L37 amphora urn. Replace them to keep the breather slots fresh.
